@@ -50,3 +50,17 @@ annotation-target: ch1.pdf
 >%%TAGS%%
 >#摘要
 ^ururo8bp67n
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T15:35:38.631Z","text":"直接用N/mm算就會得到MPA","updated":"2023-03-29T15:35:38.631Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":41071,"end":41091},{"type":"TextQuoteSelector","exact":"Average Normal Stres","prefix":"s within this region of the bar.","suffix":"s. Applying Eq. 1–6, we have sBC"}]}]}
+>```
+>%%
+>*%%PREFIX%%s within this region of the bar.%%HIGHLIGHT%% ==Average Normal Stres== %%POSTFIX%%s. Applying Eq. 1–6, we have sBC*
+>%%LINK%%[[#^6c3vzg16wsv|show annotation]]
+>%%COMMENT%%
+>直接用N/mm算就會得到MPA
+>%%TAGS%%
+>#例題, #計算注意
+^6c3vzg16wsv
