@@ -64,3 +64,34 @@ annotation-target: ch1.pdf
 >%%TAGS%%
 >#例題, #計算注意
 ^6c3vzg16wsv
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T15:49:42.191Z","text":"1-7\n先求合力 合力舉算氏\n再用N/A求第三算氏\n","updated":"2023-03-29T15:49:42.191Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== %%POSTFIX%%*
+>%%LINK%%[[#^i93lqjx434|show annotation]]
+>%%COMMENT%%
+>1-7
+>先求合力 合力舉算氏
+>再用N/A求第三算氏
+>
+>%%TAGS%%
+>#例題
+^i93lqjx434
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T15:52:42.385Z","updated":"2023-03-29T15:52:42.385Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":45994,"end":46099},{"type":"TextQuoteSelector","exact":" tavg = average shear stress at the section, which is assumed to be the same at each point on the section","prefix":"s defined by tavg =VA  (1–7)Here","suffix":" V = internal  resultant  shear "}]}]}
+>```
+>%%
+>*%%PREFIX%%s defined by tavg =VA  (1–7)Here%%HIGHLIGHT%% ==tavg = average shear stress at the section, which is assumed to be the same at each point on the section== %%POSTFIX%%V = internal  resultant  shear*
+>%%LINK%%[[#^gzseo1l5q4f|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^gzseo1l5q4f
