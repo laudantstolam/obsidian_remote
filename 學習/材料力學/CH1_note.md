@@ -187,3 +187,67 @@ annotation-target: ch1.pdf
 >%%TAGS%%
 >#公式
 ^exalc2dm3ju
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T16:58:19.818Z","text":"1-12\n樓上公式看一下\n記得她是求直徑\neasy拉","updated":"2023-03-29T16:58:19.818Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":76542,"end":76556},{"type":"TextQuoteSelector","exact":"eXaMPLe   1.12","prefix":"h a p t e r   1     S t r e S S1","suffix":"The control arm is subjected to "}]}]}
+>```
+>%%
+>*%%PREFIX%%h a p t e r   1     S t r e S S1%%HIGHLIGHT%% ==eXaMPLe   1.12== %%POSTFIX%%The control arm is subjected to*
+>%%LINK%%[[#^or7s9g4pivo|show annotation]]
+>%%COMMENT%%
+>1-12
+>樓上公式看一下
+>記得她是求直徑
+>easy拉
+>%%TAGS%%
+>#例題
+^or7s9g4pivo
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T17:05:59.255Z","text":"1-13\nthickness看一下\n為何2pir??\n**","updated":"2023-03-29T17:05:59.255Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":78588,"end":78605},{"type":"TextQuoteSelector","exact":"Thickness of Disk","prefix":"o that d =0.0206 m =20.6 mm Ans.","suffix":". As shown on the free-body diag"}]}]}
+>```
+>%%
+>*%%PREFIX%%o that d =0.0206 m =20.6 mm Ans.%%HIGHLIGHT%% ==Thickness of Disk== %%POSTFIX%%. As shown on the free-body diag*
+>%%LINK%%[[#^yt0iqv56xm|show annotation]]
+>%%COMMENT%%
+>1-13
+>thickness看一下
+>為何2pir??
+>**
+>%%TAGS%%
+>#問題, #例題
+^yt0iqv56xm
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T17:12:29.398Z","text":"1-14\n再跑一次就OK了","updated":"2023-03-29T17:12:29.398Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":79402,"end":79416},{"type":"TextQuoteSelector","exact":"eXaMPLe   1.14","prefix":"earing caused by boltTop viewP P","suffix":"Determine  the  largest  load  P"}]}]}
+>```
+>%%
+>*%%PREFIX%%earing caused by boltTop viewP P%%HIGHLIGHT%% ==eXaMPLe   1.14== %%POSTFIX%%Determine  the  largest  load  P*
+>%%LINK%%[[#^28nunn3ar3p|show annotation]]
+>%%COMMENT%%
+>1-14
+>再跑一次就OK了
+>%%TAGS%%
+>#例題, #重算
+^28nunn3ar3p
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T17:18:31.195Z","text":"1-15\n注意這個參數要乘進去","updated":"2023-03-29T17:18:31.195Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":83582,"end":83605},{"type":"TextQuoteSelector","exact":"esistance factor f =0.9","prefix":"nal strength is defined by the r","suffix":", we requirefPn Ú FAC;  0.9[345("}]}]}
+>```
+>%%
+>*%%PREFIX%%nal strength is defined by the r%%HIGHLIGHT%% ==esistance factor f =0.9== %%POSTFIX%%, we requirefPn Ú FAC;  0.9[345(*
+>%%LINK%%[[#^p0thx6ib8e9|show annotation]]
+>%%COMMENT%%
+>1-15
+>注意這個參數要乘進去
+>%%TAGS%%
+>#例題
+^p0thx6ib8e9
