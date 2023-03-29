@@ -66,13 +66,60 @@ annotation-target: ch1.pdf
 ^6c3vzg16wsv
 
 
+
 >%%
 >```annotation-json
->{"created":"2023-03-29T15:49:42.191Z","text":"1-7\n先求合力 合力舉算氏\n再用N/A求第三算氏\n","updated":"2023-03-29T15:49:42.191Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}
+>{"text":"由平衡方程確定的截面上的內部合成剪力。","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":45994,"end":46099},{"type":"TextQuoteSelector","exact":" tavg = average shear stress at the section, which is assumed to be the same at each point on the section","prefix":"s defined by tavg =VA  (1–7)Here","suffix":"V = internal  resultant  shear"}]}],"created":"2023-03-29T15:52:42.385Z","updated":"2023-03-29T15:52:42.385Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}
 >```
 >%%
->*%%PREFIX%%%%HIGHLIGHT%% ==== %%POSTFIX%%*
->%%LINK%%[[#^i93lqjx434|show annotation]]
+>*%%PREFIX%%s defined by tavg =VA  (1–7)Here%%HIGHLIGHT%% ==tavg = average shear stress at the section, which is assumed to be the same at each point on the section== %%POSTFIX%%V = internal  resultant  shear*
+>%%LINK%%[[#^gzseo1l5q4f|show annotation]]
+>%%COMMENT%%
+>由平衡方程確定的截面上的內部合成剪力。
+>%%TAGS%%
+>#公式
+^gzseo1l5q4f
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T16:10:03.415Z","text":"1-9\n先求合力矩\n再由XY分力求FA\n**記得要分力加起來","updated":"2023-03-29T16:10:03.415Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":50962,"end":50980},{"type":"TextQuoteSelector","exact":"Internal  Loadings","prefix":" the beam in Fig. 1–21a.SOLUTION","suffix":". The  forces  on  the  pins  ca"}]}]}
+>```
+>%%
+>*%%PREFIX%%the beam in Fig. 1–21a.SOLUTION%%HIGHLIGHT%% ==Internal  Loadings== %%POSTFIX%%. The  forces  on  the  pins  ca*
+>%%LINK%%[[#^5rf3nmwklj|show annotation]]
+>%%COMMENT%%
+>1-9
+>先求合力矩
+>再由XY分力求FA
+>**記得要分力加起來
+>%%TAGS%%
+>#例題, #重算
+^5rf3nmwklj
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T16:15:18.741Z","text":"所以除二","updated":"2023-03-29T16:15:18.741Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":51641,"end":51716},{"type":"TextQuoteSelector","exact":"supported by shear force on each of two surfaces, it is called double shear","prefix":" kN)  acting  on  the  pin  is  ","suffix":". Thus,VA =FA2 =21.36 kN2 =10.68"}]}]}
+>```
+>%%
+>*%%PREFIX%%kN)  acting  on  the  pin  is%%HIGHLIGHT%% ==supported by shear force on each of two surfaces, it is called double shear== %%POSTFIX%%. Thus,VA =FA2 =21.36 kN2 =10.68*
+>%%LINK%%[[#^yihh14q799c|show annotation]]
+>%%COMMENT%%
+>所以除二
+>%%TAGS%%
+>
+^yihh14q799c
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T16:21:55.988Z","text":"1-7\n先求合力 合力舉算氏\n再用N/A求第三算氏\n","updated":"2023-03-29T16:21:55.988Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":41489,"end":41502},{"type":"TextQuoteSelector","exact":"eXaMPLe   1.6","prefix":"S iN aN axially loaDeD bar  4 71","suffix":"The  80-kg  lamp  is  supported "}]}]}
+>```
+>%%
+>*%%PREFIX%%S iN aN axially loaDeD bar  4 71%%HIGHLIGHT%% ==eXaMPLe   1.6== %%POSTFIX%%The  80-kg  lamp  is  supported*
+>%%LINK%%[[#^a7tmiv79j5|show annotation]]
 >%%COMMENT%%
 >1-7
 >先求合力 合力舉算氏
@@ -80,18 +127,63 @@ annotation-target: ch1.pdf
 >
 >%%TAGS%%
 >#例題
-^i93lqjx434
+^a7tmiv79j5
 
 
 >%%
 >```annotation-json
->{"created":"2023-03-29T15:52:42.385Z","updated":"2023-03-29T15:52:42.385Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":45994,"end":46099},{"type":"TextQuoteSelector","exact":" tavg = average shear stress at the section, which is assumed to be the same at each point on the section","prefix":"s defined by tavg =VA  (1–7)Here","suffix":" V = internal  resultant  shear "}]}]}
+>{"created":"2023-03-29T16:28:56.531Z","text":"注意average shear stress的面方向","updated":"2023-03-29T16:28:56.531Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":52198,"end":52212},{"type":"TextQuoteSelector","exact":"eXaMPLe   1.10","prefix":"h a p t e r   1     S t r e S S1","suffix":"If  the  wood  joint  in  Fig.  "}]}]}
 >```
 >%%
->*%%PREFIX%%s defined by tavg =VA  (1–7)Here%%HIGHLIGHT%% ==tavg = average shear stress at the section, which is assumed to be the same at each point on the section== %%POSTFIX%%V = internal  resultant  shear*
->%%LINK%%[[#^gzseo1l5q4f|show annotation]]
+>*%%PREFIX%%h a p t e r   1     S t r e S S1%%HIGHLIGHT%% ==eXaMPLe   1.10== %%POSTFIX%%If  the  wood  joint  in  Fig.*
+>%%LINK%%[[#^b48ac299cdt|show annotation]]
 >%%COMMENT%%
->
+>注意average shear stress的面方向
 >%%TAGS%%
->
-^gzseo1l5q4f
+>#例題
+^b48ac299cdt
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T16:34:10.787Z","text":"1-1\n看過面的方向就好","updated":"2023-03-29T16:34:10.787Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":53193,"end":53207},{"type":"TextQuoteSelector","exact":"eXaMPLe   1.11","prefix":"Pa 1.5 average Shear StreSS 5 51","suffix":"The inclined member in Fig. 1–23"}]}]}
+>```
+>%%
+>*%%PREFIX%%Pa 1.5 average Shear StreSS 5 51%%HIGHLIGHT%% ==eXaMPLe   1.11== %%POSTFIX%%The inclined member in Fig. 1–23*
+>%%LINK%%[[#^mjm44pxkiia|show annotation]]
+>%%COMMENT%%
+>1-1
+>看過面的方向就好
+>%%TAGS%%
+>#例題
+^mjm44pxkiia
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T16:35:09.147Z","text":"結構最大應力","updated":"2023-03-29T16:35:09.147Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":67970,"end":67993},{"type":"TextQuoteSelector","exact":"allowablE StrESS dESIgn","prefix":"p t e r   1     S t r e S S11.6 ","suffix":"To ensure the safety of a struct"}]}]}
+>```
+>%%
+>*%%PREFIX%%p t e r   1     S t r e S S11.6%%HIGHLIGHT%% ==allowablE StrESS dESIgn== %%POSTFIX%%To ensure the safety of a struct*
+>%%LINK%%[[#^7vnl1opaq4i|show annotation]]
+>%%COMMENT%%
+>結構最大應力
+>%%TAGS%%
+>#公式
+^7vnl1opaq4i
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-29T16:38:26.398Z","text":"P=F/A變形\n最好背一下","updated":"2023-03-29T16:38:26.398Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:4ad14136645fb447bd3517244005b142"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf"}],"documentFingerprint":"4ad14136645fb447bd3517244005b142"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch1.pdf","selector":[{"type":"TextPositionSelector","start":70484,"end":70502},{"type":"TextQuoteSelector","exact":"Simple Connections","prefix":"mic considerations on the other.","suffix":". By making simplifying assumpti"}]}]}
+>```
+>%%
+>*%%PREFIX%%mic considerations on the other.%%HIGHLIGHT%% ==Simple Connections== %%POSTFIX%%. By making simplifying assumpti*
+>%%LINK%%[[#^exalc2dm3ju|show annotation]]
+>%%COMMENT%%
+>P=F/A變形
+>最好背一下
+>%%TAGS%%
+>#公式
+^exalc2dm3ju
