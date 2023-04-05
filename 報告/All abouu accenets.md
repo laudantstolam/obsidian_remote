@@ -19,3 +19,11 @@ ppl in all countries use different language
 ![](https://picsum.photos/id/1025/250/250) 
 </split>
 ---
+## <font color="#4f81bd">Cockney</font>
+---
+## <font color="#4f81bd">RP</font>
+---
+
+---
+
+---
