@@ -1,6 +1,4 @@
 ---
-quickshare-date: "N/A"
-quickshare-url: "Removed"
 slideNumber: true
 ---
 # Accents
