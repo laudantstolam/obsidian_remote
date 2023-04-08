@@ -163,3 +163,60 @@ annotation-target: ch2.pdf
 >%%TAGS%%
 >#例題
 ^6ojw89zxqim
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-08T14:21:04.131Z","updated":"2023-04-08T14:21:04.131Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:d6ade89f20be5c41b9e030c14ef7be78"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf"}],"documentFingerprint":"d6ade89f20be5c41b9e030c14ef7be78"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf","selector":[{"type":"TextPositionSelector","start":14886,"end":14890},{"type":"TextQuoteSelector","exact":"2–9.","prefix":" mm3 mm150 mmyx200 mmBAProb. 2–8","suffix":" The  square  deforms  into  the"}]}]}
+>```
+>%%
+>*%%PREFIX%%mm3 mm150 mmyx200 mmBAProb. 2–8%%HIGHLIGHT%% ==2–9.== %%POSTFIX%%The  square  deforms  into  the*
+>%%LINK%%[[#^aw837rm3ymn|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#hw_matirial
+^aw837rm3ymn
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-08T14:22:20.374Z","updated":"2023-04-08T14:22:20.374Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:d6ade89f20be5c41b9e030c14ef7be78"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf"}],"documentFingerprint":"d6ade89f20be5c41b9e030c14ef7be78"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf","selector":[{"type":"TextPositionSelector","start":17390,"end":17394},{"type":"TextQuoteSelector","exact":"2–19","prefix":"30 mm30 mm110 mm15 mmAProb. 2–18","suffix":". Nylon strips are fused to glas"}]}]}
+>```
+>%%
+>*%%PREFIX%%30 mm30 mm110 mm15 mmAProb. 2–18%%HIGHLIGHT%% ==2–19== %%POSTFIX%%. Nylon strips are fused to glas*
+>%%LINK%%[[#^btdsbnrm9xn|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#hw_matirial
+^btdsbnrm9xn
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-08T14:23:17.722Z","updated":"2023-04-08T14:23:17.722Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:d6ade89f20be5c41b9e030c14ef7be78"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf"}],"documentFingerprint":"d6ade89f20be5c41b9e030c14ef7be78"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf","selector":[{"type":"TextPositionSelector","start":18366,"end":18370},{"type":"TextQuoteSelector","exact":"2–22","prefix":"h a p t e r   2     S t r a i n2","suffix":". The  corners  B  and  D  of  t"}]}]}
+>```
+>%%
+>*%%PREFIX%%h a p t e r   2     S t r a i n2%%HIGHLIGHT%% ==2–22== %%POSTFIX%%. The  corners  B  and  D  of  t*
+>%%LINK%%[[#^0a52wqmjm4w7|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#hw_matirial
+^0a52wqmjm4w7
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-08T14:23:32.496Z","updated":"2023-04-08T14:23:32.496Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:d6ade89f20be5c41b9e030c14ef7be78"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf"}],"documentFingerprint":"d6ade89f20be5c41b9e030c14ef7be78"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch2.pdf","selector":[{"type":"TextPositionSelector","start":19417,"end":19421},{"type":"TextQuoteSelector","exact":"2–29","prefix":"rmal strain Px along the x axis.","suffix":". The triangular plate is fixed "}]}]}
+>```
+>%%
+>*%%PREFIX%%rmal strain Px along the x axis.%%HIGHLIGHT%% ==2–29== %%POSTFIX%%. The triangular plate is fixed*
+>%%LINK%%[[#^yc166qosq8|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#hw_matirial
+^yc166qosq8
