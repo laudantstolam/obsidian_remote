@@ -207,7 +207,8 @@ TippingPoint開發領先業界的網路入侵預防系統(Intrusion Prevention S
 
 [[Day23] 攻擊行為－緩衝區溢位 Buffer Overflow - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天 (ithome.com.tw)](https://ithelp.ithome.com.tw/articles/10188599)
 
-##### jreiojgi
+##### 跨網站指令碼（Cross-site scripting，XSS）
+是一種網站應用程式的安全漏洞攻擊，是代碼注入的一種。 它允許惡意使用者將程式碼注入到網頁上，其他使用者在觀看網頁時就會受到影響。 這類攻擊通常包含了HTML以及使用者端手稿語言。
 
 
 
