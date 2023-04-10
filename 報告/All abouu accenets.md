@@ -22,6 +22,14 @@ ppl in all countries use different language
 ## <font color="#4f81bd">RP</font>
 ---
 
+modern RP v.s posh
+
+https://youtu.be/Nj0Rh__1kDw?t=99
+
 ---
+
+- good enunciation
+- wide range of vocab
+- correct grammer
 
 ---
