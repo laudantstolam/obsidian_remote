@@ -3,11 +3,10 @@ slideNumber: true
 ---
 # Accents
 
-
 ---
-pronounceatioin
----
-#### Hello from Cover Page
+|<font color="#b2a2c7"> accent</font>     | <font color="#fac08f">dialects </font>    |
+|:-----|:-----|
+|  <font color="#b2a2c7">pronounce</font>  |  <font color="#fac08f">words used in certain area</font>    |
 
 ---
 <split even>
@@ -18,6 +17,10 @@ pronounceatioin
 </split>
 ---
 ## <font color="#4f81bd">Cockney</font>
+---
+
+![[cockney_doctor.mp3]]
+![[cockney_longconv.mp3]]
 ---
 ## <font color="#4f81bd">RP</font>
 ---
@@ -43,3 +46,16 @@ e.g.
 |   power   |  <font color="#4bacc6">power(pa)</font>    | /a,℧,∃/ >> /a:/|
 
 ---
+|      |      |
+|:-----|:-----|
+|   jolly   | very     |
+|chap|man|
+
+https://youtu.be/-iW7HxCi5d4?t=168
+---
+- clearity
+- pace
+- volume
+
+---
+
