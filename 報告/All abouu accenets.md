@@ -2,10 +2,10 @@
 slideNumber: true
 ---
 # Accents
-ppl in all countries use different language
+
 
 ---
-# Region
+pronounceatioin
 ---
 #### Hello from Cover Page
 
@@ -37,8 +37,9 @@ https://youtu.be/Nj0Rh__1kDw?t=99
 e.g.
 | modern RP  |  <font color="#4bacc6">upper RP</font>   | |
 |:-----|:-----|:-----|
-|  harry    | <font color="#4bacc6"> harry </font>   |/ae/ >> /e/|
-|  very    |  <font color="#4bacc6">very</font>   | /e/ >> /i/|
-|      |      ||
-|      |      ||
-|      |      ||
+|harry|<font color="#4bacc6"> harry(hari) </font>   |/ae/ >> /e/|
+|horror|<font color="#4bacc6">horror(hola)</font>| /ae/ >> /e/ |
+|  very    |  <font color="#4bacc6">very(veri)</font>   | /e/ >> /i/|
+|   power   |  <font color="#4bacc6">power(pa)</font>    | /a,℧,∃/ >> /a:/|
+
+---
