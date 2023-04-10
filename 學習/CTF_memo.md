@@ -66,5 +66,18 @@ SSDLC
 實體數據中心
 
 -----
-軟體定義網路
-[davidchen0970 (hackmd.io)](https://hackmd.io/@91UWhfTFSYS7v0K-bURk6A)
+### 密碼學
+
+經典密碼學
+	經典密碼大致上分為替換式密碼和移項式密碼
+
+- 凱薩密碼
+
+	關鍵字:cipher
+	`一般字母: a b c d e f g h i j k l m n o p q r s t u v w x y z`
+	`密碼字母: c i p h e r s t u v w x y z a b d f g j k l m n o q
+
+- 維吉尼亞密碼
+- 
+---
+撞庫攻擊>利用在別的網站上登錄洩漏出的密碼進行第四方登入破解
