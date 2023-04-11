@@ -210,6 +210,13 @@ TippingPoint開發領先業界的網路入侵預防系統(Intrusion Prevention S
 ##### 跨網站指令碼（Cross-site scripting，XSS）
 是一種網站應用程式的安全漏洞攻擊，是代碼注入的一種。 它允許惡意使用者將程式碼注入到網頁上，其他使用者在觀看網頁時就會受到影響。 這類攻擊通常包含了HTML以及使用者端手稿語言。
 
+---
+![image.png](https://raw.githubusercontent.com/laudantstolam/imagesource/main/ctf1.png)
+---
+[RAID 磁碟陣列是什麼？一篇文章就理解（2022年最新） - 凌威科技 (linwei.com.tw)](https://www.linwei.com.tw/forum-detail/45/)
+
+---
+
 
 
 
