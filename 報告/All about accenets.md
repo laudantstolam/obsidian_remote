@@ -4,6 +4,13 @@ slideNumber: true
 # Accents
 
 ---
+
+outline
+
+- accent and dialects
+- differ acceent and their features
+- vocalism and voice posotion in different language
+---
 |<font color="#b2a2c7"> accent</font>     | <font color="#fac08f">dialects </font>    |
 |:-----|:-----|
 |  <font color="#b2a2c7">pronounce</font>  |  <font color="#fac08f">words used in certain area</font>    |
@@ -15,6 +22,32 @@ slideNumber: true
 ![](https://picsum.photos/id/1010/250/250) 
 ![](https://picsum.photos/id/1025/250/250) 
 </split>
+
+---
+1. accent+dialects
+2. differ accents with their feature
+	british
+		RP
+		POSH
+		COCKNEY
+	canada
+	spanish
+	Aussie
+	european(poland)
+	ASIA
+		vietnam
+		fillapine
+		indonisia
+		india
+3. vocalism and Voice position
+	american EG>>(well pronounced) flat mouth
+	british>>middle of mouth
+	japanese>>lips
+	Chinese>>all
+	-resonance 共鳴
+---
+![pbgssj2e68h31.jpg (2780×3240) (redd.it)](https://i.redd.it/pbgssj2e68h31.jpg)
+
 ---
 ## <font color="#4f81bd">Cockney</font>
 ---
@@ -46,10 +79,13 @@ e.g.
 |   power   |  <font color="#4bacc6">power(pa)</font>    | /a,℧,∃/ >> /a:/|
 
 ---
+
 |      |      |
 |:-----|:-----|
 |   jolly   | very     |
 |chap|man|
+|<font color="#e5b9b7">bants</font>|<font color="#e5b9b7">chill out</font>|
+|<font color="#e5b9b7">mate</font>|<font color="#e5b9b7">pal</font>|
 
 https://youtu.be/-iW7HxCi5d4?t=168
 ---
@@ -58,4 +94,18 @@ https://youtu.be/-iW7HxCi5d4?t=168
 - volume
 
 ---
+## <font color="#4f81bd">Aussie(OZ)</font>
+---
 
+'boutfood
+/ae/ e.g>>today to die
+
+|||
+|:---|:---|
+|Hungry Jack’s| 漢堡王|
+|MaKee|麥當勞|
+|thingy|thing|
+|lolly|candy|
+|brekkie|breakfast|
+
+---
