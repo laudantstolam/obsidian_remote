@@ -116,3 +116,32 @@ annotation-target: ch4.pdf
 >%%TAGS%%
 >
 ^rhamska8hxk
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-17T21:51:41.746Z","text":"看筆記\n利用相等特性相加聯立求解","updated":"2023-04-17T21:51:41.746Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":35657,"end":35670},{"type":"TextQuoteSelector","exact":"EXAMPLE   4.5","prefix":" so that FB =0  and FA  = 20 kN.","suffix":" 400 mm 800 mmA B¿C BP \u001f 20 kN(a"}]}]}
+>```
+>%%
+>*%%PREFIX%%so that FB =0  and FA  = 20 kN.%%HIGHLIGHT%% ==EXAMPLE   4.5== %%POSTFIX%%400 mm 800 mmA B¿C BP  20 kN(a*
+>%%LINK%%[[#^vjqgleszwb|show annotation]]
+>%%COMMENT%%
+>看筆記
+>利用相等特性相加聯立求解
+>%%TAGS%%
+>#例題
+^vjqgleszwb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-17T21:52:22.970Z","text":"形變量等同的標準題","updated":"2023-04-17T21:52:22.970Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":37138,"end":37151},{"type":"TextQuoteSelector","exact":"EXAMPLE   4.6","prefix":"ns  are  shown  in   Fig. 4–12c.","suffix":"Fig. 4–120.5 mP  45 kN(a)25 mm50"}]}]}
+>```
+>%%
+>*%%PREFIX%%ns  are  shown  in   Fig. 4–12c.%%HIGHLIGHT%% ==EXAMPLE   4.6== %%POSTFIX%%Fig. 4–120.5 mP  45 kN(a)25 mm50*
+>%%LINK%%[[#^j33kmk6q4ef|show annotation]]
+>%%COMMENT%%
+>形變量等同的標準題
+>%%TAGS%%
+>#例題, #重算
+^j33kmk6q4ef
