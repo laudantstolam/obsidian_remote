@@ -1,12 +1,20 @@
 ---
 slideNumber: true
 ---
-# Accents
+
+<!-- .slide: data-auto-animate -->
+# Accent
+
+---
+<!-- .slide: data-auto-animate -->
+
+# Accent
+##### accent and dialects 
+###### *Ashley - 20230508*
 
 ---
 
-outline
-
+### <font color="#d99694">outline</font>
 - accent and dialects
 - differ acceent and their features
 - vocalism and voice posotion in different language
@@ -60,13 +68,16 @@ outline
 
 modern RP v.s posh(old fashion upper RP)
 
-https://youtu.be/Nj0Rh__1kDw?t=99
+
+
+<iframe width="1000" height="400" src="https://www.youtube.com/embed/Nj0Rh__1kDw?start=96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
+
 - good enunciation
-- wide range of vocab
-- correct grammer
++ wide range of vocab
++ correct grammer
 
 ---
 
@@ -110,6 +121,5 @@ https://youtu.be/-iW7HxCi5d4?t=168
 
 ---
 
----
 
 
