@@ -154,3 +154,69 @@ annotation-target: DataStructure_Lecture_05_stack&queue.pdf
 >%%TAGS%%
 >
 ^t2fm0ugv4q
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-17T05:31:47.871Z","text":"1.=-+a*bc/de\n3.=^^ABC","updated":"2023-04-17T05:31:47.871Z","document":{"title":"Data Structure","link":[{"href":"urn:x-pdf:725d62cb49de1c4290812d8fa1ea1b6a"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf"}],"documentFingerprint":"725d62cb49de1c4290812d8fa1ea1b6a"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf","selector":[{"type":"TextPositionSelector","start":13395,"end":13408},{"type":"TextQuoteSelector","exact":"Infix →Prefix","prefix":"NT) INFIX TO PREFIX CONVERSION• ","suffix":"(1) a+b*c-d/e(2) (a+b)*(c-d)/(e*"}]}]}
+>```
+>%%
+>*%%PREFIX%%NT) INFIX TO PREFIX CONVERSION•%%HIGHLIGHT%% ==Infix →Prefix== %%POSTFIX%%(1) a+b*c-d/e(2) (a+b)*(c-d)/(e**
+>%%LINK%%[[#^pxjq15fq63b|show annotation]]
+>%%COMMENT%%
+>1.=-+a*bc/de
+>3.=^^ABC
+>%%TAGS%%
+>
+^pxjq15fq63b
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-17T05:40:29.478Z","text":"``\n2.\n=a*(b+(c*d))/e-f\n=a*(b+c*d)/e-f\n``","updated":"2023-04-17T05:40:29.478Z","document":{"title":"Data Structure","link":[{"href":"urn:x-pdf:725d62cb49de1c4290812d8fa1ea1b6a"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf"}],"documentFingerprint":"725d62cb49de1c4290812d8fa1ea1b6a"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf","selector":[{"type":"TextPositionSelector","start":13486,"end":13499},{"type":"TextQuoteSelector","exact":"Prefix →Infix","prefix":"4) ~(A>B) and (C or D<E) or ~F• ","suffix":"(1) +*/ab-+cde-fg(2) -/*a+b*cdef"}]}]}
+>```
+>%%
+>*%%PREFIX%%4) ~(A>B) and (C or D<E) or ~F•%%HIGHLIGHT%% ==Prefix →Infix== %%POSTFIX%%(1) +*/ab-+cde-fg(2) -/*a+b*cdef*
+>%%LINK%%[[#^kw4tylue9m|show annotation]]
+>%%COMMENT%%
+>``
+>2.
+>=a*(b+(c*d))/e-f
+>=a*(b+c*d)/e-f
+>``
+>%%TAGS%%
+>
+^kw4tylue9m
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-17T05:46:28.457Z","text":"1. abc*+de/-\n或是abc*de/-+>>先減再加\n2.ab+cd-*ef*g^\n4.=(~(A<B)and(C and D<E)or ~F)\n=AB>~CDE<or and F~ or","updated":"2023-04-17T05:46:28.457Z","document":{"title":"Data Structure","link":[{"href":"urn:x-pdf:725d62cb49de1c4290812d8fa1ea1b6a"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf"}],"documentFingerprint":"725d62cb49de1c4290812d8fa1ea1b6a"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf","selector":[{"type":"TextPositionSelector","start":12913,"end":12927},{"type":"TextQuoteSelector","exact":"Infix →Postfix","prefix":"t unstackedRULESRULES (CONT’D)• ","suffix":"(1) a+b*c-d/e(2) (a+b)*(c-d)/(e*"}]}]}
+>```
+>%%
+>*%%PREFIX%%t unstackedRULESRULES (CONT’D)•%%HIGHLIGHT%% ==Infix →Postfix== %%POSTFIX%%(1) a+b*c-d/e(2) (a+b)*(c-d)/(e**
+>%%LINK%%[[#^dslp2w6ywqk|show annotation]]
+>%%COMMENT%%
+>1. abc*+de/-
+>或是abc*de/-+>>先減再加
+>2.ab+cd-*ef*g^
+>4.=(~(A<B)and(C and D<E)or ~F)
+>=AB>~CDE<or and F~ or
+>%%TAGS%%
+>
+^dslp2w6ywqk
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-17T05:47:52.438Z","text":"1.\na/(b-c+d)*(e-a)*c","updated":"2023-04-17T05:47:52.438Z","document":{"title":"Data Structure","link":[{"href":"urn:x-pdf:725d62cb49de1c4290812d8fa1ea1b6a"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf"}],"documentFingerprint":"725d62cb49de1c4290812d8fa1ea1b6a"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf","selector":[{"type":"TextPositionSelector","start":13005,"end":13019},{"type":"TextQuoteSelector","exact":"Postfix →Infix","prefix":"4) ~(A>B) and (C or D<E) or ~F• ","suffix":"(1) abc-d+/ea-*c*(2) ABCDE-+^*EF"}]}]}
+>```
+>%%
+>*%%PREFIX%%4) ~(A>B) and (C or D<E) or ~F•%%HIGHLIGHT%% ==Postfix →Infix== %%POSTFIX%%(1) abc-d+/ea-*c*(2) ABCDE-+^*EF*
+>%%LINK%%[[#^6avmtvh46g3|show annotation]]
+>%%COMMENT%%
+>1.
+>a/(b-c+d)*(e-a)*c
+>%%TAGS%%
+>
+^6avmtvh46g3
