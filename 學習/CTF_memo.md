@@ -221,3 +221,6 @@ TippingPoint開發領先業界的網路入侵預防系統(Intrusion Prevention S
 
 
 
+$ \displaystyle\sum_{ i =  1  }^{ n  } \left( \right) $
+
+
