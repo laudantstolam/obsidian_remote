@@ -30,3 +30,31 @@ annotation-target: ch5.pdf
 >%%TAGS%%
 >
 ^0vlumvzxwjce
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T11:42:05.422Z","text":"重要公式","updated":"2023-04-19T11:42:05.422Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:81ffbe92b7d76f41b6cd355338b1cb91"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf"}],"documentFingerprint":"81ffbe92b7d76f41b6cd355338b1cb91"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","selector":[{"type":"TextPositionSelector","start":5258,"end":5260},{"type":"TextQuoteSelector","exact":"5–","prefix":"mpact form, namely, tmax =TcJ  (","suffix":"6)Heretmax =  the  maximum  shea"}]}]}
+>```
+>%%
+>*%%PREFIX%%mpact form, namely, tmax =TcJ  (%%HIGHLIGHT%% ==5–== %%POSTFIX%%6)Heretmax =  the  maximum  shea*
+>%%LINK%%[[#^a4ji10qu8or|show annotation]]
+>%%COMMENT%%
+>重要公式
+>%%TAGS%%
+>#公式
+^a4ji10qu8or
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T11:42:22.689Z","text":"跟5.6合併使用","updated":"2023-04-19T11:42:22.689Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:81ffbe92b7d76f41b6cd355338b1cb91"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf"}],"documentFingerprint":"81ffbe92b7d76f41b6cd355338b1cb91"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","selector":[{"type":"TextPositionSelector","start":6666,"end":6668},{"type":"TextQuoteSelector","exact":"–8","prefix":" dr =2pa14 br4 `c0 J =p2  c4  (5","suffix":")Solid SectionNote that J is alw"}]}]}
+>```
+>%%
+>*%%PREFIX%%dr =2pa14 br4 `c0 J =p2  c4  (5%%HIGHLIGHT%% ==–8== %%POSTFIX%%)Solid SectionNote that J is alw*
+>%%LINK%%[[#^5gfnheqpbcm|show annotation]]
+>%%COMMENT%%
+>跟5.6合併使用
+>%%TAGS%%
+>#公式
+^5gfnheqpbcm
