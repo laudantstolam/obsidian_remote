@@ -145,3 +145,22 @@ annotation-target: ch4.pdf
 >%%TAGS%%
 >#例題, #重算
 ^j33kmk6q4ef
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T00:34:17.648Z","text":"講義4.4\n\n1. 假設P能將B推到B'\n2.利用力總和和型變公式解聯立\n* 注意型變量是長的減去短的\n","updated":"2023-04-19T00:34:17.648Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":42894,"end":42907},{"type":"TextQuoteSelector","exact":"EXAMPLE   4.9","prefix":"e r   4     a x i a l   l o a d4","suffix":"The A-36 steel rod shown in Fig."}]}]}
+>```
+>%%
+>*%%PREFIX%%e r   4     a x i a l   l o a d4%%HIGHLIGHT%% ==EXAMPLE   4.9== %%POSTFIX%%The A-36 steel rod shown in Fig.*
+>%%LINK%%[[#^spxtvgmf34|show annotation]]
+>%%COMMENT%%
+>講義4.4
+>
+>1. 假設P能將B推到B'
+>2.利用力總和和型變公式解聯立
+>* 注意型變量是長的減去短的
+>
+>%%TAGS%%
+>#例題
+^spxtvgmf34
