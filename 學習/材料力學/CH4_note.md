@@ -285,3 +285,38 @@ annotation-target: ch4.pdf
 >%%TAGS%%
 >
 ^jqpex6gi8s
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T08:17:14.099Z","text":"應力=K*(F/A)\nA是截面積\n\n這裡 Np 等於應力分佈中包含的「體積」， 在這種情況下是 Np = sYA. 2 毫米 40 毫米 4 毫米 N 4 毫米 （一） N （二） 250 兆帕9.14 千牛 （三） 250 兆帕 NP 。","updated":"2023-04-19T08:17:14.099Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":84694,"end":84708},{"type":"TextQuoteSelector","exact":"EXAMPLE   4.13","prefix":"e r   4     a x i a l   l o a d4","suffix":"The  bar  in  Fig.  4–28a  is  m"}]}]}
+>```
+>%%
+>*%%PREFIX%%e r   4     a x i a l   l o a d4%%HIGHLIGHT%% ==EXAMPLE   4.13== %%POSTFIX%%The  bar  in  Fig.  4–28a  is  m*
+>%%LINK%%[[#^4l0mwojf6jb|show annotation]]
+>%%COMMENT%%
+>應力=K*(F/A)
+>A是截面積
+>
+>這裡 Np 等於應力分佈中包含的「體積」， 在這種情況下是 Np = sYA. 2 毫米 40 毫米 4 毫米 N 4 毫米 （一） N （二） 250 兆帕9.14 千牛 （三） 250 兆帕 NP 。
+>%%TAGS%%
+>
+^4l0mwojf6jb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T08:34:13.651Z","text":"1. T+T2=W=15K 注意兩個T不一樣\n1. T也等於$\\sigma_y A_{AB}$ =150MPa\n1. 利用圖表的比例算$\\epsilon$\n1. 注意短編的變形量要加上長度差值\n","updated":"2023-04-19T08:34:13.651Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":86356,"end":86370},{"type":"TextQuoteSelector","exact":"EXAMPLE   4.14","prefix":" 4–284 4.9 residual stress 1 8 7","suffix":"Two steel wires are used to lift"}]}]}
+>```
+>%%
+>*%%PREFIX%%4–284 4.9 residual stress 1 8 7%%HIGHLIGHT%% ==EXAMPLE   4.14== %%POSTFIX%%Two steel wires are used to lift*
+>%%LINK%%[[#^i5s86g465de|show annotation]]
+>%%COMMENT%%
+>1. T+T2=W=15K 注意兩個T不一樣
+>1. T也等於$\sigma_y A_{AB}$ =150MPa
+>1. 利用圖表的比例算$\epsilon$
+>1. 注意短編的變形量要加上長度差值
+>
+>%%TAGS%%
+>#重算
+^i5s86g465de
