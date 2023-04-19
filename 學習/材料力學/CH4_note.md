@@ -181,3 +181,49 @@ annotation-target: ch4.pdf
 >%%TAGS%%
 >
 ^efgq9zqsbla
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T06:27:21.125Z","text":"1. 2力平衡\n1. 館子拉長同時羅母下壓 兩個抵銷後剩0.5*10^-3\n1. 帶入力平和公式\n1. 各自求力","updated":"2023-04-19T06:27:21.125Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":38688,"end":38701},{"type":"TextQuoteSelector","exact":"EXAMPLE   4.8","prefix":"e r   4     a x i a l   l o a d4","suffix":"The bolt shown in Fig. 4–14a is "}]}]}
+>```
+>%%
+>*%%PREFIX%%e r   4     a x i a l   l o a d4%%HIGHLIGHT%% ==EXAMPLE   4.8== %%POSTFIX%%The bolt shown in Fig. 4–14a is*
+>%%LINK%%[[#^0hkt78ggi1sh|show annotation]]
+>%%COMMENT%%
+>1. 2力平衡
+>1. 館子拉長同時羅母下壓 兩個抵銷後剩0.5*10^-3
+>1. 帶入力平和公式
+>1. 各自求力
+>%%TAGS%%
+>
+^0hkt78ggi1sh
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T06:38:14.254Z","text":"熱變形公式\n參考筆記","updated":"2023-04-19T06:38:14.254Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":57813,"end":57816},{"type":"TextQuoteSelector","exact":"4–4","prefix":"ed using the formula dT =a∆TL  (","suffix":")Here a = a property of the mate"}]}]}
+>```
+>%%
+>*%%PREFIX%%ed using the formula dT =a∆TL  (%%HIGHLIGHT%% ==4–4== %%POSTFIX%%)Here a = a property of the mate*
+>%%LINK%%[[#^zoqisvlr5k9|show annotation]]
+>%%COMMENT%%
+>熱變形公式
+>參考筆記
+>%%TAGS%%
+>#公式
+^zoqisvlr5k9
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T06:40:25.554Z","text":"伸長減去形變","updated":"2023-04-19T06:40:25.554Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":59362,"end":59376},{"type":"TextQuoteSelector","exact":"EXAMPLE   4.10","prefix":"e r   4     a x i a l   l o a d4","suffix":"The A-36 steel bar shown in Fig."}]}]}
+>```
+>%%
+>*%%PREFIX%%e r   4     a x i a l   l o a d4%%HIGHLIGHT%% ==EXAMPLE   4.10== %%POSTFIX%%The A-36 steel bar shown in Fig.*
+>%%LINK%%[[#^e8o7yapikd|show annotation]]
+>%%COMMENT%%
+>伸長減去形變
+>%%TAGS%%
+>#例題
+^e8o7yapikd
