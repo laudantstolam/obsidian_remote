@@ -227,3 +227,46 @@ annotation-target: ch4.pdf
 >%%TAGS%%
 >#例題
 ^e8o7yapikd
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T06:56:19.784Z","text":"圖所示的剛性樑。 4-18a固定在三個帖子的頂部 由 A992 鋼和 2014-T6 鋁製成。每個帖子的長度為 250 mm，當梁上沒有負載時，溫度 T1 =20°C。 如果桿 承受 150 kN >m 的均勻分佈載荷和溫度 升至 T2 =80°C\n\n---\n\n1. Fst Fal 力平衡\n1.  兩種材料的形變量相同\n1.  分割形變->> T+F\nT形變=$\\alpha \\Delta T L$\nF形變=$\\frac{PL}{AE}$\n\n1. 跟1.中的力平衡公式連立解\n","updated":"2023-04-19T06:56:19.784Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":60753,"end":60767},{"type":"TextQuoteSelector","exact":"EXAMPLE   4.11","prefix":". 4–17 4.6 thermal stress 1 7 54","suffix":"The  rigid  beam  shown  in  Fig"}]}]}
+>```
+>%%
+>*%%PREFIX%%. 4–17 4.6 thermal stress 1 7 54%%HIGHLIGHT%% ==EXAMPLE   4.11== %%POSTFIX%%The  rigid  beam  shown  in  Fig*
+>%%LINK%%[[#^mhmw7juln4j|show annotation]]
+>%%COMMENT%%
+>圖所示的剛性樑。 4-18a固定在三個帖子的頂部 由 A992 鋼和 2014-T6 鋁製成。每個帖子的長度為 250 mm，當梁上沒有負載時，溫度 T1 =20°C。 如果桿 承受 150 kN >m 的均勻分佈載荷和溫度 升至 T2 =80°C
+>
+>---
+>
+>1. Fst Fal 力平衡
+>1.  兩種材料的形變量相同
+>1.  分割形變->> T+F
+>T形變=$\alpha \Delta T L$
+>F形變=$\frac{PL}{AE}$
+>
+>1. 跟1.中的力平衡公式連立解
+>
+>%%TAGS%%
+>
+^mhmw7juln4j
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T07:04:11.552Z","text":"怎麼又是你\n\n1. 兩力平衡\n1. 分割T+/-F\n1. ","updated":"2023-04-19T07:04:11.552Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":62907,"end":62921},{"type":"TextQuoteSelector","exact":"EXAMPLE   4.12","prefix":"e r   4     a x i a l   l o a d4","suffix":"A 2014-T6 aluminum tube having a"}]}]}
+>```
+>%%
+>*%%PREFIX%%e r   4     a x i a l   l o a d4%%HIGHLIGHT%% ==EXAMPLE   4.12== %%POSTFIX%%A 2014-T6 aluminum tube having a*
+>%%LINK%%[[#^7vpcqzq50vb|show annotation]]
+>%%COMMENT%%
+>怎麼又是你
+>
+>1. 兩力平衡
+>1. 分割T+/-F
+>1. 
+>%%TAGS%%
+>
+^7vpcqzq50vb
