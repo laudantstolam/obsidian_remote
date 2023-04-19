@@ -58,3 +58,33 @@ annotation-target: ch5.pdf
 >%%TAGS%%
 >#公式
 ^5gfnheqpbcm
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T13:35:03.958Z","text":"1. 轉動力矩=0 求T\n1. 帶入Tc/J 求 tA/tB","updated":"2023-04-19T13:35:03.958Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:81ffbe92b7d76f41b6cd355338b1cb91"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf"}],"documentFingerprint":"81ffbe92b7d76f41b6cd355338b1cb91"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","selector":[{"type":"TextPositionSelector","start":12490,"end":12503},{"type":"TextQuoteSelector","exact":"EXAMPLE   5.2","prefix":"a p t e r   5     t o r s i o n5","suffix":"The shaft shown in Fig. 5–9a is "}]}]}
+>```
+>%%
+>*%%PREFIX%%a p t e r   5     t o r s i o n5%%HIGHLIGHT%% ==EXAMPLE   5.2== %%POSTFIX%%The shaft shown in Fig. 5–9a is*
+>%%LINK%%[[#^wqpsqrxz4n|show annotation]]
+>%%COMMENT%%
+>1. 轉動力矩=0 求T
+>1. 帶入Tc/J 求 tA/tB
+>%%TAGS%%
+>#例題
+^wqpsqrxz4n
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T13:36:29.471Z","text":"1. 求T\n1. 先算J在求T 因為有分內外 簡略算法會錯","updated":"2023-04-19T13:36:29.471Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:81ffbe92b7d76f41b6cd355338b1cb91"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf"}],"documentFingerprint":"81ffbe92b7d76f41b6cd355338b1cb91"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","selector":[{"type":"TextPositionSelector","start":13841,"end":13853},{"type":"TextQuoteSelector","exact":"XAMPLE   5.3","prefix":" 5.2 the torsion formula 2 1 15E","suffix":"The  pipe  shown  in  Fig.  5–10"}]}]}
+>```
+>%%
+>*%%PREFIX%%5.2 the torsion formula 2 1 15E%%HIGHLIGHT%% ==XAMPLE   5.3== %%POSTFIX%%The  pipe  shown  in  Fig.  5–10*
+>%%LINK%%[[#^r2b9vgauhpg|show annotation]]
+>%%COMMENT%%
+>1. 求T
+>1. 先算J在求T 因為有分內外 簡略算法會錯
+>%%TAGS%%
+>#例題
+^r2b9vgauhpg
