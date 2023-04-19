@@ -164,3 +164,20 @@ annotation-target: ch4.pdf
 >%%TAGS%%
 >#例題
 ^spxtvgmf34
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T04:04:41.601Z","text":"1. 列出力平衡 根 轉動平衡 式子\n1. 列出兩個變型量之間的比例關係(等比三角)\n1. 根據2.進行公式展開\n1. 把拿到的東西聯立解出各支撐力","updated":"2023-04-19T04:04:41.601Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":38505,"end":38518},{"type":"TextQuoteSelector","exact":"EXAMPLE   4.7","prefix":"46 kN   Ans.  FE =2.02 kN   Ans.","suffix":"15 kN0.4 mBA(a)DCFE0.5 m0.2 m 0."}]}]}
+>```
+>%%
+>*%%PREFIX%%46 kN   Ans.  FE =2.02 kN   Ans.%%HIGHLIGHT%% ==EXAMPLE   4.7== %%POSTFIX%%15 kN0.4 mBA(a)DCFE0.5 m0.2 m 0.*
+>%%LINK%%[[#^efgq9zqsbla|show annotation]]
+>%%COMMENT%%
+>1. 列出力平衡 根 轉動平衡 式子
+>1. 列出兩個變型量之間的比例關係(等比三角)
+>1. 根據2.進行公式展開
+>1. 把拿到的東西聯立解出各支撐力
+>%%TAGS%%
+>
+^efgq9zqsbla
