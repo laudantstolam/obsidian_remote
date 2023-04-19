@@ -270,3 +270,18 @@ annotation-target: ch4.pdf
 >%%TAGS%%
 >
 ^7vpcqzq50vb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T07:51:33.221Z","text":"應力調節\n","updated":"2023-04-19T07:51:33.221Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:06fff241e665704a84d7c3db6f87672d"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf"}],"documentFingerprint":"06fff241e665704a84d7c3db6f87672d"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch4.pdf","selector":[{"type":"TextPositionSelector","start":76267,"end":76269},{"type":"TextQuoteSelector","exact":"–6","prefix":" section; i.e., K = smaxsavg  (4","suffix":")Once K is determined from the g"}]}]}
+>```
+>%%
+>*%%PREFIX%%section; i.e., K = smaxsavg  (4%%HIGHLIGHT%% ==–6== %%POSTFIX%%)Once K is determined from the g*
+>%%LINK%%[[#^jqpex6gi8s|show annotation]]
+>%%COMMENT%%
+>應力調節
+>
+>%%TAGS%%
+>
+^jqpex6gi8s
