@@ -88,3 +88,35 @@ annotation-target: ch5.pdf
 >%%TAGS%%
 >#例題
 ^r2b9vgauhpg
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T14:03:15.971Z","text":"1. 把hp*745變成W <P>\n1. w*2pi/60 變成rad/s <w>\n1. 套入P=Tw 得到T\n1. 帶回公式求C\n$T_{allow}=\\frac{Tc}{J}$(J=pi*c^4/2)","updated":"2023-04-19T14:03:15.971Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:81ffbe92b7d76f41b6cd355338b1cb91"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf"}],"documentFingerprint":"81ffbe92b7d76f41b6cd355338b1cb91"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","selector":[{"type":"TextPositionSelector","start":17631,"end":17644},{"type":"TextQuoteSelector","exact":"EXAMPLE   5.4","prefix":"v. 5.3 power transmission 2 1 35","suffix":"A solid steel shaft AB, shown in"}]}]}
+>```
+>%%
+>*%%PREFIX%%v. 5.3 power transmission 2 1 35%%HIGHLIGHT%% ==EXAMPLE   5.4== %%POSTFIX%%A solid steel shaft AB, shown in*
+>%%LINK%%[[#^coqxuz15vfb|show annotation]]
+>%%COMMENT%%
+>1. 把hp*745變成W <P>
+>1. w*2pi/60 變成rad/s <w>
+>1. 套入P=Tw 得到T
+>1. 帶回公式求C
+>$T_{allow}=\frac{Tc}{J}$(J=pi*c^4/2)
+>%%TAGS%%
+>
+^coqxuz15vfb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-19T14:06:38.095Z","text":"重要公式","updated":"2023-04-19T14:06:38.095Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:81ffbe92b7d76f41b6cd355338b1cb91"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf"}],"documentFingerprint":"81ffbe92b7d76f41b6cd355338b1cb91"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch5.pdf","selector":[{"type":"TextPositionSelector","start":37750,"end":37752},{"type":"TextQuoteSelector","exact":" =","prefix":"can be integrated, which gives f","suffix":" TL JG  (5–15)Note the similarit"}]}]}
+>```
+>%%
+>*%%PREFIX%%can be integrated, which gives f%%HIGHLIGHT%% ===== %%POSTFIX%%TL JG  (5–15)Note the similarit*
+>%%LINK%%[[#^a6ko6av4o2|show annotation]]
+>%%COMMENT%%
+>重要公式
+>%%TAGS%%
+>#公式
+^a6ko6av4o2
