@@ -176,3 +176,17 @@ annotation-target: ch3.pdf
 >%%TAGS%%
 >#例題
 ^r5wqozcaqx
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T01:16:01.087Z","updated":"2023-04-20T01:16:01.087Z","document":{"title":"Mechanics of Materials in SI Units","link":[{"href":"urn:x-pdf:f3e20d7190c1a54f922a1a228e480d8b"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch3.pdf"}],"documentFingerprint":"f3e20d7190c1a54f922a1a228e480d8b"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch3.pdf","target":[{"source":"vault:/%E5%AD%B8%E7%BF%92/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8/ch3.pdf","selector":[{"type":"TextPositionSelector","start":49243,"end":49246},{"type":"TextQuoteSelector","exact":"3–1","prefix":"by the equationG =E 2 11 + n2  (","suffix":"1)Therefore, if E and G are know"}]}]}
+>```
+>%%
+>*%%PREFIX%%by the equationG =E 2 11 + n2  (%%HIGHLIGHT%% ==3–1== %%POSTFIX%%1)Therefore, if E and G are know*
+>%%LINK%%[[#^6uuteskjjpy|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#公式
+^6uuteskjjpy
