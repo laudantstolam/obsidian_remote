@@ -18,10 +18,13 @@ slideNumber: true
 - accent and dialects
 - differ acceent and their features
 - vocalism and voice posotion in different language
+#計時 1:36
+
 ---
 |<font color="#b2a2c7"> accent</font>     | <font color="#fac08f">dialects </font>    |
 |:-----|:-----|
 |  <font color="#b2a2c7">pronounce</font>  |  <font color="#fac08f">words used in certain area</font>    |
+#計時 50s
 
 ---
 <split even>
@@ -54,16 +57,26 @@ slideNumber: true
 	Chinese>>all
 	-resonance 共鳴
 ---
+## <font color="#4f81bd">British Accent</font>
+---
 ![pbgssj2e68h31.jpg (2780×3240) (redd.it)](https://i.redd.it/pbgssj2e68h31.jpg)
 
 ---
-## <font color="#4f81bd">Cockney</font>
+## <font color="#e36c09">Cockney</font>
 ---
+簡單介紹feature+jason starson
 
+- Glottal stops : butter /bu'er/
+- Th-fronting : father /faver/
+- R/T/H dropping
+- iconic tone
+---
 ![[cockney_doctor.mp3]]
 ![[cockney_longconv.mp3]]
+#計時 2:30
+
 ---
-## <font color="#4f81bd">RP</font>
+## <font color="#e36c09">RP</font>
 ---
 
 modern RP v.s posh(old fashion upper RP)
@@ -104,6 +117,8 @@ https://youtu.be/-iW7HxCi5d4?t=168
 - pace
 - volume
 
+#計時  3:12
+
 ---
 ## <font color="#4f81bd">Aussie(OZ)</font>
 ---
@@ -119,7 +134,16 @@ https://youtu.be/-iW7HxCi5d4?t=168
 |lolly|candy|
 |brekkie|breakfast|
 
+#計時 1:40
+
 ---
+## <font color="#4f81bd">Spanish</font>
+---
+hesitation word 
 
+---
+<iframe width="1000" height="400" src="https://www.youtube.com/embed/vXmDYTBL5zA?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
+murmur
 
-
+---
