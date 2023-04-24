@@ -10,7 +10,9 @@
 	True
 	```
 - try except //else
-- 
+- `list[-1]` =list 中最後一個元素
+- ![image.png|275](https://raw.githubusercontent.com/laudantstolam/imagesource/main/202304240842109.png)
+- gyu
 
 ---
 ```
