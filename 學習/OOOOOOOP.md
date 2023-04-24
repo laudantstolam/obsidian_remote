@@ -12,30 +12,12 @@
 - try except //else
 - `list[-1]` =list 中最後一個元素
 - ![image.png|275](https://raw.githubusercontent.com/laudantstolam/imagesource/main/202304240842109.png)
-- gyu
+- froznet![image.png|525](https://raw.githubusercontent.com/laudantstolam/imagesource/main/202304240937945.png)
 
+- ![image.png|500](https://raw.githubusercontent.com/laudantstolam/imagesource/main/202304240939587.png)
+- Double list comprehension
+	kefwopk\
+	keopow\
+	kef
 ---
-```
-
-a = 9
-
-b = 1
-
-print(~a)
-
-print(a & b)
-
-print(a | b)
-```
-
-
-```
-print("-----")
-
-x=9
-
-x^=1
-
-print(x)
-```
 
