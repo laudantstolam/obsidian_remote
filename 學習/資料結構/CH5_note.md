@@ -220,3 +220,17 @@ annotation-target: DataStructure_Lecture_05_stack&queue.pdf
 >%%TAGS%%
 >
 ^6avmtvh46g3
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-24T03:55:45.249Z","text":"[[期中考BBQ]]","updated":"2023-04-24T03:55:45.249Z","document":{"title":"Data Structure","link":[{"href":"urn:x-pdf:725d62cb49de1c4290812d8fa1ea1b6a"},{"href":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf"}],"documentFingerprint":"725d62cb49de1c4290812d8fa1ea1b6a"},"uri":"vault:/%E5%AD%B8%E7%BF%92/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/DataStructure_Lecture_05_stack&queue.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== %%POSTFIX%%*
+>%%LINK%%[[#^eie9mnlhnzd|show annotation]]
+>%%COMMENT%%
+>[[期中考BBQ]]
+>%%TAGS%%
+>
+^eie9mnlhnzd
