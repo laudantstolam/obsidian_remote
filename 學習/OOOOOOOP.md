@@ -9,7 +9,8 @@
 	>>>isinstance (a,(str,int,list)) # 是元组中的一个返回 True 
 	True
 	```
-
+- try except //else
+- 
 
 ---
 ```
