@@ -79,7 +79,7 @@ slideNumber: true
 ## <font color="#e36c09">RP</font>
 ---
 
-modern RP v.s posh(old fashion upper RP)
+modern/contemporary RP v.s posh(old fashion upper RP)
 
 
 
