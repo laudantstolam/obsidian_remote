@@ -137,6 +137,9 @@ https://youtu.be/-iW7HxCi5d4?t=168
 #計時 1:40
 
 ---
+![[sources/aussie_longconv.mp3]]
+
+---
 ## <font color="#4f81bd">Spanish</font>
 ---
 hesitation word 
@@ -144,6 +147,18 @@ hesitation word
 ---
 <iframe width="1000" height="400" src="https://www.youtube.com/embed/vXmDYTBL5zA?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
-murmur
+
+## <font color="#4f81bd">Asian Accent</font>
 
 ---
+In this section u'll hear a short conversation
+
+please select the best discription of the question
+in 
+
+<font color="#e36c09">(a)Thailand    (b)Fillippine </font>
+
+<font color="#e36c09">(c)Vietnam (d)Indian (e)Singapore</font>
+
+---
+![[indian_long.mp3]]![[filop_short.mp3]]
