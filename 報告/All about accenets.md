@@ -18,72 +18,24 @@ slideNumber: true
 - accent and dialects
 - differ acceent and their features
 - vocalism and voice posotion in different language
-#計時 1:36
 
 ---
 |<font color="#b2a2c7"> accent</font>     | <font color="#fac08f">dialects </font>    |
 |:-----|:-----|
 |  <font color="#b2a2c7">pronounce</font>  |  <font color="#fac08f">words used in certain area</font>    |
-#計時 50s
 
 ---
-<split even>
 
-![](https://picsum.photos/id/1005/250/250) 
-![](https://picsum.photos/id/1010/250/250) 
-![](https://picsum.photos/id/1025/250/250) 
-</split>
-
----
-1. accent+dialects
-2. differ accents with their feature
-	british
-		RP
-		POSH
-		COCKNEY
-	canada
-	spanish
-	Aussie
-	european(poland)
-	ASIA
-		vietnam
-		fillapine
-		indonisia
-		india
-3. vocalism and Voice position
-	american EG>>(well pronounced) flat mouth
-	british>>middle of mouth
-	japanese>>lips
-	Chinese>>all
-	-resonance 共鳴
----
 ## <font color="#4f81bd">British Accent</font>
 ---
 ![pbgssj2e68h31.jpg (2780×3240) (redd.it)](https://i.redd.it/pbgssj2e68h31.jpg)
 
 ---
-## <font color="#e36c09">Cockney</font>
----
-簡單介紹feature+jason starson
-
-- Glottal stops : butter /bu'er/
-- Th-fronting : father /faver/
-- R/T/H dropping
-- iconic tone
----
-![[cockney_doctor.mp3]]
-![[cockney_longconv.mp3]]
-#計時 2:30
-
----
 ## <font color="#e36c09">RP</font>
+
 ---
-
 modern/contemporary RP v.s posh(old fashion upper RP)
-
-
-
-<iframe width="1000" height="400" src="https://www.youtube.com/embed/Nj0Rh__1kDw?start=96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1000" height="400" src="https://www.youtube.com/embed/Nj0Rh__1kDw?start=60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
@@ -104,26 +56,42 @@ e.g.
 
 ---
 
-|      |      |
-|:-----|:-----|
-|   jolly   | very     |
-|chap|man|
-|<font color="#e5b9b7">bants</font>|<font color="#e5b9b7">chill out</font>|
-|<font color="#e5b9b7">mate</font>|<font color="#e5b9b7">pal</font>|
+|                                    |                                        |
+|:---------------------------------- |:-------------------------------------- |
+| jolly                              | very                                   |
+| chap                               | man                                    |
+| <font color="#e5b9b7">bants</font> | <font color="#e5b9b7">chill out</font> |
+| <font color="#e5b9b7">mate</font>  | <font color="#e5b9b7">pal</font>       |
+| <font color="#e5b9b7">innit</font>                                  |  <font color="#e5b9b7">isn't it</font>                                   |
 
 https://youtu.be/-iW7HxCi5d4?t=168
 ---
 - clearity
 - pace
 - volume
+---
+## <font color="#e36c09">Cockney</font>
+---
+- Glottal stops : butter /bu'er/
+- Th-fronting : father /faver/
+- R/T/H dropping
+- iconic tone
+---
+#### Tongue twister
+ 
+![image.png|550](https://raw.githubusercontent.com/laudantstolam/imagesource/main/202305080859646.png)
 
-#計時  3:12
-
+---
+![[cockney_doctor.mp3]]
+![[cockney_longconv.mp3]]
+tounge twister(Betty Botter)
+![[tou-twi-cockney.mp3]]
 ---
 ## <font color="#4f81bd">Aussie(OZ)</font>
 ---
 
 'boutfood
+
 /ae/ e.g>>today to die
 
 |||
@@ -134,10 +102,9 @@ https://youtu.be/-iW7HxCi5d4?t=168
 |lolly|candy|
 |brekkie|breakfast|
 
-#計時 1:40
-
 ---
 ![[sources/aussie_longconv.mp3]]
+(OZ_mari) 
 
 ---
 ## <font color="#4f81bd">Spanish</font>
@@ -148,17 +115,37 @@ hesitation word
 <iframe width="1000" height="400" src="https://www.youtube.com/embed/vXmDYTBL5zA?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 
+## <font color="#4f81bd">European Accent</font>
+
+---
+
+just a normal sweedish guy talking 'bout his accent
+
+
+![[sweedish.mp3]]
+(swe_ik)
+
+---
 ## <font color="#4f81bd">Asian Accent</font>
 
 ---
 In this section u'll hear a short conversation
 
-please select the best discription of the question
-in 
+please select the best response to the question or statement
 
 <font color="#e36c09">(a)Thailand    (b)Fillippine </font>
 
 <font color="#e36c09">(c)Vietnam (d)Indian (e)Singapore</font>
 
 ---
-![[indian_long.mp3]]![[filop_short.mp3]]![[filp_long.mp3]]
+![[indian_long.mp3]] (linked list)
+![[filop_short.mp3]](miwie)![[filp_long.mp3]]
+![[indian_long.mp3]]
+
+![[indian_short.mp3]]
+
+---
+### thx for listening :>
+
+---
+https://youtu.be/nmliUhR5T_c
