@@ -22,6 +22,8 @@ dθ ^IEROAMht
 
 Final Theory ^uhoiRQ8p
 
+通常定義1>2 ^k5jEAxH4
+
 
 # Embedded files
 491ac331c7c5f1ea3483aeb7926b482d7e3a4a6e: $$\sum F_{x'}=0$$
@@ -983,6 +985,42 @@ ddb95d70b535caaa380713fd23fc3760164f69b9: [[Pasted Image 20230524140135_212.png]
 			]
 		},
 		{
+			"id": "k5jEAxH4",
+			"type": "text",
+			"x": 1460.598334930105,
+			"y": 388.20607258942283,
+			"width": 167.21789665964786,
+			"height": 38.22648113066402,
+			"angle": 0,
+			"strokeColor": "#364fc7",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1872540802,
+			"version": 429,
+			"versionNonce": 745373406,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1685585839202,
+			"link": null,
+			"locked": false,
+			"text": "通常定義1>2",
+			"rawText": "通常定義1>2",
+			"fontSize": 30.58118490453121,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 26.000000000000007,
+			"containerId": null,
+			"originalText": "通常定義1>2",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "yObRgj8FsVF8TR-T4YAXX",
 			"type": "arrow",
 			"x": 36.895457524285234,
@@ -1045,10 +1083,10 @@ ddb95d70b535caaa380713fd23fc3760164f69b9: [[Pasted Image 20230524140135_212.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 631.6261263537581,
-		"scrollY": -172.4990060857144,
+		"scrollX": -210.3977941965819,
+		"scrollY": 124.48801729332541,
 		"zoom": {
-			"value": 1.0392559114283886
+			"value": 0.6653332979204178
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
