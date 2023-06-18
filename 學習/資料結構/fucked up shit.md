@@ -16,5 +16,14 @@
 1. 若任意節點的左子樹不空，則左子樹上所有節點的值均小於它的根節點的值；
 2. 若任意節點的右子樹不空，則右子樹上所有節點的值均大於它的根節點的值；
 3. 任意節點的左、右子樹也分別為二元搜尋樹；
+具有上述性質的樹狀結構
+
+>Heap
+
+
+>Binary Tree Traversal
+
+
+>Critical Path
 
 https://z1nhouse.github.io/post/p0rM7JmKv/
