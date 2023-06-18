@@ -26,4 +26,7 @@
 
 >Critical Path
 
+quick sort
+
+
 https://z1nhouse.github.io/post/p0rM7JmKv/
