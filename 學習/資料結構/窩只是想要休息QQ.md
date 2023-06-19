@@ -31,5 +31,7 @@
 中從開頭走到結尾所需經過的最長路徑，代表要消耗最多資源才能完成的線路
 quick sort
 
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202306191038909.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202306191040199.png)
 
 https://z1nhouse.github.io/post/p0rM7JmKv/
