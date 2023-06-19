@@ -2,7 +2,7 @@
 
 >Heap sort 
 
-一種sorting 方式，藉由比較父節點與子節點的大小來進行最大/最小heap的排列，max heap從最後的父節點開始判斷，與比其大(小)的子節點調換排列，直到root為最大/小的值為止。排序方式也可以分成top-down跟bottom-up兩種方式，top-down是一邊insert一邊調換，bottom-up是全部輸入完成再進行調換
+一種Heap 的 sorting 方式，藉由比較父節點與子節點的大小來進行最大/最小heap的排列，max heap從最後的父節點開始判斷，與比其大(小)的子節點調換排列，直到root為最大/小的值為止。排序方式也可以分成top-down跟bottom-up兩種方式，top-down是一邊insert一邊調換，bottom-up是全部輸入完成再進行調換
 
 >Binary Tree
 
@@ -20,12 +20,15 @@
 
 >Heap
 
+為⼀種完全⼆元樹，分為max/min heap兩種，其中max heap中所有⼦節點 內容必須比⽗節點⼩，故最⼤的數值必出現在root，min heap以此類推
 
 >Binary Tree Traversal
 
+遍曆二元樹的方法，分為preorder inprder postorder 分別事先左/右再讀取父節點
 
 >Critical Path
 
+中從開頭走到結尾所需經過的最長路徑，代表要消耗最多資源才能完成的線路
 quick sort
 
 
