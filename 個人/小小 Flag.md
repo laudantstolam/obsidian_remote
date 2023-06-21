@@ -18,12 +18,8 @@
 
 ### References
 
-- 菜包肉配飯
-
-https://www.bilibili.com/video/BV1hk4y1M7Rt?t=285.8
+- 菜包肉配飯 [#1](https://www.bilibili.com/video/BV1hk4y1M7Rt?t=285.8)
 剩的菜可以燙熟當配菜
 
-- 番茄咖哩烏龍麵
-https://www.bilibili.com/video/BV1Pa41157kJ/?share_source=copy_web&vd_source=e8a66665911ed41e7f41dfa0b99fb204
-https://www.bilibili.com/video/BV16D4y1F7NP/?share_source=copy_web&vd_source=e8a66665911ed41e7f41dfa0b99fb204
+- 番茄咖哩烏龍麵  [#1](https://www.bilibili.com/video/BV1Pa41157kJ/?share_source=copy_web&vd_source=e8a66665911ed41e7f41dfa0b99fb204) [#2](https://www.bilibili.com/video/BV16D4y1F7NP/?share_source=copy_web&vd_source=e8a66665911ed41e7f41dfa0b99fb204)
 思路: 番茄炒熟加水加麵加everything(菜/肉片...)
