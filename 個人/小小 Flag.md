@@ -23,3 +23,10 @@
 
 - 番茄咖哩烏龍麵  [#1](https://www.bilibili.com/video/BV1Pa41157kJ/?share_source=copy_web&vd_source=e8a66665911ed41e7f41dfa0b99fb204) [#2](https://www.bilibili.com/video/BV16D4y1F7NP/?share_source=copy_web&vd_source=e8a66665911ed41e7f41dfa0b99fb204)
 思路: 番茄炒熟加水加麵加everything(菜/肉片...)
+
+- 年糕湯/辣炒年糕
+
+- 一鍋端
+食材思路: 
+青菜:高麗菜 青江菜 大陸妹
+青菜2:番茄 金針菇 玉米筍 
