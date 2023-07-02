@@ -47,3 +47,4 @@
 **評判（ひょうばん）**　批評
 
 ---
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202307021315192.png)
