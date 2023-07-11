@@ -20,6 +20,21 @@ In conclusion, due to the above reasons of how and why art is more worthable to 
 >3. 組織結構：你的文章組織結構可以更加明確。考慮==使用單獨的段落來闡述每個支持觀點==，並確保段落之間的過渡順暢。這將使你的文章更易於閱讀和理解。
 >4. 語言和語法：你的文章中有一些==句子不清楚==或含有==語法錯誤==。重點是檢查你的文章是否清晰、連貫並且使用正確的語法。請考慮校對和修訂你的文章，以提高整體閱讀性。
 
+---
+
+```col
+>[!INFO] Practice
+>rgjreojgjerigjejgiejgi
+>rgeoorejgiorjeg
+>reiogjireojg
+
+>[!DANGER] Improved
+>rorjegoijgerijo
+>eriogijreoigj
+>rmeogj
+
+```
+
 
 
 
