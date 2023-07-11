@@ -22,18 +22,26 @@ In conclusion, due to the above reasons of how and why art is more worthable to 
 
 ---
 
-```col
->[!INFO] Practice
->rgjreojgjerigjejgiejgi
->rgeoorejgiorjeg
->reiogjireojg
+
+>[!multi-column] Practice
+>
+>>[!example] MyPractice
+>>Whether government should support artistic field instead of athletic fields remains a certain spaces for discussion. It was not just about two different dimensions of activity also a conflict between culture and regions. In my point of view, I consider governments should spend more money supporting art due to the variety of people's entertainment, long-lasting culture's continuation and also the precious values of arts.  
+>>Firstly, art can be in various form. Dance, artwork, music were all different status of arts. As governments showing their support, people;s willingness of get in tough with more kinds of arts increases. In concept, athletics seemed more distances with most of the people and civils.  
+	The nest important point was the ethereal value of arts. Arts are the continue form of human's culture, knowledge and life style. When we pay more effort on protecting and remaining, our child may have a chance to see the variety of human's culture and passing our spirit to the next generation which worth our hard work to maintain them.  
+	Final reason of why government should spend more money on art was it's precious value that worth our supportance. Though art can be both visible and invisible, physical arts like sculpture and drawings should be keeping in the enviorments best fits their material or else they will be erosion through time. Invisible art like dance and culture also disappear as people gradually forgetting them and no people to passing on these culture and living style that our parents passed on us.  
+	In conclusion, due to the above reasons of how and why art is more worthable to be supported and maintained the governments should spend more money in support artistic fields instead of athletics fields.
+>	
+>>[!bug] reiogjireojg
+>>rkgrkegopg
+
+
 
 >[!DANGER] Improved
 >rorjegoijgerijo
 >eriogijreoigj
 >rmeogj
 
-```
 
 
 
