@@ -21,10 +21,11 @@ In conclusion, due to the above reasons of how and why art is more worthable to 
 
 --- end-column ---
 
-引言： The allocation of government funds towards the arts or athletics is an ongoing topic of debate. In my opinion, governments should prioritize funding for the arts. This essay will provide specific reasons and examples to support this stance.
+引言： 
+The **allocation** of government funds towards the arts or athletics is an ==ongoing topic of debate.== In my opinion, governments should prioritize funding for the arts. This essay will provide specific reasons and examples to support this stance.
 
 主體段落 1： 
-Art encompasses a wide range of forms, such as dance, visual arts, and music. By allocating more resources to the arts, governments can foster a diverse cultural environment and encourage public engagement. For instance, funding for art exhibitions, music festivals, and theater performances can expose people to various artistic expressions, allowing them to appreciate different forms of creativity.
+Art encompasses a wide range of forms, such as dance, visual arts, and music. By allocating more resources to the arts, governments can **foster** a diverse cultural environment and encourage public engagement. For instance, funding for art exhibitions, music festivals, and theater performances can ==expose people== to various artistic expressions, allowing them to appreciate different forms of creativity.
 
 主體段落 2： 
 One crucial aspect of supporting the arts is their role in preserving and continuing human culture. Art represents the collective knowledge, traditions, and values of a society. By investing in the arts, governments ensure the preservation of cultural heritage for future generations. For example, financial support for the maintenance of historical sites, traditional crafts, and indigenous artwork safeguards the rich cultural tapestry of a nation.
