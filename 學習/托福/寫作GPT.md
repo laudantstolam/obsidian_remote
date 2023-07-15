@@ -25,16 +25,16 @@ In conclusion, due to the above reasons of how and why art is more worthable to 
 The **allocation** of government funds towards the arts or athletics is an ==ongoing topic of debate.== In my opinion, governments should prioritize funding for the arts. This essay will provide specific reasons and examples to support this stance.
 
 主體段落 1： 
-Art encompasses a wide range of forms, such as dance, visual arts, and music. By allocating more resources to the arts, governments can **foster** a diverse cultural environment and encourage public engagement. For instance, funding for art exhibitions, music festivals, and theater performances can ==expose people== to various artistic expressions, allowing them to appreciate different forms of creativity.
+Art encompasses a wide range of forms, such as dance, visual arts, and music. By allocating more resources to the arts, governments can **foster** a diverse cultural environment and encourage public engagement. For instance, funding for art exhibitions, music festivals, and theater performances can ==expose people to ==various artistic expressions, allowing them to appreciate different forms of creativity.
 
 主體段落 2： 
-One crucial aspect of supporting the arts is their role in preserving and continuing human culture. Art represents the collective knowledge, traditions, and values of a society. By investing in the arts, governments ensure the preservation of cultural heritage for future generations. For example, financial support for the maintenance of historical sites, traditional crafts, and indigenous artwork safeguards the rich cultural tapestry of a nation.
+==One crucial aspect== of supporting the arts is their role in preserving and continuing human culture. Art represents the collective knowledge, traditions, and values of a society. By investing in the arts, governments ensure the **preservation** of cultural heritage for future generations. For example, financial support for the maintenance of historical sites, traditional crafts, and **indigenous** artwork safeguards the rich cultural tapestry of a nation.
 
 主體段落 3： 
-Art possesses a unique and irreplaceable value that warrants government support. While physical art forms like sculptures and paintings require proper conservation to withstand the test of time, intangible forms such as dance and cultural practices also necessitate ongoing support to prevent their disappearance. Governments can allocate resources to document and promote traditional dances, rituals, and other intangible cultural assets, preserving them for the benefit of society.
+Art possesses a unique and irreplaceable value that **warrants** government support. While physical art forms like sculptures and paintings require proper conservation to withstand the test of time, **intangible** forms such as dance and cultural practices also necessitate ongoing support to prevent their disappearance. Governments can allocate resources to document and promote traditional dances, rituals, and other intangible cultural assets, preserving them for the benefit of society.
 
 結論： 
-In conclusion, governments should allocate more funds to support the arts due to their diverse and enriching nature, their role in cultural preservation, and their intrinsic value. By prioritizing the arts, governments contribute to the promotion of creativity, the preservation of cultural heritage, and the overall well-being of society.
+In conclusion, governments should allocate more funds to support the arts due to their diverse and enriching nature, their role in cultural preservation, and their intrinsic value. ==By prioritizing the arts,== governments contribute to the promotion of creativity, the preservation of cultural heritage, and the overall well-being of society.
 
 --- end-multi-column
 >[!bug]+ Suggestion
