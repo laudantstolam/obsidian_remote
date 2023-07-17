@@ -15,4 +15,5 @@
 筆記連結(mega)
 筆記軟體 Obsidian
 
+$\mathscr{L^{-1}}$ =反拉式轉換
 
