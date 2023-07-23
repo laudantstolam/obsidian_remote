@@ -23,12 +23,12 @@
 
 > [!multi-column]
 >
->> [!example]+ 觀點
->> NOOOO
->> 1. enjoy present happieness
->> 2. example: hangout/eat
->> 3. conclude:strike a blalnce
->
 >> [!warning]+ example
 >>I considered that class presentation was the most beneficial way for students for a few reasons. First is to practice personal expressing skills because presentation is a good way to practice and it will meet some conditions such as nervous and forgetting the content. How to overcross them was also important to learn and practice. Third is to structure a paragraph in a logical way to ecpress their thoughts. Thus I consider that class presentation was the best way to benefits students.
+>
+>>[!warning]+ GPT
+>>I believe that class presentation is the most beneficial assignment for students for several reasons. Firstly, it helps students practice their public speaking skills, which is crucial in many aspects of life. Presenting in front of a class allows students to overcome nervousness and learn how to structure their ideas effectively. Secondly, it enhances their ability to express thoughts coherently. To deliver a successful presentation, students need to organize their content logically and concisely. Lastly, class presentations promote teamwork and collaboration. Students often work together to prepare and support each other during the presentations, which fosters a sense of camaraderie and mutual support. Overall, class presentations not only improve students' communication skills but also foster teamwork and critical thinking, making it a valuable and beneficial assignment
+
+
+>
 
