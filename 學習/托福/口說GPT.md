@@ -1,6 +1,6 @@
-![Uploading file...fi251]()
+![](https://raw.githubusercontent.com/Ash0645/image_remote/main/202307232310332.png)
 
->[!note]+ Q1
+>[!note]+ Q1 (二選一)
 >When some people have a little extra money, they like to spend it right away on something they enjoy. Others prefer to save the extra money. Which do you like to do? Explain why.
 
 > [!multi-column]
