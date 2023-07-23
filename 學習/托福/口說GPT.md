@@ -15,8 +15,11 @@
 >> "For me, I prefer to spend the extra money right away on things that ==bring me joy and happiness==. Life is short, and I believe in enjoying the present moment. When I have a little extra money, I like to treat myself to things that I love, ==such as== going out with friends, trying new restaurants, or traveling to new places. These experiences enrich my life and create lasting memories. Saving money is important, ==but I also believe== in striking a balance between saving for the future and enjoying the present."
 
 
->[!note]+ Q1
->When some people have a little extra money, they like to spend it right away on something they enjoy. Others prefer to save the extra money. Which do you like to do? Explain why.
+>[!note]+ Q2 ()
+>Students have to complete various types of academic assignments in school. Choose one of the assignments below and explain why you think it is beneficial for students.
+>•Research paper
+>•Class presentation
+>•Group project
 
 > [!multi-column]
 >
@@ -27,5 +30,5 @@
 >> 3. conclude:strike a blalnce
 >
 >> [!warning]+ example
->> "For me, I prefer to spend the extra money right away on things that ==bring me joy and happiness==. Life is short, and I believe in enjoying the present moment. When I have a little extra money, I like to treat myself to things that I love, ==such as== going out with friends, trying new restaurants, or traveling to new places. These experiences enrich my life and create lasting memories. Saving money is important, ==but I also believe== in striking a balance between saving for the future and enjoying the present."
+>>I considered that class presentation was the most beneficial way for students for a few reasons. First is to practice personal expressing skills because presentation is a good way to practice and it will meet some conditions such as nervous and forgetting the content. How to overcross them was also important to learn and practice. Third is to structure a paragraph in a logical way to ecpress their thoughts. Thus I consider that class presentation was the best way to benefits students.
 
