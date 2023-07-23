@@ -5,3 +5,4 @@ allocation 分配
 foster 培養
 preservation 保存
 indigenous 當地
+scatter 分散
