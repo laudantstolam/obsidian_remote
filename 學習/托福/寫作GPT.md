@@ -1,8 +1,10 @@
 
->[!note] Example 1
+>[!note]+ Example 1
 >Do you agree or disagree with the following statement?  
 Governments should spend more money in support of the arts than in support of athletics such as state-sponsored Olympic teams.  
 Use specific reasons and examples to support your answer.
+
+
 
 ```start-multi-column  
 ID: ExampleRegion1  
