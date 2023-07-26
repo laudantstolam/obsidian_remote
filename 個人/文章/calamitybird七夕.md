@@ -1,1 +1,1 @@
-A12 藍鎖 <四肆>
+https://www.plurk.com/p/pax1c4
