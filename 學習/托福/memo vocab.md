@@ -6,3 +6,5 @@ foster 培養
 preservation 保存
 indigenous 當地
 scatter 分散
+bliss 極樂
+Elephant in the room
