@@ -54,4 +54,21 @@ https://mega.nz/folder/vFEmiLJT#MW7Ct5eHO6-6lb7uHUOEJA
 - 系統響應 Routh-Hurwitz criterion
 
 5/3+5/10
-- closed loop 中的參數調整與
+- 系統增益常數(K)與複變數解法(1+KG=0)
+- Root locus 根軌跡
+- 如何畫root locus
+
+5/17
+- 分析當前/特定頻率下的T.F.絕對值(大小)與角度(夾角)求法
+- Bode plot 畫法
+
+5/24
+- bode plot在不同情況下的pole/zero特性
+
+5/31
+- 特徵方程式
+- 用nyquist criterion求發生環繞的不穩定Pole
+
+6/7
+- 判斷相對穩定性
+- bode plot的重要特性
