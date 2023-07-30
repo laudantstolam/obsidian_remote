@@ -1,9 +1,14 @@
 通用格式:
 
 ### <font color="#c0504d">標題</font>
+
+---
 文字
+
+---
 >個人理解/重點標記
 
+---
 >[!Check] 基本公式
 
 >[!note] (1) (2) (3) 步驟/ Ex課本舉例
@@ -12,6 +17,7 @@
 
 >[!tip] 作業
 
+---
 筆記+課本連結(mega)
 https://mega.nz/folder/vFEmiLJT#MW7Ct5eHO6-6lb7uHUOEJA
 
@@ -30,4 +36,22 @@ https://mega.nz/folder/vFEmiLJT#MW7Ct5eHO6-6lb7uHUOEJA
 - 如何畫block diagram
 
 3/15
-- 
+- state variable 定義
+- stability 如何定義
+- sensitivity算法
+
+3/30
+- final value theorem終值定理
+- steady state error算法
+- 評價回授系統的幾個常見方法
+
+4/12
+- 二階系統特性/poles zeros求法
+- peformance indicies的量化方式
+- damping ratio 阻尼與輸出的關係
+
+4/19
+- 系統響應 Routh-Hurwitz criterion
+
+5/3+5/10
+- closed loop 中的參數調整與
