@@ -11,3 +11,4 @@ Elephant in the room
 mandatory 強制
 sarcastic 諷刺
 despise 極度討厭(幾乎底線)
+trauma inducing PTSD
