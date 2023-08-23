@@ -1,5 +1,6 @@
 
-- 有一個可以generate 網頁plug-in 的東西
+> 有一個可以generate 網頁plug-in 的東西
+
  [Twitter Publish](https://publish.twitter.com/?query=https%3A%2F%2Ftwitter.com%2FMillieParfait%2Fstatus%2F1692276490245705913&widget=Tweet)
 
 格式:
@@ -17,6 +18,7 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
 
-- 開發者文件
+ >開發者文件
+ 
 [oEmbed API | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-for-websites/oembed-api#item0)
 
