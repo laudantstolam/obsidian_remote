@@ -1,6 +1,2 @@
 - templates : [数字专家简历响应式网页模板免费下载 - 模板王 (mobanwang.com)](http://www.mobanwang.com/mb/202108/18467.html)
 - use template into react: [(53) how to convert html template to reactjs | Reactjs Tutorial - YouTube](https://www.youtube.com/watch?v=oQXsSpuXUl4)
----
-Notes
-1.把字體跟CSS等模板丟到/public下面的//assets 資料夾
-2. 
