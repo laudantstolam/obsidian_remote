@@ -22,3 +22,12 @@
  
 [oEmbed API | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-for-websites/oembed-api#item0)
 
+>還有一些寫在AUO筆記本中的Django尿性介紹
+
+1. 創建新的APP(頁面跳轉用)
+2. E-chart配置方法
+3. 從DB(SQLITE)生成特定table中的資料
+4. urls.py的配置
+
+>一些關於程式的想法
+Apps的分配
