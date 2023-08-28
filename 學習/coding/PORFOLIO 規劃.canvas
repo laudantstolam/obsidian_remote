@@ -1,9 +1,10 @@
 {
 	"nodes":[
-		{"id":"b4f274746fe286e8","x":-520,"y":-240,"width":400,"height":400,"color":"2","type":"file","file":"學習/coding/personal profile with Mr. R.md"},
-		{"id":"8d29bfcccaf3d3e0","x":-60,"y":-240,"width":250,"height":60,"color":"#aeeca2","type":"text","text":"目前卡關點:\nJS顯示"},
-		{"id":"b07f948e294eaa61","x":-520,"y":200,"width":250,"height":211,"type":"text","text":"連結:\n1. [laudantstolam (github.com)](https://github.com/laudantstolam)\n2. linked in?\n3. "},
-		{"id":"3b6a5ad8a1b9f044","x":-60,"y":-140,"width":366,"height":123,"type":"text","text":"優化\n- 首頁圖片解析度(重新編輯)"}
+		{"type":"file","file":"學習/coding/personal profile with Mr. R.md","id":"b4f274746fe286e8","x":-520,"y":-240,"width":400,"height":400,"color":"2"},
+		{"type":"text","text":"目前卡關點:\nJS顯示","id":"8d29bfcccaf3d3e0","x":-60,"y":-240,"width":250,"height":80,"color":"#aeeca2"},
+		{"type":"text","text":"優化\n- 首頁圖片解析度(重新編輯)\n- About 圖片用射箭的","id":"3b6a5ad8a1b9f044","x":-60,"y":-140,"width":366,"height":123},
+		{"type":"text","text":"連結:\n1. [laudantstolam (github.com)](https://github.com/laudantstolam)\n2. linked in?\n3. ","id":"b07f948e294eaa61","x":-60,"y":0,"width":366,"height":171},
+		{"id":"e36b9cc85850b16e","x":-520,"y":200,"width":400,"height":400,"type":"file","file":"學習/coding/portfolio info.md"}
 	],
 	"edges":[]
 }
