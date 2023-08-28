@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"b4f274746fe286e8","x":-520,"y":-240,"width":400,"height":400,"color":"2","type":"file","file":"學習/coding/personal profile with Mr. R.md"},
-		{"id":"8d29bfcccaf3d3e0","x":-60,"y":-240,"width":250,"height":60,"color":"#aeeca2","type":"text","text":"目前卡關點:\nJS顯示"},
-		{"id":"b07f948e294eaa61","x":-60,"y":-120,"width":250,"height":211,"type":"text","text":"連結:\n1. [laudantstolam (github.com)](https://github.com/laudantstolam)\n2. linked in?\n3. "}
-	],
-	"edges":[]
-}
