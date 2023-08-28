@@ -38,5 +38,8 @@ some words introducing myself
 #### Certificates
 - IBM skillsbuild
 
-## Projects
-
+## <font color="#c0504d">Projects</font>
+- what-does-shu-says
+- word-detect
+- wheather-perdict
+- 
