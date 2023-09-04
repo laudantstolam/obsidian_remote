@@ -32,7 +32,7 @@ Padaku ulurkan tangan
 Padamu akan kusampaikan 
 Untukmu 'kan kupersembahkan 
 Jeritan mimpi yang menunggu 'tuk dikabulkan 
-Sendiri ia dibayangi kenyataan
+==Sendiri ia dibayangi kenyataan==
 
 Padamu akan kunyanyikan 
 Untukmu kan kuperdengarkan
