@@ -14,3 +14,8 @@ I will sing for you
 I will let you hear 
 This heart's melody that has been long kept 
 Fly, tell the dream behind the clouds
+
+Accompanied by the moon, protected by the sea of stars 
+The second chance that is almost missed 
+I will rewrite everything that is lost into a melody 
+Without any intention of erasing it again

@@ -11,4 +11,13 @@ Menarik tanganku padanya
 
 "Raihlah"
 
-Padamu akan kunyanyikan Untukmu 'kan ku perdengarkan Melodi hati ini yang t'lah lama tersimpan Terbanglah, sampaikan mimpi di balik awan
+Padamu akan kunyanyikan 
+Untukmu 'kan ku perdengarkan 
+Melodi hati ini yang t'lah lama tersimpan 
+Terbanglah, sampaikan mimpi di balik awan
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309050119659.png)
+
+Ditemani rembulan, dilindungi lautan bintang 
+Kesempatan kedua yang hampir terlewatkan 
+"Kan kutulis kembali semua yang hilang jadi sebuah melodi 
+Tak ada niat tuk kuhapus kembali
