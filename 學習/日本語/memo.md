@@ -51,6 +51,7 @@
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202307021315192.png)
 
 ---
-打ち合わせ＝会議
-気になって＝在意/好奇
+打ち合わせ＝会議=/
+気になって＝/=在意/好奇
+ぶっちゃけ＝正直=老實說
 
