@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"ae83b6999a20ceb2","x":-480,"y":-180,"width":400,"height":400,"type":"file","file":"個人/文章/MIMPI-CN.md"}
+		{"id":"ae83b6999a20ceb2","type":"file","file":"個人/文章/MIMPI-CN.md","x":-380,"y":40,"width":400,"height":400},
+		{"id":"998e2734f437ec6b","x":-1180,"y":-420,"width":700,"height":400,"type":"file","file":"個人/文章/MIMPI-ID.md"},
+		{"id":"0a48c06a13561a69","x":-440,"y":-420,"width":520,"height":400,"color":"1","type":"file","file":"個人/文章/MIMPI-JP.md"},
+		{"id":"7eb3552d31c8fe34","x":-1180,"y":40,"width":700,"height":400,"type":"file","file":"個人/文章/MIMPI-EN.md"}
 	],
 	"edges":[]
 }

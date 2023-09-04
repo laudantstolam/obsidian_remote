@@ -1,83 +1,21 @@
-無人知曉的桌角
-層層堆疊的白紙上
+無人知曉的桌角上
+層層堆疊的白紙
 未曾被旋律觸動的
 至今仍被遺棄的靈感
-深深留下無法被抹去的痕跡
-
-[JP]
-机の角の
-積み重ねてきた紙は
-置き去りにしていたメロデイ
-書いてた願は
-誰も知らずに今も残ってる、消してはできない
-
-[ID]
-"Hentikan saja tiada yang mendengarkanmu" Dihalangi dunia, kucoba untuk menyerah
-Namun masih terlihat mimpi di malam itu
-Menarik tanganku padanya
-[EN]
-"Just stop, no one is listening to you" Hindered by the world, I try to give up But the dream that night can still be
-seen
-Pulling my hands towards it
-[JP]
-「もう、やめれば？誰も気づかないでしょう」
-厳しい世界に諦めそうなまま
-あの夢が今もまだ見ているよ
-引っ張ってくれた手を
-[CN]
+深深留下無法抹去的痕跡
 
 
-[ID]
-"Raihlah"
-[EN]
-"Reach out to it"
+"放棄吧 沒有人在意的"
+被世界所遺棄的我嘗試放棄
+但那晚的夢依然清晰可見
+將我的雙手牽引向它
+(引領著我向他前行)
 
-[ID]
-Padamu akan kunyanyikan Untukmu 'kan ku perdengarkan Melodi hati ini yang t'lah lama tersimpan Terbanglah, sampaikan mimpi di balik awan
-[EN]
-I will sing for you
-I will let you hear
-This heart's melody that has been long kept
-Fly, tell the dream behind the clouds 
-YouTube
-Reza Avanluna 【NIJISANJI / にじさんじ】
-【ORIGINAL】Mimpi【Reza Avanluna】
-圖片
-[ID]
-Ditemani rembulan, dilindungi lautan
-bintang
-Kesempatan kedua yang hampir
-terlewatkan
-"Kan kutulis kembali semua yang hilang
-jadi sebuah melodi
-Tak ada niat tuk kuhapus kembali
-[EN]
-Accompanied by the moon, protected by the sea of stars
-The second chance that is almost
-missed
-I will rewrite everything that is lost into a melody
-Without any intention of erasing it again
+奔向他
+(追光吧)
 
-[ID]
-"Hentikan saja tiada yang
-mendengarkanmu" Dihalangi dunia, kuyakin 'tuk trus
-melawan
-Dan masih melihat mimpi di malam itu Padaku ulurkan tangan
-[EN]
-"Just stop, no one is listening to you" Hindered by the world, I am sure I will keep on fighting
-And still seeing the dream that night Stretching out its hand to me
+請打開心防傾聽這首歌
+被壓抑著的旋律自此翱翔
+飛向雲的彼端 夢想的地方
+(飛向雲之彼端的夢想所在)
 
-[ID]
-"Raihlah"
-[EN]
-"Reach out to it"
-
-[ID]
-Padamu akan kusampaikan
-Untukmu 'kan kupersembahkan Jeritan mimpi yang menunggu 'tuk dikabulkan
-Sendiri ia dibayangi kenyataan
-[EN]
-I will tell it to you
-I will present this to you
-The calling of the dream that is waiting to be realized
-Alone and is haunted by the reality
