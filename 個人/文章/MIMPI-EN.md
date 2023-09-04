@@ -19,3 +19,9 @@ Accompanied by the moon, protected by the sea of stars
 The second chance that is almost missed 
 I will rewrite everything that is lost into a melody 
 Without any intention of erasing it again
+
+"Just stop, no one is listening to you" Hindered by the world, I am sure I will keep on fighting And still seeing the dream that night Stretching out its hand to me
+
+"Reach out to it"
+
+I will tell it to you I will present this to you The calling of the dream that is waiting to be realized Alone and is haunted by the reality
