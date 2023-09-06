@@ -7,6 +7,7 @@ some words introducing myself
 - country
 - age
 - school
+- hobby-> archery / reading / swimming
 
 
 ## <font color="#c0504d">Skills</font>
