@@ -1,7 +1,7 @@
 
 ## <font color="#c0504d">About me</font>
 some words introducing myself
-
+Hola, I'm Ashley. A students in Engineering and computer scinece field
 ## <font color="#c0504d">Basic information</font>
 - name
 - country
