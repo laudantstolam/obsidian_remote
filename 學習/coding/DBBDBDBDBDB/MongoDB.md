@@ -11,13 +11,16 @@ shell 的位置在
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
 
 ---
-## 基本知識
+## <font color="#4f81bd">基本知識</font>
 
 #### 資料儲存方式
-<font color="#4f81bd">BSON</font> - binary JSON
+
+- <font color="#4f81bd">BSON</font> - binary JSON
 >[!example]+ 
->![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309070227799.png)
+>![image.png|525](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309070227799.png)
 >一個文件就是一個collection，故DB Blog Posts裡面有9個 collection
+
+
 #### Shell 指令
 
 - `mongosh` 在CMD開啟mongo shell
@@ -28,6 +31,14 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
 - `use (DB_name)` 進入該DB的操作區
 // 該DB可以是不存在的 一但新增資料 芒果會幫你自動新建DB
 *看吧 芒果還是對你很好的*
+
+###### <font color="#8db3e2">CRUD</font>
+插入資料
+- `db.(collection_name).insertOne()` 插入一筆資料
+- `db.(collection_name).insertMany()` 插入多筆資料
+collection_name可以是不存在的
+
+
 
 
 
