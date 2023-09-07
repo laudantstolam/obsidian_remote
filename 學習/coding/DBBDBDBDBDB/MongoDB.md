@@ -12,3 +12,8 @@ shell 的位置在
 
 #### 資料儲存方式
 <font color="#4f81bd">BSON</font> - binary JSON
+>[!example]+ 
+>![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309070227799.png)
+
+
+
