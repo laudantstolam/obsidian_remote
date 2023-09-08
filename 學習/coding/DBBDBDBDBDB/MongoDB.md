@@ -32,14 +32,24 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
 // 該DB可以是不存在的 一但新增資料 芒果會幫你自動新建DB
 *看吧 芒果還是對你很好的*
 
-###### <font color="#8db3e2">CRUD</font>
-插入資料
+###### <font color="#8db3e2">C</font>
+
 - `db.(collection_name).insertOne()` 插入一筆資料
 - `db.(collection_name).insertMany()` 插入多筆資料
 collection_name可以是不存在的
 
+###### <font color="#8db3e2">R</font>
 
+- `db.(collection_name).find({(target_key): (target_value)})` 搜尋
+- `db.(collection_name).findOne({(target_key): (target_value)})` 單一特定搜尋
+- `it` 繼續顯示
 
+>[!example]+ 限定顯示
+>![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309082314388.png)
+> 第一個{}中篩選條件
+> 第二個{}中選擇要顯示的`target_key` 
+
+- `db.books.find().count()` 顯示collection裡面的資料總數
 
 
 
