@@ -27,6 +27,7 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
 - `cls` 清除
 - `exit` 離開
 - `show dbs` 顯示所有DB
+- `it` 繼續顯示
 - `show collection` 顯示該DB下的所有collection
 - `use (DB_name)` 進入該DB的操作區
 // 該DB可以是不存在的 一但新增資料 芒果會幫你自動新建DB
@@ -42,16 +43,16 @@ collection_name可以是不存在的
 
 - `db.(collection_name).find({(target_key): (target_value)})` 搜尋
 - `db.(collection_name).findOne({(target_key): (target_value)})` 單一特定搜尋
-- `it` 繼續顯示
 
 >[!example]+ 限定顯示
 >![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309082314388.png)
 > 第一個{}中篩選條件
 > 第二個{}中選擇要顯示的`target_key` 
 
-- `db.books.find().count()` 顯示collection裡面的資料總數
-
-
+- `db.(collection_name).find().count()` 顯示collection
+- `db.(collection_name).find().limit(N)` 限定顯示N筆資料
+- `db.books.find().sort({(target_key): 1})` A-Z升冪顯示
+- `db.books.find().sort({(target_key): 1})` Z-A降冪顯示
 
 
 
