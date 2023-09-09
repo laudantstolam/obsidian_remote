@@ -72,3 +72,5 @@ If the cube glows red when soaked in water, there is a chance that it will fall 
 キューブが青く光でば、淘汰の可能性はなく、花火による告知は回避されます。
 If the cube lights up blue, there is no possibility of falling off and the announcement by fireworks is avoided.
 
+色の確認は　このあと好きな方と好きな時に行っていただいて構いません
+After this, you can check the color with anyone you like at any time.
