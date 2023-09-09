@@ -62,3 +62,12 @@ collection_name可以是不存在的
 - `db.books.find({$or: [{(target_key1)): (target_value1)},{(target_key2)): (target_value2)}]})` OR條件
 >[!example]+  "$" 複合條件
 >![image.png|525](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309090031432.png)
+> 應用範例: 在OR裡面串入多個{}條件進行篩選
+> ```
+> db.books.find({$or: [{},{},{}......]})
+
+- `db.books.find({(target_key): {$in/$nin: [N, M, K]}})` 多條件篩選
+	- `N/M/K` 為 target_value1/2/3
+	- `$in` 搜尋在`[]`條件內的
+	- `$nin` 搜尋不在`[]`條件內的
+- 
