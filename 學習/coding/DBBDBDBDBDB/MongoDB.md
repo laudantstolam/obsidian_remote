@@ -43,7 +43,6 @@ collection_name可以是不存在的
 
 - `db.(collection_name).find({(target_key): (target_value)})` 搜尋
 - `db.books.findOne({(target_key): (target_value)})` 單一特定搜尋
-
 >[!example]+ 限定顯示
 >![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309082314388.png)
 > 第一個{}中篩選條件
@@ -51,6 +50,7 @@ collection_name可以是不存在的
 
 - `db.books.find().count()` 顯示collection
 - `db.books.find().limit(N)` 限定顯示N筆資料
+
 - `db.books.find().sort({(target_key): 1/-1})` 1>>A-Z，-1>>Z-A
 	- `1` A-Z 升冪排列
 	- `-1` Z-A 降冪排列
@@ -59,4 +59,6 @@ collection_name可以是不存在的
 	- `$gt`>
 	- `lte` <=
 
-
+- `db.books.find({$or: [{(target_key1)): (target_value1)},{(target_key2)): (target_value2)}]})` OR條件
+>[!example]+  "$" 複合條件
+>![image.png|525](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309090031432.png)
