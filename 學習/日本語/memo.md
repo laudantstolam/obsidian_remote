@@ -54,4 +54,21 @@
 打ち合わせ＝会議=/
 気になって＝/=在意/好奇
 ぶっちゃけ＝正直=老實說
+ボチボチ＝so so = 還行
+
+調子はおいかがで＝最近怎麼樣呀
+dc45
+4dsv45
+
+花火による告知を受けるメンバーを5名にしぼります。
+The number of members who will receive the fireworks announcement will be limited to 5.
+
+上位六名は光のキューブにて該当の有無を確認してください。
+For the top 6 people, please check the cube of light to see if they are eligible.
+
+水につけたキューブが赤光れば、脱落の可能性があるため花火が上がります。
+If the cube glows red when soaked in water, there is a chance that it will fall off and fireworks will go off.
+
+キューブが青く光でば、淘汰の可能性はなく、花火による告知は回避されます。
+If the cube lights up blue, there is no possibility of falling off and the announcement by fireworks is avoided.
 
