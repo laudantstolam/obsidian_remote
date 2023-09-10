@@ -74,3 +74,15 @@ If the cube lights up blue, there is no possibility of falling off and the annou
 
 色の確認は　このあと好きな方と好きな時に行っていただいて構いません
 After this, you can check the color with anyone you like at any time.
+
+---
+
+シンデレラタイムに選ばれた女子は 脱落した男子が復活できなかった場合
+The girl chosen for Cinderella Time is the one who was eliminated if the boy who was eliminated did not make it back.
+
+最終日に脱落者がオオカミくんだったかどうかを知る権利が与えられます
+On the final day, you will be given the right to find out whether the eliminated person was Ookami-kun or not.
+
+ただし、その権利を使う場所は他の男子に告白する権利はあきらめしています。
+However, where she uses that right, she gives up the right to confess to other boys.
+
