@@ -72,8 +72,13 @@ collection_name可以是不存在的
 	- `$nin` 搜尋不在`[]`條件內的
 - `db.books.find({(target_key)): [(target_value)]})` 尋找矩陣中的唯一值
 	- 一般搜尋可用之前最簡易的方式，此方法找到的`target_value`會是那個key的唯一值
+- `db.books.find({(target_key): {$all: [(target_value1), (target_value2)]}})` 找矩陣中包含的多個值
+	- 該結果的`key`裡面一定會有`target1/2`
 - `db.books2.find({(target_name).(target_key): (target_value)})` 多層搜尋
 >[!example]+ 多層搜尋範例
 >![image.png|375](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309111556920.png)
 
+###### <font color="#8db3e2">U</font>
+
+###### <font color="#8db3e2">D</font>
 - 
