@@ -81,4 +81,5 @@ collection_name可以是不存在的
 ###### <font color="#8db3e2">U</font>
 
 ###### <font color="#8db3e2">D</font>
-- 
+- `db.books2.deleteOne({(target_key): (target_value)})` 刪除一筆document
+- `db.books2.deleteMany({(target_key): (target_value)})`  刪除多筆document
