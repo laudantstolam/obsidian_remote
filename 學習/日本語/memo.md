@@ -57,8 +57,15 @@
 ボチボチ＝so so = 還行
 
 調子はおいかがで＝最近怎麼樣呀
-dc45
-4dsv45
+
+すつせにほっとしできだ 
+我终于可以放心了。
+
+長引いちゃった。 
+它一直拖着。
+
+
+---
 
 花火による告知を受けるメンバーを5名にしぼります。
 The number of members who will receive the fireworks announcement will be limited to 5.
