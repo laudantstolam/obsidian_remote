@@ -75,3 +75,5 @@ collection_name可以是不存在的
 - `db.books2.find({(target_name).(target_key): (target_value)})` 多層搜尋
 >[!example]+ 多層搜尋範例
 >![image.png|375](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309111556920.png)
+
+- 
