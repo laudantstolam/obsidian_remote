@@ -84,6 +84,10 @@ collection_name可以是不存在的
 - `db.books.updateMany({(filter_key): (filter_value)}, {$set: {(target_key): (target_value_changed)}})` 更新多筆資料
 
 - `db.books.updateMany({(filter_key): (filter_value)}, {$inc: {(target_key): +/-N}})` 把數值增減N
+- `db.books.updateMany({(filter_key): (filter_value)}, {$push/$pull: {(target_key): (target_value)}})` 增/減矩陣中的值
+	- `(target_value)`改成`$each: [(val_1), (val_2)]`可以新增多個值
+	- 舉例`db.books.updateOne({_id: ObjectId("64f9fd37db3e39addbcb7598")}, {$push: {genres: {$each: ["1", "2"]}}})`
+- 
 
 ###### <font color="#8db3e2">D</font>
 - `db.books2.deleteOne({(target_key): (target_value)})` 刪除一筆document
