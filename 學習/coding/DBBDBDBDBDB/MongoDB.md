@@ -79,7 +79,13 @@ collection_name可以是不存在的
 >![image.png|375](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309111556920.png)
 
 ###### <font color="#8db3e2">U</font>
+- `db.books.updateOne({(filter_key): (filter_value)}, {$set: {(target_key): (target_value_changed)}})` 更新一筆資料
+	- 通常一筆的情況`filter_key` 會使用`ObjectId` 進行篩選
+- `db.books.updateMany({(filter_key): (filter_value)}, {$set: {(target_key): (target_value_changed)}})` 更新多筆資料
+
+- `db.books.updateMany({(filter_key): (filter_value)}, {$inc: {(target_key): +/-N}})` 把數值增減N
 
 ###### <font color="#8db3e2">D</font>
 - `db.books2.deleteOne({(target_key): (target_value)})` 刪除一筆document
 - `db.books2.deleteMany({(target_key): (target_value)})`  刪除多筆document
+
