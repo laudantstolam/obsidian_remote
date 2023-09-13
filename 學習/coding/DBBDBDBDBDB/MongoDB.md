@@ -98,4 +98,30 @@ collection_name可以是不存在的
 ---
 ## <font color="#4f81bd">MongoServer</font>
 
-啟動並監聽
+#### 啟動並監聽
+
+1. `npm init` 初始化
+2. install packages
+	1. `npm install express`
+	2. `npm install mongodb`
+	3. `npm install (-g) nodemon`
+3. 新增一個 `(file_name).js`
+```
+const express = require('express')
+
+// init app + middleware
+const app = express()
+app.listen(3000, () => {
+    console.log("LISTENING at 3000")
+})
+
+// routes
+app.get('/books', (req, res)=>{
+    res.json({mssg: "welcome to the api"})
+})
+```
+4. `nodemon (file_name)`
+5. 打開localhost 3000/books就會看到mssg 內容
+
+
+
