@@ -93,3 +93,9 @@ collection_name可以是不存在的
 - `db.books2.deleteOne({(target_key): (target_value)})` 刪除一筆document
 - `db.books2.deleteMany({(target_key): (target_value)})`  刪除多筆document
 
+
+
+---
+## <font color="#4f81bd">MongoServer</font>
+
+啟動並監聽
