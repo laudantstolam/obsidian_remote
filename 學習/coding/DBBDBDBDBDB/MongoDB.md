@@ -32,7 +32,7 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
 - `use (DB_name)` 進入該DB的操作區
 // 該DB可以是不存在的 一但新增資料 芒果會幫你自動新建DB
 *看吧 芒果還是對你很好的*
-
+- `(some_filter_or_action).explain("executionState")` 顯示詳細資料調動過程
 ###### <font color="#8db3e2">C</font>
 
 - `db.(collection_name).insertOne()` 插入一筆資料
@@ -93,6 +93,11 @@ collection_name可以是不存在的
 - `db.books2.deleteOne({(target_key): (target_value)})` 刪除一筆document
 - `db.books2.deleteMany({(target_key): (target_value)})`  刪除多筆document
 
+###### <font color="#8db3e2">Index</font>
+- `db.books.createIndex({(target_key): (target_value)})` 建立搜尋索引
+- `db.books.showIndex()` 顯示所有索引
+	- 會有一個預設排列 `_id` 的索引
+- `db.books.dropIndex({(target_key): (target_value)})` 刪除索引
 
 
 ---
@@ -125,3 +130,154 @@ app.get('/books', (req, res)=>{
 
 
 
+
+
+#### 範例程式內容列表
+- 基本CRUD方法
+- 翻頁方法
+- 防呆方法
+
+---
+- `db.js` 處理跟mongoDB的連線問題
+```javascript
+// db.js
+const { MongoClient } = require('mongodb')
+let dbConnection
+module.exports={
+    connectToDb: (cb) => {
+        MongoClient.connect('mongodb://127.0.0.1:27017/bookstore')
+        .then((client)=>{
+            dbConnection = client.db()
+            return cb()
+        })
+        .catch(err => {
+            console.log(err)
+            return cb(err)
+        })
+    },
+    getDb: () => dbConnection
+}
+```
+
+> memo
+
+`mongodb://127.0.0.1:27017/bookstore` 需要注意是IPV4/IPV6 這邊用的是IPV6寫法
+
+---
+- `app.js` 處理資料庫操作+CRUD
+```javascript
+// app.js
+const express = require('express')
+const { connectToDb, getDb } = require('./db')
+const { ObjectId } = require('mongodb')
+
+// init app + middleware
+const app = express()
+app.use(express.json())
+
+// db connection
+let db
+
+connectToDb((err)=>{
+    if(!err){
+        app.listen(3000, () => {
+            console.log("LISTENING to 3000")
+        })
+        db = getDb()
+    }
+})
+
+// routes
+
+/// fetch all datas
+app.get('/books', (req, res)=>{
+//params passed in
+    const page = req.query.page || 0
+    const booksPerPages = 2
+    
+    let books = []
+
+    db.collection('books')
+    .find() // find documents in the collection 'books'
+    .sort({author: 1})
+    .skip(page * booksPerPages)
+    .limit(booksPerPages)
+    .forEach(book => books.push(book))
+    //`then` after all the aboves are done
+    .then(() => {
+        res.status(200).json(books)
+    })
+    .catch(() => {
+        res.status(500).json({error: "Could not fetch documents QQ"})
+    })
+})
+
+/// fetch single document
+app.get('/books/:id', (req, res)=>{
+    if(ObjectId.isValid(req.params.id)){
+        console.log(`GET /books/${req.params.id}`)
+            db.collection('books')
+            .findOne({'_id': new ObjectId(req.params.id)})
+            .then(doc=>{
+                res.status(200).json(doc)
+            })
+            .catch(err=>{
+                res.status(500).json({error: "Could not fetch documents QQ"})
+            })
+    }
+    else{
+        res.status(400).json({"message": `Invalid id ${req.params.id}`});
+    }
+})
+
+/// Create a document
+app.post('/books', (req, res) =>{
+    const book = req.body
+    db.collection('books')
+    .insertOne(book)//insert request body
+    .then(result => {
+        res.status(201).json(result)
+    })
+    .catch(err =>{
+        res.status(500).json({err: 'could not create a new doc'})
+    })
+})
+
+/// Delete single document
+app.delete('/books/:id', (req, res) =>{
+    if(ObjectId.isValid(req.params.id)){
+        console.log(`DEL /books/${req.params.id}`)
+            db.collection('books')
+            .deleteOne({'_id': new ObjectId(req.params.id)})
+            .then(result => {
+                res.status(200).json(result)
+            })
+            .catch(err => {
+                res.status(500).json({error: "delete fail"})
+            })
+    }
+    else{
+        res.sendStatus(400).json({"message": `Invalid id ${req.params.id}`});
+    }
+})
+
+/// Update single document
+app.patch('/books/:id', (req,res) => {
+    const updates = req.body
+ 
+    if(ObjectId.isValid(req.params.id)){
+        console.log(`UPDATE /books/${req.params.id}`)
+            db.collection('books')
+            .updateOne({'_id': new ObjectId(req.params.id)}, {$set: updates})
+            .then(result => {
+                res.status(200).json(result)
+            })
+            .catch(err => {
+                res.status(500).json({error: "update fail"})
+            })
+    }
+    else{
+        res.status(400).json({error: `Invalid id ${req.params.id}`})
+    }
+})
+```
