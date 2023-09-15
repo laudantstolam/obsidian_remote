@@ -1,3 +1,5 @@
 5-10 sentences
 
-Recent
+Recently, I've been reading some poems and English literature. The turning point of reading these GRAMATICAL stuff is that recently I've been reading some Chinese books and mentions some beautiful sentences which aspired me. It also gives some interest for me to start reading them. For more spesific I'm reading "The Wast Land" by T.S. Eilot which is commenly considered as a astringent paragraph. But anyway the deeper meaning inside the sentences are interesting and the usage of words were also gorgeous
+
+I've lately been reading poems and English literature. The turning point in reading these GRAMATICAL stuff is that I've previously been reading some Chinese literature, and one of them mentions some translated sentences from some English books that inspired me. It also piques my interest in starting to read them. For more spesific I'm currently reading "The Wast Land" by T.S. Eilot, which is commonly regarded as an astringent passage. However, the deeper meanings within the phrases are intriguing, and the word usage is also lovely.
