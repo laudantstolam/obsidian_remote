@@ -10,3 +10,5 @@
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309191238848.png)
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309191239733.png)
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309191241923.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309191245114.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309191248508.png)
