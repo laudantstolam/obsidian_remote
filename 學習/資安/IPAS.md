@@ -1,4 +1,13 @@
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309192239203.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309201300690.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309201302621.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309201303792.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309201316345.png)
+
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309201321841.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309201324282.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309201325612.png)
+
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309182036101.png)
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309182047932.png)
 
