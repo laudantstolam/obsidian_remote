@@ -13,6 +13,10 @@
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309201336357.png)
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309201400224.png)
 
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309202135056.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309202136110.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309202138916.png)
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309202139978.png)
 
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309182036101.png)
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309182047932.png)
