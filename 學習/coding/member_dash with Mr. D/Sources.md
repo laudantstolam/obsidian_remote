@@ -29,6 +29,11 @@
 3. 從DB(SQLITE)生成特定table中的資料
 4. urls.py的配置
 
+>UI配置
+
+除了登入頁面其他都放在大frame裡面
+template用法: https://youtu.be/2yZHo_pgyMM
+
 [stweet](https://github.com/markowanga/stweet)
 
 >一些關於程式的想法
