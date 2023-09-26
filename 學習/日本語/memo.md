@@ -50,6 +50,9 @@
 ---
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202307021315192.png)
 
+[すみません/ごめんなさい/申し訳ない 用法意思怎樣分?](https://www.mshya.com/2020/07/japanese-apology-j.html)
+
+
 ---
 打ち合わせ＝会議=/
 気になって＝/=在意/好奇
