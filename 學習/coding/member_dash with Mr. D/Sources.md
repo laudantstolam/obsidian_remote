@@ -38,4 +38,11 @@ template用法: https://youtu.be/2yZHo_pgyMM
 
 >一些關於程式的想法
 
-Apps的分配
+>Apps的分配
+
+- 登入+calender
+- media
+- search?
+- sketch
+- audio
+- liked?
