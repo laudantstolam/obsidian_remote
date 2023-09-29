@@ -40,9 +40,11 @@ template用法: https://youtu.be/2yZHo_pgyMM
 
 >Apps的分配
 
-- 登入+calender
-- media
-- search?
-- sketch
-- audio
-- liked?
+- [x] 登入+calender
+- [ ] media
+- [ ] search
+- [x] sketch
+- [ ] audio
+- [ ] liked
+
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202309300056911.png)
