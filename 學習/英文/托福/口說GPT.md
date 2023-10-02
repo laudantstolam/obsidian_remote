@@ -15,7 +15,7 @@
 >> "For me, I prefer to spend the extra money right away on things that ==bring me joy and happiness==. Life is short, and I believe in enjoying the present moment. When I have a little extra money, I like to treat myself to things that I love, ==such as== going out with friends, trying new restaurants, or traveling to new places. These experiences enrich my life and create lasting memories. Saving money is important, ==but I also believe== in striking a balance between saving for the future and enjoying the present."
 
 
->[!note]+ Q2 ()
+>[!note]+ Q2 (三選一)
 >Students have to complete various types of academic assignments in school. Choose one of the assignments below and explain why you think it is beneficial for students.
 >•Research paper
 >•Class presentation
@@ -29,4 +29,24 @@
 >>[!warning]+ GPT
 >>For a variety of reasons, I believed that class presentations were the most helpful method for pupils. First, individuals can practice their personal expressing talents because presentations are a great way to practice and are likely to encounter some conditions such as nervousness and memorizing the information. It was also necessary to learn and practice how to get across barriers. The third reason is to logically organize a paragraph to express their ideas. As a result, I believe that class presentations are the most effective technique to help pupils.
 
+
+>[!note]+ Q3 (是非)
+>  Do you agree or disagree with the following statement: Your friends are the most important influence in your life. Use details and examples to explain your opinion.
+
+> [!multi-column]
+>
+>> [!example]+ 觀點
+>> YES
+>> 1. closest to you
+>> 2. more opportunity to suggest you sth
+>> 3. higher chance to try
+>
+>> [!warning]+ GPT建議
+>> 1. 原因
+>> 	1. 熟悉彼此+相處時間多
+>> 	3. 朋友提供情感支持
+>> 	4. 朋友影響價值觀和興趣
+>> 2. 舉反例(家人)
+>> 	1. 世代隔閡
+>> 	2. 習慣不一定相近
 
