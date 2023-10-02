@@ -9,4 +9,4 @@
 - `dumpcap -i 6` 
 	- `-i 6` 擷取六號連線(wifi)的封包
 	- `-w /users/rache/Desktop/wireshark/test.pcapng` 存檔到wireshark資料夾直到暫停擷取
-	- `-b filesize: 100000 `
+	- `-b filesize:500000 -b files:10` rigbuffer每500MB一包，一共10包
