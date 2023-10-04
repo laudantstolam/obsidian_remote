@@ -16,3 +16,15 @@
 	增強性能
 	降低成本(減少重量)
 
+- 走路?
+	heel strike
+	heel off
+	full foot stand
+	toe off 
+	mid swing
+	... $\infty$ 
+- 兩腳走的距離不同
+	IDK
+- uniformed transmission 均勻傳動>>皮帶 齒輪 滑輪 摩擦輪
+- 鍊條+鏈輪=不均勻傳動(輸入輪形狀不規則)
+- 四連桿除了平行四邊形外幾乎皆非均勻傳動
