@@ -28,3 +28,7 @@
 - uniformed transmission 均勻傳動>>皮帶 齒輪 滑輪 摩擦輪
 - 鍊條+鏈輪=不均勻傳動(輸入輪形狀不規則)
 - 四連桿除了平行四邊形外幾乎皆非均勻傳動
+- ???
+	- Mechanism(機構): Linkage with it's DOF >= 1
+	- Structure(結構): Linkage with it's DOF >= 0
+	- T 發音
