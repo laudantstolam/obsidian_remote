@@ -27,3 +27,9 @@
 	- `tcp.port in {80 1443 8080} 找到TCP在80/1443/8080三個端口的通訊紀錄`
 	- `frame contains google` 大小寫敏感搜尋str
 	- `frame matches google` 不敏感搜尋str
+
+### Setting
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202310042055657.png)
+- 為自訂IP命名: 右鍵>`edit resloved name`>命名
+	- 檢視所有命名與原IP對照: `statistics/reesloved addresses`
+- 
