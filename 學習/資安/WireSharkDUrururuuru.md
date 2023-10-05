@@ -35,4 +35,7 @@
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202310042055657.png)
 - 為自訂IP命名: 右鍵>`edit resloved name`>命名
 	- 檢視所有命名與原IP對照: `statistics/reesloved addresses`
+- 改變時間顯示方式![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202310051732449.png)
+- 計時:`右鍵>set/unset time reference`設定0點
+- 展開到主畫面中![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202310051750941.png)
 - 
