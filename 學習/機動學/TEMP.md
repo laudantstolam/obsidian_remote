@@ -34,3 +34,6 @@
 	- Structure(結構): Linkage with it's DOF >= 0
 	- T 發音
 - 致動器actuator>(推動)機構machenism>(感測)感測器sensor>(回傳)控制器controller>(發訊號)致動器actuator
+- space spatial空間運動
+- plane planar平面運動
+- sphere球面 spherical球面運動>>球面上的活動都是旋轉(沒有直線運動與平移)
