@@ -27,12 +27,3 @@ Last but not least, television may provide us a new point of view. By different 
 
 In conclusion, in the prospect of the diversity and influences, we can benefit from watching television through growing more intelligent, discovering about various aspects of the world, and enhancing their creative abilities.
 
-
-Content
-Television can be beneficial for increasing one's intelligence, broadening one's knowledge of the world, and helping one's creativity. 
-
-Many television educational programs cover a wide range of subjects, from science and history to art and literature. These programs help us learn about the past through historical documentaries and programs, providing valuable insights into different time periods and events. Additionally, it serves as a practical source of knowledge for various tasks, from cooking and home improvement to DIY projects and lifestyle tips.
-
-Another type of television show is quiz shows. They engage contestants and viewers alike in competitive trivia challenges, testing knowledge and quick thinking for entertainment and prizes. This genre of program provides entertainment by sharing interesting facts and offers opportunities to practice problem-solving skills through puzzle-based shows and games, allowing the audience to learn while being entertained.
-
-In conclusion, television, through the diversity programs it offers, enriches our lives by not only boosting intelligence, expanding knowledge, and enhancing problem-solving skills but also initiate learning and a deeper understanding of the world around us.
