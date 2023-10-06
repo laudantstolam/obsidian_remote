@@ -39,4 +39,6 @@
 - 計時:`右鍵>set/unset time reference`設定0點
 - 展開到主畫面中![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202310051750941.png)
 #### Statistics
-- `statistics>conversation`
+- `statistics>conversation` 長條圖顯示持續時間![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202310052258184.png)
+	- `右鍵>apply as filter`可以在主頁查看兩者的通訊紀錄
+	- 
