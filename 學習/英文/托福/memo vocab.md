@@ -12,3 +12,13 @@ mandatory 強制
 sarcastic 諷刺
 despise 極度討厭(幾乎底線)
 trauma inducing PTSD
+
+absence 缺席
+absent 心不在焉
+abserd 荒謬
+abundant 豐富
+troop 部隊
+angler 釣魚者
+expedition 遠征
+carve 雕刻
+damp 濕氣
