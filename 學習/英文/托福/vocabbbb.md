@@ -1,3 +1,10 @@
+>書名
+
+怪物講師 托福單字+文法
+
+>進度
+
+A2-p062
 #### Part1
 ```vocaview-list1
 motto:座右銘 
@@ -30,7 +37,7 @@ damp:濕氣
 flourish: 興盛
 debate: 辯論
 gorge: 峽谷/狼吞虎嚥
-harbor: 避風港
+haven: 避風港
 determine: 決定/判定
 dim:暗沉
 discipline: 紀律
