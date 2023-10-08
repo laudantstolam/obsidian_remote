@@ -48,5 +48,7 @@ distribution: 分配
 drawback: flaw
 in essence: basically
 trauma enducing: ptsd
-
+allude: 暗示
+annihilate: 消滅
+synthetic: 合成的
 ```
