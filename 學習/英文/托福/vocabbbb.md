@@ -1,3 +1,4 @@
+#### Part1
 ```vocaview-list1
 motto:座右銘 
 trophy:獎盃 
@@ -26,4 +27,19 @@ expedition:遠征
 ```vocaview-list1
 carve:雕刻 
 damp:濕氣
+flourish: 興盛
+debate: 辯論
+gorge: 峽谷/狼吞虎嚥
+harbor: 避風港
+determine: 決定/判定
+dim:暗沉
+discipline: 紀律
+forecast: 預報
+endure: bear
+furnish: 陳設
+distribution: 分配
+drawback: flaw
+in essence: basically
+trauma enducing: ptsd
+
 ```
