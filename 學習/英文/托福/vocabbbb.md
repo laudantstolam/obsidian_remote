@@ -6,7 +6,7 @@
 
 A2-p062
 #### Part1
-```vocaview-list1
+```vocaview-card1
 motto:座右銘 
 trophy:獎盃 
 reservation:持保留意見 
@@ -31,7 +31,7 @@ expedition:遠征
 
 #### Part2
 
-```vocaview-list1
+```vocaview-choice1
 carve:雕刻 
 damp:濕氣
 flourish: 興盛
