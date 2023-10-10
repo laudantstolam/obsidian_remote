@@ -63,3 +63,37 @@
 >單字: chore mandatory
 
 ### Q4 無腦聽
+
+>[!NOTE]+ Q4 24HR-circle
+>Most animals, including humans, follow biological cycles that are 24-hours long. 
+>What determines these 24-hour cycles?  
+>Do animals have something like a 24-hour clock inside them?  
+>
+>Or are biological cycles determined by external factors—like the alternation of daylight and darkness?Well, research suggests that the answer’s somewhere in between.  
+>
+>Animals do have an internal clock, but external cues are important too.Take flying squirrels.
+>Flying squirrels are nocturnal—they are active during the night and sleep during the day.But in an experiment, some of these squirrels were kept in constant darkness—they were not exposed to any daylight for about a month.  
+>
+>Did the squirrels continue to follow regular cycles of activity?  
+>Actually, they did.They continued to have regular patterns of sleeping and waking.  
+>This indicates that animals do have an internal clock which regulates their activity cycles.But the internal clock is not precisely 24 hours long.  
+>Instead of following 24-hour cycles, the squirrels followed cycles that were about half an hour shorter than that.  
+>
+>So every day, they woke up a little bit earlier.Without external cues—without sunlight to fine tune their internal clocks—the squirrels’ biological cycles drifted.
+>So, what happened when the squirrels were exposed to daylight again?  
+  >
+>Well, after a month of darkness—a month of waking up half an hour earlier each day—the squirrels’ activity cycle had shifted a lot.So at first, their schedules didn’t match up with the normal day.  
+>
+>They weren’t active during the nighttime, as flying squirrels usually are.  
+>
+>Instead, they were waking up in the middle of the day.But after a while, the squirrels’ cycles began to change.Gradually, external cues—the cycle of light and darkness—adjusted their internal clocks.  
+>
+>So eventually, they were brought back onto a normal, 24-hour schedule.
+>
+>>Using points and examples from the lecture, explain what determines animals' 24-hour activity cycle.
+
+>[!example]+ 範例
+>In the lecture, The professor talks about biological cycles, which is usually 24 hours for most animals. She uses an example about flying squirrels to illustrate the idea. In an experiment, some these squirrels were kept in constant darkness, and researches found that they follow a regular cycle of activities with a cycle of 23 and a half hours, which indicates that animals do have an internal cycle
+>which indicates that animals do have an internal clock and it can regulates their bilogical cycle. Later, these squirrels were exposed to light again and they adjusted their cycle hour gradually and finally followed the 24 hours biological circle. Based on the experiments above , both internal clock and the cycle of light and darkness have impact on animals biological circle.
+
+
