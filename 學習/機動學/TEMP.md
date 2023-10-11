@@ -43,4 +43,6 @@
 ### CH2
 
 - 曲率半徑與曲率(見大弧小弧)
-- 
+- acceleration 加速度
+- jerk??
+- velocity 速度
