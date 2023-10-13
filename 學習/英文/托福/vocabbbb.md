@@ -54,6 +54,24 @@ synthetic: 合成的
 ```
 
 
+### English Course Vocab
+#### CH1
+```
+broadcast: podcast
+deem: 認為
+craze: crazy
+hilarious: 荒謬
+duke: 公爵
+celebrity: 名流
+endless: 無止盡的
+intent:意圖
+jeer: 嘲笑
+sensation: 感覺
+sensational: 危言聳聽的
+unveil: 揭幕
+
+```
+#### CH2
 evidence 證據
 conspiracy 陰謀
 concede admit
