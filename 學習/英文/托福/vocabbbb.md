@@ -52,3 +52,9 @@ allude: 暗示
 annihilate: 消滅
 synthetic: 合成的
 ```
+
+
+evidence 證據
+conspiracy 陰謀
+concede admit
+conviction 定罪(admit guilty)
