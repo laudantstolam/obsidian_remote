@@ -23,6 +23,12 @@
 	新穎性 Novelty(new)
 	進步性 Inventive step(non-obvious)
 
+- 可收折產品
+	展開時自動卡固
+	收折時手動釋放
+	不須使用工具
+	沒有分離的零件
+
 - ==走路步驟==
 	heel strike
 	heel off
@@ -33,20 +39,21 @@
 
 - 兩腳走的距離不同
 	左右腳跨距平均值一樣ovo????
-	
-- uniformed transmission 均勻傳動>>皮帶 齒輪 滑輪 摩擦輪
-- 鍊條+鏈輪=不均勻傳動(輸入輪形狀不規則)
-- 四連桿除了平行四邊形外幾乎皆非均勻傳動
-- 名詞定義
-	- Mechanism(機構): Linkage with it's DOF >= 1
-	- Structure(結構): Linkage with it's DOF >= 0
-	- T 發音
 
-- 致動器actuator>(推動)機構machenism>(感測)感測器sensor>(回傳)控制器controller>(發訊號)致動器actuator
-- 
-- space spatial空間運動
-- plane planar平面運動
-- sphere球面 spherical球面運動>>球面上的活動都是旋轉(沒有直線運動與平移)
+- uniformed transmission 均勻傳動
+	皮帶 齒輪 滑輪 摩擦輪
+
+- non uniformed transmission 不均勻傳動 (輸入輪形狀不規則)
+	鍊條 鏈輪
+	四連桿除了平行四邊形外幾乎皆非均勻傳動
+
+- 控制程序
+	致動器actuator>(推動)機構machenism>(感測)感測器sensor>(回傳)控制器controller>(發訊號)致動器actuator
+ 
+- 多面運動
+	space spatial空間運動
+	plane planar平面運動
+	sphere球面 spherical球面運動>>球面上的活動都是旋轉(沒有直線運動與平移)
 
 - 運動鍊與連桿組自由度差三
 
