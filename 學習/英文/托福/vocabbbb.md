@@ -56,20 +56,26 @@ synthetic: 合成的
 
 ### English Course Vocab
 #### CH1
-```
+```vocaview-choice1
 broadcast: podcast
 deem: 認為
 craze: crazy
 hilarious: 荒謬
+abserd: 荒謬
 duke: 公爵
 celebrity: 名流
 endless: 無止盡的
 intent:意圖
 jeer: 嘲笑
-sensation: 感覺
-sensational: 危言聳聽的
+sensation: 感覺/轟動一時
 unveil: 揭幕
-
+casually: 隨意的
+ingenious: 巧妙
+attentive:細心
+have a blast: 狂歡
+steer clear for sth/so: 劃清界線
+the top dog: 權威
+oh high horse: 自以為是
 ```
 #### CH2
 evidence 證據
