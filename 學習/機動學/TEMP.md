@@ -50,7 +50,7 @@
 - 控制程序
 	致動器actuator>(推動)機構machenism>(感測)感測器sensor>(回傳)控制器controller>(發訊號)致動器actuator
  
-- 多面運動
+- 多面 運動
 	space spatial空間運動
 	plane planar平面運動
 	sphere球面 spherical球面運動>>球面上的活動都是旋轉(沒有直線運動與平移)
