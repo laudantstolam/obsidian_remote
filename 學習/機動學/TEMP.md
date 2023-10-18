@@ -62,18 +62,12 @@
 
 - 曲率半徑與曲率(見大弧小弧)
 - jerk??
-- $\theta$ : angular displacement 角位移
-- $w$: angular velocity 角速度
-- $\alpha$: angular acceleration 加速度 
 - pneumatric sylinder 氣壓缸
 	- 撞到擋點才停
 - Hydraulic Cylinder 液壓缸
 - 蘇格蘭軛
 	- 把等速圓周運動變成直線運動
 	- two times the length of the range
-	- 3 links
-	- 1 rpair
-	- 1 ppair
 - vector polygon 向量多邊形
 - 鍊條(輪)微觀下不算多邊形傳動
 	- 因為多邊形效應

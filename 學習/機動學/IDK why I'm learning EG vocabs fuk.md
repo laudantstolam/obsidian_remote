@@ -14,7 +14,12 @@
 - superscript 上標
 - 右上右下左上左下....
 - Upper left
- 
+
+符號玄學
+- $\theta$ : angular displacement 角位移
+- $w$: angular velocity 角速度
+- $\alpha$: angular acceleration 加速度 
+
  數學
 - factorial 階乘
 - denominator 分母
