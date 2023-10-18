@@ -1,6 +1,8 @@
 ### CH1
 
-
+- Mechanism(機構): Linkage with it's DOF >= 1 
+- Structure(結構): Linkage with it's DOF <= 0
+- hinge 絞鍊
 ### CH2
 - subscript 下標
 - superscript 上標
