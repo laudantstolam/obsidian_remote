@@ -14,3 +14,11 @@
 - coeffficient 係數
 
 
+???
+- Analysis 分析
+	分析既有性質(已存在)
+	分析出唯一正解
+- Synthesis 合成
+	機構設計
+
+![[Recording 20231018145636.webm]]
