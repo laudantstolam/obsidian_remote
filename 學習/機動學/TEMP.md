@@ -69,6 +69,7 @@
 	- 把等速圓周運動變成直線運動
 	- two times the length of the range
 - vector polygon 向量多邊形
+- $\overrightarrow {V_B}$
 - 鍊條(輪)微觀下不算多邊形傳動
 	- 因為多邊形效應
 - R pair = 旋轉中心<見瞬心>
