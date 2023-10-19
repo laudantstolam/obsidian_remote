@@ -3,7 +3,7 @@
 - Mechanism(機構): Linkage with it's DOF >= 1 
 - Structure(結構): Linkage with it's DOF <= 0
 - hinge 絞鍊
-### 跟著許老師學英文part 2
+### part 2
 
 單位
 - scalar number 純量(路徑)
@@ -34,4 +34,15 @@
 - Synthesis 合成
 	機構設計
 
+- follower 從動件
 ![[Recording 20231018145636.webm]]
+
+---
+### part 3
+
+Mechatronic system 機電系統
+- Mechanisms
+- Actuator 致動器
+- Controller
+- Sensor
+

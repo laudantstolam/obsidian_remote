@@ -3,7 +3,7 @@
 ><font color="#ff0000">上課標註</font>
 ><font color="#f79646">補充案例</font>
 >==作業相關==
-
+### CH1
 - 世界三大發明展的特色
 	日內瓦>>知名度
 	匹茲堡>>規模
@@ -48,7 +48,8 @@
 	四連桿除了平行四邊形外幾乎皆非均勻傳動
 
 - 控制程序
-	致動器actuator>(推動)機構machenism>(感測)感測器sensor>(回傳)控制器controller>(發訊號)致動器actuator
+	致動器actuator>(推動)機構machenism>(感測)感測器sensor>(回傳)控制器controller>(發訊號)致動器actuator...$\infty$
+	<可參考CH3的vocab1.> 
  
 - 多面 運動
 	space spatial空間運動
@@ -61,7 +62,6 @@
 ### CH2
 
 - 曲率半徑與曲率(見大弧小弧)
-- jerk??
 - pneumatric sylinder 氣壓缸
 	- 撞到擋點才停
 - Hydraulic Cylinder 液壓缸
@@ -76,12 +76,15 @@
 - 木馬筆記
 P34 筆記
 - 瞬心數量(12=21 小置前)
+	兩個物體共有 且在兩個物體上具有相同速度的瞬間旋轉中心
 - 四連桿的瞬心
 	12
 	13 23
 	14 24 34
 	$\dfrac{4!}{2(4-2)!}=6$
 
+---
+### CH3
 
 
 
