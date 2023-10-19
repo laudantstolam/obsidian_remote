@@ -46,3 +46,6 @@ Mechatronic system 機電系統
 - Controller
 - Sensor
 
+- colinear 共線
+- Parallelogram 平行四邊形
+
