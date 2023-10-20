@@ -32,5 +32,9 @@ To begin with, why people keep emphasize the importance of breakfast? When we wa
 
 As technology advances, our time are more precious and hurry that breakfast are some times became an optional in our bustling. ==It's harder for us to build up a habit of having breakfast therefore.== Some times, people'd like to use ==alternitive ways== such as 16/8 diet, a way that "fast for 16 hours a day and eat food within 8 hours." in order to empty the stomach and further break down fat, and achieve the effect of weight loss. It sounds attractive for some people but there's also some potential effect on our body. It might cause to poor dietary quality or some caloric deficiency. So as a healthier way, for people who want to have a healthy diet while keep in shape, doctors and nutritionist suggest to have egg and meat or quinoa porridge and avoid manufactured food to started a day. Also, recently some breakfast shop provdes "Nutritious juice" which included all the nutrition needed can be an option for those in hurry.
 
-In a nutshell, breakfast is an unavoidable meal in a day. 
+In a nutshell, breakfast plays an vital role in the whole day. We can make our body not only healthy but also in a proper condition by having a breakfast as a routine.
 
+---
+### Feedback
+
+1. 0
