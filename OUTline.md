@@ -1,6 +1,9 @@
 
-Title: how breakfast affect on one's diet 
-Thesis: To maintain a healthy diet and physical well-being, it is essential to build up a good mindset and use methods to make breakfast a daily routine.
+name: 1092b0020 劉宜蓁
+### Title 
+how breakfast affect on one's diet 
+### Thesis
+To maintain a healthy diet and physical well-being, it is essential to build up a good mindset and use methods to make breakfast a daily routine.
 
 - Routine meal / nutrious obtain
 	- how body work in the whole day
@@ -13,7 +16,7 @@ Thesis: To maintain a healthy diet and physical well-being, it is essential to b
 	- how do some popular diet works e.g. 168
 	- method I recommend
 
-穿插細節
+below are details:
 - adventages
 	- besides keeping in shape having this habits also help me...
 	- healithier? more muscle? etc...
@@ -23,7 +26,6 @@ Thesis: To maintain a healthy diet and physical well-being, it is essential to b
 	- some compromise maybe?
 
 ---
-
 ##### How breakfast affect on one's diet?
 
 There's an old saying: “Breakfast like a king; lunch like a prince; dinner like a pauper.” which mentioned starting the day with a hearty and nutritious breakfast is essential for providing the body with the energy and nutrients it needs to function optimall. Also, to maintain a healthy diet and physical well-being, it's essential to build up a good mindset and use methods to gradually make breakfast a daily routine.
@@ -37,4 +39,9 @@ In a nutshell, breakfast plays an vital role in the whole day. We can make our b
 ---
 ### Feedback
 
-1. 0
+1. Y
+2. Y
+3. Y
+1. breakfast is important
+2. Y
+name: 1093b0014 林妍蓁
