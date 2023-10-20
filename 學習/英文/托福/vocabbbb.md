@@ -56,7 +56,7 @@ synthetic: 合成的
 
 ### English Course Vocab
 #### CH1
-```vocaview-choice1
+```vocaview-choice2
 broadcast: podcast
 deem: 認為
 craze: crazy
