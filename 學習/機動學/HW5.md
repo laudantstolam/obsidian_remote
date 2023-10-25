@@ -2,8 +2,8 @@ Homework of 10/19 (due 10/26 10 AM)
 
 1. Please show all possible linkages which can be obtained from the following kinematic chain. What are the applications of these linkages?
 ```
-揉茶機
-
+從架構圖中可以觀察到一共有三組連桿組(三個平行四邊形)
+而在實際應用上有上課舉例的揉茶機
 ```
 2. Please show an example of motion generetor other than the rocker recliner discussed in the classroom.
 ```
