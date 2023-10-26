@@ -49,3 +49,5 @@ Mechatronic system 機電系統
 - colinear 共線
 - Parallelogram 平行四邊形
 
+- revolvable angle 可旋轉角
+- non-revolvable angle 不可旋轉角

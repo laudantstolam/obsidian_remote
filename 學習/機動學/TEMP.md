@@ -86,10 +86,17 @@ P34 筆記
 ---
 ### CH3
 
+葛秀夫準則
+	let $L_1{\leq}L_2{\leq}L_3{\leq}L_4$
+	according to "Grashof Criteria", 4-bar linkage could be classified into 
+	$L_1+L_4<L_2+L_3$ >> CLASS-I
+		C-C
+		C-R
+		R-R
+	$L_1+L_4>L_2+L_3$ >> CLASS-II
+	$L_1+L_4=L_2+L_3$ >> CLASS-III
 
-
-
-
+Revolvable>>一個內角可以轉到0&180度代表可以翻轉360度
 
 
 
