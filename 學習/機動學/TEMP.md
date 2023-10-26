@@ -95,26 +95,10 @@ P34 筆記
 		R-R
 	$L_1+L_4>L_2+L_3$ >> CLASS-II
 	$L_1+L_4=L_2+L_3$ >> CLASS-III
+- Revolvable>>一個內角可以轉到0&180度代表可以翻轉360度
 
-Revolvable>>一個內角可以轉到0&180度代表可以翻轉360度
-
-
-
-
+- 全向輪
+	https://duckduckgo.com/?q=%E5%85%A8%E5%90%91%E8%BC%AA&iar=images&iax=images&ia=images
 
 
-
-
-
----
-
-| 職階      | 藍  | 紅  | 金  |
-|:--------- |:--- |:--- |:--- |
-| saber     | 118  |  142   |  59   |
-| lancer    | 219  |  215   |   110  |
-| archer    | 84   |  113   |  11   |
-| berserker | 242 |  256   |  172   |
-| rider     | 205 |  192   |   92  |
-| caster    | 46  |   115  |     8|
-| assasin   | 133 |  162   |    39 |
 
