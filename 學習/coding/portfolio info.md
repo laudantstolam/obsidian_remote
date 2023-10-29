@@ -1,7 +1,6 @@
 
 ## <font color="#c0504d">About me</font>
-some words introducing myself
-Hola, I'm Ashley. A students in Engineering and computer scinece field
+Ashley here. A students in Engineering and computer scinece field. 
 ## <font color="#c0504d">Basic information</font>
 - name
 - country
@@ -13,7 +12,7 @@ Hola, I'm Ashley. A students in Engineering and computer scinece field
 ## <font color="#c0504d">Skills</font>
 #### Professional
 *language* -> C/Python/Html/CSS/JS/R
-*web* -> React, Django
+*web framework* -> React, Django, vue
 *others* -> mySQL、Docker、Shell、Fastapi、Tensorflow、Pytorch
 #### Language
 - Chinese(native)
