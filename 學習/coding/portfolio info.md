@@ -38,8 +38,12 @@ Ashley here. A students in Engineering and computer scinece field.
 #### Certificates
 - IBM skillsbuild
 
+#### Hackerthon
+- 台北城市儀表板
+
 ## <font color="#c0504d">Projects</font>
 - what-does-shu-says
 - word-detect
 - wheather-perdict
+- koala-app
 - 
