@@ -104,6 +104,6 @@ P34 筆記
 直線線段
 曲綠半徑無窮大的圓弧
 
-六連桿運動鍊
+- 六連桿運動鍊
 	Watt型(I/II)
 	Sttephenson(I/II/III)
