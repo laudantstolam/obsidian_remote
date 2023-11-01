@@ -52,3 +52,7 @@ Mechatronic system 機電系統
 - revolvable angle 可旋轉角
 - non-revolvable angle 不可旋轉角
 - wheelbase 軸距
+
+- eccentric 偏心
+- eccentricity 偏心量
+- shaft 軸

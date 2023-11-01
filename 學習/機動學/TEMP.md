@@ -101,4 +101,6 @@ P34 筆記
 	https://duckduckgo.com/?q=%E5%85%A8%E5%90%91%E8%BC%AA&iar=images&iax=images&ia=images
 
 
-
+直線線段
+曲綠半徑無窮大的圓弧
+所以
