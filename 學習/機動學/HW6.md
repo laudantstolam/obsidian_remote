@@ -2,11 +2,21 @@ Homework of 10/26 (due 11/2 10 AM)
 
 1. 試用中文仔細說明「葛秀夫準則」如何分類四連桿組。
 ```
-葛秀夫
+在葛秀夫準則中會先將四連桿組依據長度依序標記L1到L4，其中L4是最長的
+接著藉由比較L1+L4與L2+L3的值分類出三個類型
+若最短邊與最長邊加總(L1+L4)>次短邊與次長邊加總(L2+L3)則屬於class I
+若最短邊與最長邊加總(L1+L4)>次短邊與次長邊加總(L2+L3)則屬於class II
+若最短邊與最長邊加總(L1+L4)=次短邊與次長邊加總(L2+L3)則屬於class III
+藉此分類出三種不同的類別
 ```
-2. 試用中文詳細敘述 class-I, II, and III 4-bar 的 四個內角的轉動特性。
-![image.png|425](https://raw.githubusercontent.com/Ash0645/image_remote/main/202311011609272.png)
+2. 試用中文詳細敘述 class-I, II, and III 4-bar 的 四個內角的轉動特性。![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202311012207638.png)
 
+```
+如上圖中筆記所繪製，在class I中只有最短邊旁的兩個內角是revolute angle(可以轉到0度和180度，因此可以旋轉360度，稱為可旋轉角)，另外兩個內角則無法轉到0度及180度。
+class II中兩個紅色x只能旋轉到0度，下方兩個黑色x只能旋轉到180度。
+class III中最短邊旁的內角是revolute angle，另外兩個角度則只能旋轉到0度。
+
+```
 3. 試用中文仔細說明 下列摺疊輪椅使用 class-I 4-bar 的原因。如果使用 class-II 4-bar，可以執行相似的收摺動作嗎？為什麼？
 ```
 窩怎麼會知道QWQ
