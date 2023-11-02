@@ -58,3 +58,4 @@ Mechatronic system 機電系統
 - degeneration 退化
 - enlarge 放大
 - shrink 縮小
+- lever machenism 槓桿機構
