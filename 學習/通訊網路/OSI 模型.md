@@ -28,3 +28,4 @@ TCP/IP
 利用通訊協定進行資訊操作與整合
 HTTP
 
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202311021431999.png)
