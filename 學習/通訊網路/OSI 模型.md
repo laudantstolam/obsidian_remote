@@ -28,4 +28,17 @@ TCP/IP
 利用通訊協定進行資訊操作與整合
 HTTP
 
+---
+
+
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202311021431999.png)
+
+### port
+~1023 預設服務/政府/必要通訊
+1024~49151 半保留
+49151~65535 client port
+
+- socket pair
+	client的IP/PORT
+	serverr的IP/port
+	一共四個連線建立
