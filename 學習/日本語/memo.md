@@ -108,3 +108,5 @@ However, where she uses that right, she gives up the right to confess to other b
    - "なくなっている"（なくなっている）- 這部分是一個連接形式，意味著"變得無法"或"不再"。這個結構表明"見不到"或"不再能看到"的狀態。
 
 所以整句的意思是，有時候一個人可能只看到他的目標，而忽略了其他事物。這句話用"しか"來強調，他只看到目標，其他東西都看不到。
+
+せっかく合格なのに？ Even though u passed?

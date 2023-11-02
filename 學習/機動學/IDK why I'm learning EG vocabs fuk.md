@@ -35,8 +35,6 @@
 	機構設計
 
 - follower 從動件
-![[Recording 20231018145636.webm]]
-
 ---
 ### part 3
 
@@ -56,3 +54,5 @@ Mechatronic system 機電系統
 - eccentric 偏心
 - eccentricity 偏心量
 - shaft 軸
+
+- degeneration 退化
