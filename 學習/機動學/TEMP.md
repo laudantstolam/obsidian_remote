@@ -107,3 +107,6 @@ P34 筆記
 - 六連桿運動鍊
 	Watt型(I/II)
 	Sttephenson(I/II/III)
+
+- Circular Knitting Machiene 圓編針織機
+	不能折
