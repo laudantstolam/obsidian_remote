@@ -86,4 +86,11 @@ conviction 定罪(admit guilty)
 #### CH3
 anticipte: 預期
 diversify: to diverse
+demanding  = manageable = tough = 厳しい
+prohibit = restrict = forbid = suppress
+contemplate = deliberate = ponder = analyze
+drawback = deficiency = hurdle = flaw
 
+disregard: 忽視
+asset: 資產
+tiresome: 面倒くさい
