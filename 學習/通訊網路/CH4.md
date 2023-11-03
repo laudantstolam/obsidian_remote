@@ -9,4 +9,17 @@ RG 值越大， 中心導線越細
 	LC-路由器
 
 - 網路卡
-	[[OSI 模型#]]
+	[[OSI 模型#資料鏈結層]]
+	AUI---AUI纜線
+	BNC---RG-58
+	RG-45---UTP/STP
+	
+	類型
+	1. ISA--NOPE
+	2. PCI
+	3. PCIe--server
+	4. USB--PC
+	
+	介面
+	1. RG-45(電)
+	2. SC, LC
