@@ -94,3 +94,13 @@ drawback = deficiency = hurdle = flaw
 disregard: 忽視
 asset: 資產
 tiresome: 面倒くさい
+
+
+==to settle on sth 解決某事
+to take the plunge 冒險一試==
+
+
+
+
+
+
