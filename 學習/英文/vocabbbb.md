@@ -82,3 +82,8 @@ evidence 證據
 conspiracy 陰謀
 concede admit
 conviction 定罪(admit guilty)
+
+#### CH3
+anticipte: 預期
+diversify: to diverse
+
