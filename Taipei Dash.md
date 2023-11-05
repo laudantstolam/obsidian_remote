@@ -40,7 +40,7 @@ https://chat.openai.com/share/b3338c27-c2ca-4939-9318-16bc7ce937af
 - Pandas: [https://pandas.pydata.org/](https://pandas.pydata.org/)
 - Geopandas: [https://geopandas.org/en/stable/](https://geopandas.org/en/stable/)
 
-
+==亮點需要推銷，資料清洗/前端呈現 之類的==
 ### 要學的東西
  - [ ] three mapbox(包在threebox中 笑死)
  - [ ] 手刻
