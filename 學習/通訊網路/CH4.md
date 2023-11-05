@@ -1,8 +1,8 @@
-- 光纖街頭
-	ST
+- 光纖接頭
+	ST-10BaseF
 	SC
 	LC-路由器
-
+ ^acd46a
 - 網路卡
 	[[OSI 模型#資料鏈結層]]
 	AUI---AUI纜線
