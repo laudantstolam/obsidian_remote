@@ -15,11 +15,12 @@
 - RJ-45接頭
 - 雙絞線
 #### 10BaseF
-- F=光纖, 2000m
+- 10Mbps, 2000m
 - 10BaseFL=光纖連接網路卡
 - 10BaseFB=骨幹通道
 - 10BaseFP=光纖集線器
 - ST接頭 [[CH4#^acd46a]]
+- 光纖線路(F=光纖)
 #### 整理
 - 10Base2使用RG-58 A/U
 - 10Base5使用RG-11
