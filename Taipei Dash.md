@@ -39,3 +39,15 @@ https://chat.openai.com/share/b3338c27-c2ca-4939-9318-16bc7ce937af
 - Conda: [https://docs.conda.io/en/latest/](https://docs.conda.io/en/latest/)
 - Pandas: [https://pandas.pydata.org/](https://pandas.pydata.org/)
 - Geopandas: [https://geopandas.org/en/stable/](https://geopandas.org/en/stable/)
+
+
+### 要學的東西
+ - [ ] three mapbox
+ - [ ] 手刻
+ - [ ] 進階資料清理(geopandas...etc)
+ - [ ] MapBox
+ - [ ] maybe 一些p5?
+ - [ ] Pinia管理包(vue版的redux)
+ - [ ] 資料顯示規劃
+ - [ ] 目前暫定 2/5 去除
+ - [ ] 
