@@ -42,7 +42,7 @@ https://chat.openai.com/share/b3338c27-c2ca-4939-9318-16bc7ce937af
 
 
 ### 要學的東西
- - [ ] three mapbox
+ - [ ] three mapbox(包在threebox中 笑死)
  - [ ] 手刻
  - [ ] 進階資料清理(geopandas...etc)
  - [ ] MapBox
