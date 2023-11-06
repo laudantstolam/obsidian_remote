@@ -11,7 +11,7 @@
 	
 	類型
 	1. ISA--NOPE
-	2. PCI
+	2. PCI--NOPE
 	3. PCIe--server
 	4. USB--PC
 	
