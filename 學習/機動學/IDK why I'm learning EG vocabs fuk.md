@@ -26,8 +26,6 @@
 - numerator 分子
 - coeffficient 係數
 
-
-???
 - Analysis 分析
 	分析既有性質(已存在)
 	分析出唯一正解
@@ -44,9 +42,11 @@ Mechatronic system 機電系統
 - Controller
 - Sensor
 
+形狀
 - colinear 共線
 - Parallelogram 平行四邊形
 
+角度
 - revolvable angle 可旋轉角
 - non-revolvable angle 不可旋轉角
 - wheelbase 軸距
@@ -55,7 +55,9 @@ Mechatronic system 機電系統
 - eccentricity 偏心量
 - shaft 軸
 
+縮放
 - degeneration 退化
 - enlarge 放大
 - shrink 縮小
 - lever machenism 槓桿機構
+- pantograph 縮放儀
