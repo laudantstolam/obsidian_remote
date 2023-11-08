@@ -3,6 +3,14 @@
 - Mechanism(機構): Linkage with it's DOF >= 1 
 - Structure(結構): Linkage with it's DOF <= 0
 - hinge 絞鍊
+
+桿件
+- Binaral chain 二元桿
+- Dead chain 呆鍊
+- Ternary chain 三連桿
+- Quaternary chain 四連桿
+- Pentagonal chain 五連桿
+- Hexagonal chain
 ### part 2
 
 單位
