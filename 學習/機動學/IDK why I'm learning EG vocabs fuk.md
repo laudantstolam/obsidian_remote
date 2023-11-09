@@ -16,6 +16,8 @@
 單位
 - scalar number 純量(路徑)
 - vector 向量(位移)
+- radial 逕向
+- transverse 橫向
 
 方向
 - subscript 下標
