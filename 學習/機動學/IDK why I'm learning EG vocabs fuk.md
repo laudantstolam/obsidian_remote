@@ -71,3 +71,6 @@ Mechatronic system 機電系統
 - shrink 縮小
 - lever machenism 槓桿機構
 - pantograph 縮放儀
+
+- ratchets 棘輪
+- 
