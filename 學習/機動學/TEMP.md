@@ -124,3 +124,6 @@ P34 筆記
 - 雙滑塊
 	好處:改變運動方向
 	限制:氣壓缸行程變短
+disk cam with radial translating knife follower
+disk cam with offset translating roller follower
+diskcam with oscalating roller follower
