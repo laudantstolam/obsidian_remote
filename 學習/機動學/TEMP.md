@@ -127,3 +127,8 @@ P34 筆記
 disk cam with radial translating knife follower
 disk cam with offset translating roller follower
 diskcam with oscalating roller follower
+
+- 慣性力為抽象力
+- 低速凸輪不太需要考慮慣性(見P6  11/22)
+- 若0度與360度加速度斜率相同則無中斷
+- 往復直線運動 兩端減速>>簡協運動
