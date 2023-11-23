@@ -73,4 +73,7 @@ Mechatronic system 機電系統
 - pantograph 縮放儀
 
 - ratchets 棘輪
--  
+>456
+
+P210
+disk cam with radial transmission roller follower
