@@ -77,3 +77,7 @@ Mechatronic system 機電系統
 
 P210
 disk cam with radial transmission roller follower
+要畫12個圓
+畫圖連線時以圓切點為參照
+
+包絡線 enveloping curve
