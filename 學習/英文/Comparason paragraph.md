@@ -1,27 +1,31 @@
-##### Outline
+## Outline
 
 theme: whether going to a private school or a public school
-
 prospect: public school
 
 ### Public school
 benifits: 
 1. meet ppl from a more variety background
-2. much
+2. learn while having fun
+3. lease expansive
 flaw: 
+1. teachers are less responsible
+2. students quality may differ
+3. equipment are old
 
 ### Private school
 benifits:
-flaw:
+1. teacher is more responsible
+2. education quality is higher
+3. student's quality are a bit better
+flaw: 
+1. expansive
+2. limited vision
+3. can not learn happily
+4. lots of HW
+5. classsmates are all rich ppl
 
-II we will cover from the benifits of started learning, ways to learn and finally how to apply in reallife
- A. benifits of learn
- B.
- C.
-III conclusion
-After going through the methods and the value of a second language, started learning from now on!
+---
+## Paragraph
 
-As we went through the  methods and the value of a second language, believe that we know how second language affects on our life
-
-
-II. Tough learing a second language takes efforts and time but finally we can break the gap with language
+Whether senting children to a public school or a private school during elementary school and middle school's period could be a suffering desition for many parents in Taiwan. Public school has a chill learning enviorment while private school has.
