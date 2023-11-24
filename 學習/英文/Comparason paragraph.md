@@ -1,7 +1,6 @@
 ## Outline
 
 theme: whether going to a private school or a public school
-prospect: public school
 
 ### Public school
 benifits: 
@@ -25,6 +24,8 @@ flaw:
 3. can not learn happily
 4. lots of HW
 5. classsmates are all rich ppl
+
+
 
 ### Paragraph Arranging
 
