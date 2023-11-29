@@ -81,3 +81,4 @@ disk cam with radial transmission roller follower
 畫圖連線時以圓切點為參照
 
 包絡線 enveloping curve
+eccentricity 偏心量
