@@ -114,3 +114,8 @@ However, where she uses that right, she gives up the right to confess to other b
 #### にしては　から見ると 用法差別
 - 第一個用在考量到他的立場/經驗/...
 - 第二個是說從XX的角度上來說...
+
+#### に伴って　に従って的用法差別
+- 「に伴って」更強調兩者之間的同時性和相互關聯
+- 「に従って」則更強調基於規則、法則或指示的順序性
+
