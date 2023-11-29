@@ -112,7 +112,7 @@ However, where she uses that right, she gives up the right to confess to other b
 せっかく合格なのに？ Even though u passed?
 
 #### にしては　から見ると 用法差別
-- 第一個用在考量到他的立場/經驗/...
+- 第一個用在考量到他的立場/經驗/...(對於XX來說)
 - 第二個是說從XX的角度上來說...
 
 #### に伴って　に従って的用法差別
