@@ -166,7 +166,12 @@ diskcam with oscalating roller follower
 
 - 共軛凸輪(屬於榷動)
 ---
-### 齒輪
+### CH12 齒輪
+
+- 輪系
+	簡單
+	複合
+	行星
 
 ---
 ### 連桿組速度分析/加速度分析
