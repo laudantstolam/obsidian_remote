@@ -181,6 +181,9 @@ diskcam with oscalating roller follower
 	$\dfrac{w_i}{w_o}$
 - 節圓
 	Pitch diameter 節圓直徑(節徑)
-	
+	pitch surface: 沿著齒輪軸向之延伸面
+	circular pitch 周節($P_c=\dfrac{\pi D_p}{N}$) 節圓上一個齒厚+一個齒間畫過的弧長
+	diameter pitch 徑節 $P_D=\dfrac{N}{D}$ 齒數/節圓直徑
+	$P_{C} \cdot P_{D}=\pi$
 ---
 ### 連桿組速度分析/加速度分析
