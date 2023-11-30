@@ -173,5 +173,14 @@ diskcam with oscalating roller follower
 	複合
 	行星
 
+- 比例
+	G.R.(gear ratio)=齒輪比
+	V.R.(velocity ratio)=速度比
+	S.R.(speed ratio)=速率比
+	
+	$\dfrac{w_i}{w_o}$
+- 節圓
+	Pitch diameter 節圓直徑(節徑)
+	
 ---
 ### 連桿組速度分析/加速度分析
