@@ -119,3 +119,8 @@ However, where she uses that right, she gives up the right to confess to other b
 - 「に伴って」更強調兩者之間的同時性和相互關聯
 - 「に従って」則更強調基於規則、法則或指示的順序性
 
+「ところだった」と「はずだった」
+- 「ところだった」
+	- <span style="background:rgba(240, 200, 0, 0.2)">計劃或行動</span>在某一點上中斷，未能實現。 
+	- 本來會發生某件事，但最終沒有發生。
+- 「はずだった」<span style="background:rgba(240, 200, 0, 0.2)">基於資訊、邏輯或經驗的期望</span>應該發生，但最終沒有發生。
