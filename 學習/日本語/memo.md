@@ -124,3 +124,9 @@ However, where she uses that right, she gives up the right to confess to other b
 	- <span style="background:rgba(240, 200, 0, 0.2)">計劃或行動</span>在某一點上中斷，未能實現。 
 	- 本來會發生某件事，但最終沒有發生。
 - 「はずだった」<span style="background:rgba(240, 200, 0, 0.2)">基於資訊、邏輯或經驗的期望</span>應該發生，但最終沒有發生。
+
+たけあって　だけで　だけ 這三個怎麼區分
+- たけあって=名副其實
+- たけで=僅僅+原因
+- だけ＝只是/僅僅
+
