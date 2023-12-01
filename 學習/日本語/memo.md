@@ -130,3 +130,7 @@ However, where she uses that right, she gives up the right to confess to other b
 - たけで=僅僅+原因
 - だけ＝只是/僅僅
 
+にこたえた　に応じて　用法差別
+- にこたえた 對期望或需求的正面回應
+- に応じて 根據不同情況或條件的變化而做出的調整
+
