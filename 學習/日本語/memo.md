@@ -127,7 +127,8 @@ However, where she uses that right, she gives up the right to confess to other b
 
 たけあって　だけで　だけ 這三個怎麼區分
 - たけあって=名副其實
-- たけで=僅僅+原因
+- たけで=僅
+- 僅+原因
 - だけ＝只是/僅僅
 
 にこたえた　に応じて　用法差別
