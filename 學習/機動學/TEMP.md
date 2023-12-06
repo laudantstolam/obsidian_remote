@@ -182,8 +182,23 @@ diskcam with oscalating roller follower
 - 節圓
 	Pitch diameter 節圓直徑(節徑)
 	pitch surface: 沿著齒輪軸向之延伸面
-	circular pitch 周節($P_c=\dfrac{\pi D_p}{N}$) 節圓上一個齒厚+一個齒間畫過的弧長
-	diameter pitch 徑節 $P_D=\dfrac{N}{D}$ 齒數/節圓直徑
-	$P_{C} \cdot P_{D}=\pi$
+	circular pitch (p)周節($P_c=\dfrac{\pi D_p}{N}$) 節圓上一個齒厚+一個齒間畫過的弧長(單位=不強制)
+	diameter pitch (P)徑節 $P_D=\dfrac{N}{D_p}$ 齒數/節圓直徑(單位=英吋)
+	$P_{C} \cdot P_{D}=\pi$ (單位=英吋)
+	module 模數 $m=\dfrac{D_p}{N}$ (單位=mm)
+	$P_c=\pi  \cdot m$ (SI sys 單位mm)
+
+	addendum 齒冠 節圓(pitch circle)<->齒冠圓
+	dedendum 齒根 節圓(pitch circle)<->齒根圓
+	addendum circle 齒冠圓/齒頂圓
+	dedendum circle 齒根圓 
+	working depth 工作深度 兩個嚙合齒輪的齒冠圓距離
+	剩下的空間=餘隙 clearance
+	working depth+clearance=齒輪的齒冠+齒根
+
+	fillet radius 怕應力集中導的圓角半徑
+	tooth thickness  齒厚
+	tooth space 齒間
+	兩個嚙合齒輪的其中一齒間>另一齒厚 >>>>>>>>>>>相差及被隙
 ---
 ### 連桿組速度分析/加速度分析

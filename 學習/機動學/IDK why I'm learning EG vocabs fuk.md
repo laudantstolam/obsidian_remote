@@ -82,3 +82,5 @@ disk cam with radial transmission roller follower
 
 包絡線 enveloping curve
 eccentricity 偏心量
+
+circumference 圓周
