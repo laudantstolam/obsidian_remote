@@ -199,6 +199,11 @@ diskcam with oscalating roller follower
 	fillet radius 怕應力集中導的圓角半徑
 	tooth thickness  齒厚
 	tooth space 齒間
-	兩個嚙合齒輪的其中一齒間>另一齒厚 >>>>>>>>>>>相差及被隙
+	兩個嚙合齒輪的其中一齒間>另一齒厚 >>>>>>>>>>>相差及背隙 backlash
+
+	center distance (C)  中心距 兩個節圓半徑和
+	pinion 小齒輪 the one with less teeth
+	gear 大齒輪 the one with more teeth
+	差別: 齒數
 ---
 ### 連桿組速度分析/加速度分析
