@@ -216,7 +216,15 @@ diskcam with oscalating roller follower
 地精爺爺的魔法時間ovo
 line of action 兩嚙合齒輪的內公切線
 弧長=弦長
-切點會在作用線上移動
-公切線跟
+切點(嚙合接觸點)會在作用線上移動
+preassure angle 壓力角=公切線跟作用線的夾角
+越小傳遞效率越高
+base pitch 基節 周節的算法但是在基圓上
+
+- 接觸時間比
+	一個周期內 出現1對的時間比跟出現2對的時間比
+	so hungry
+	RRRRRRRRRRRRRRRRRRRRRRRRRRR
+
 ---
 ### 連桿組速度分析/加速度分析
