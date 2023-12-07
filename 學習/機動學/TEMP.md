@@ -168,20 +168,22 @@ diskcam with oscalating roller follower
 ---
 ### CH12 齒輪
 
+保固>硬化+潤滑
 - 輪系
 	簡單
 	複合
 	行星
 
+#### 擺線百線齒輪
 - 比例
 	G.R.(gear ratio)=齒輪比
 	V.R.(velocity ratio)=速度比
 	S.R.(speed ratio)=速率比
 	
 	$\dfrac{w_i}{w_o}$
-- 節圓
+- 節圓(ideal circle)
 	Pitch diameter 節圓直徑(節徑)
-	pitch surface: 沿著齒輪軸向之延伸面
+	pitch surface: 節圓沿著齒輪軸向之延伸面
 	circular pitch (p)周節($P_c=\dfrac{\pi D_p}{N}$) 節圓上一個齒厚+一個齒間畫過的弧長(單位=不強制)
 	diameter pitch (P)徑節 $P_D=\dfrac{N}{D_p}$ 齒數/節圓直徑(單位=英吋)
 	$P_{C} \cdot P_{D}=\pi$ (單位=英吋)
@@ -205,5 +207,14 @@ diskcam with oscalating roller follower
 	pinion 小齒輪 the one with less teeth
 	gear 大齒輪 the one with more teeth
 	差別: 齒數
+
+兩嚙合齒輪必有公差
+
+##### 漸開線齒輪
+漸開線齒輪對中心距變化不敏感
+滑動摩擦
+地精爺爺的魔法時間ovo
+
+
 ---
 ### 連桿組速度分析/加速度分析
