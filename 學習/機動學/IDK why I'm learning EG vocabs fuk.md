@@ -84,3 +84,8 @@ disk cam with radial transmission roller follower
 eccentricity 偏心量
 
 circumference 圓周
+
+地精爺爺的魔法時間
+	pitch 縱向
+	yaw 橫向
+	roll 旋轉

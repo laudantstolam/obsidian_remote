@@ -213,7 +213,7 @@ diskcam with oscalating roller follower
 ##### 漸開線齒輪
 漸開線齒輪對中心距變化不敏感
 滑動摩擦
-地精爺爺的魔法時間ovo
+
 line of action 兩嚙合齒輪的內公切線
 弧長=弦長
 切點(嚙合接觸點)會在作用線上移動
@@ -225,6 +225,13 @@ base pitch 基節 周節的算法但是在基圓上
 	一個周期內 出現1對的時間比跟出現2對的時間比
 	so hungry
 	RRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+螺旋齒輪>>安靜但是有軸向推力
+解決>>人字齒輪
+
+齒條 Rack 半徑無窮大的齒輪
+
+太陽能追日系統: Pitch+Yaw+Roll
 
 ---
 ### 連桿組速度分析/加速度分析
