@@ -214,7 +214,9 @@ diskcam with oscalating roller follower
 漸開線齒輪對中心距變化不敏感
 滑動摩擦
 地精爺爺的魔法時間ovo
-
-
+line of action 兩嚙合齒輪的內公切線
+弧長=弦長
+切點會在作用線上移動
+公切線跟
 ---
 ### 連桿組速度分析/加速度分析
