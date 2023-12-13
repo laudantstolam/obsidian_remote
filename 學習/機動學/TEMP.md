@@ -174,7 +174,7 @@ diskcam with oscalating roller follower
 	複合 compound
 	行星 planitary
 
-#### 擺線百線齒輪
+#### 擺線齒輪
 - 比例
 	G.R.(gear ratio)=齒輪比
 	V.R.(velocity ratio)=速度比
@@ -184,6 +184,7 @@ diskcam with oscalating roller follower
 - 節圓(ideal circle)
 	Pitch diameter 節圓直徑(節徑)
 	pitch surface: 節圓沿著齒輪軸向之延伸面
+	pitch point (p)節點 兩個嚙合齒輪的節圓切點
 	circular pitch (p)周節($P_c=\dfrac{\pi D_p}{N}$) 節圓上一個齒厚+一個齒間畫過的弧長(單位=不強制)
 	diameter pitch (P)徑節 $P_D=\dfrac{N}{D_p}$ 齒數/節圓直徑(單位=英吋)
 	$P_{C} \cdot P_{D}=\pi$ (單位=英吋)
@@ -214,9 +215,10 @@ diskcam with oscalating roller follower
 漸開線齒輪對中心距變化不敏感
 滑動摩擦
 
-line of action 兩嚙合齒輪的內公切線
+line of action 兩嚙合齒輪的基圓內公切線(會穿過節點)
 弧長=弦長
-切點(嚙合接觸點)會在作用線上移動
+切點(嚙合接觸點)會在作用線(EF)上移動
+公切線，穿過P點的節圓切線
 preassure angle 壓力角=公切線跟作用線的夾角
 越小傳遞效率越高
 base pitch 基節 周節的算法但是在基圓上
