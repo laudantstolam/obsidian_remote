@@ -2,7 +2,7 @@ Homework of 12/7 (due 12/14 10 AM)
 
 1. Please define:
 	<span style="background:rgba(74, 82, 199, 0.2)">a. pitch circle</span>
-	節圓，一個理論上的圓，存在於齒輪的
+	節圓，一個理論上的圓，存在於齒輪的齒冠圓跟齒根圓之間，用於定義齒輪的幾何特性(尺寸、模數、齒數)
 <span style="background:rgba(5, 117, 197, 0.2)">	b. circular pitch</span>
 	 周節(p)，($P_c=\dfrac{\pi D_p}{N}$) 節圓上一個齒厚+一個齒間畫過的弧長(單位=不強制)
 	<span style="background:rgba(74, 82, 199, 0.2)">c. diametric pitch</span>
@@ -19,12 +19,13 @@ Homework of 12/7 (due 12/14 10 AM)
 	<span style="background:rgba(74, 82, 199, 0.2)">a. pressure angle of gear</span>
 	壓力角，公切線跟作用線的夾角，夾角越小傳遞效率越高
 	<span style="background:rgba(5, 117, 197, 0.2)">b. path of contact</span>
-	
+	接觸線，作用線與齒冠圓交點連線
 	<span style="background:rgba(74, 82, 199, 0.2)">c. contact ratio</span>
-	接觸時間比，一個周期內出現1對的時間比跟出現2對的時間比
+	接觸時間比，一個周期內出現1對(兩個齒輪的齒接觸)的時間比跟出現2對(兩個齒輪的齒接觸)的時間比
 	<span style="background:rgba(5, 117, 197, 0.2)">d. interference of gear</span>
-	<span style="background:rgba(74, 82, 199, 0.2)">e. slewing drive (gasp!)</span>
-蝸桿蝸輪
+	兩嚙合齒輪的接觸點範圍不可超過其內公切線(line of action)上，否則即造成干涉
+	<span style="background:rgba(74, 82, 199, 0.2)">e. slewing drive </span>
+	蝸桿蝸輪，實現需要回轉運動的大型機械結構，如上課提及的太陽能面板的追日系統
 
 
 01111000.10011000.00001000.00000000=120.152.8.0
