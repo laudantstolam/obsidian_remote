@@ -170,9 +170,9 @@ diskcam with oscalating roller follower
 
 保固>硬化+潤滑
 - 輪系
-	簡單
-	複合
-	行星
+	簡單 simple gear train
+	複合 compound
+	行星 planitary
 
 #### 擺線百線齒輪
 - 比例
@@ -232,6 +232,15 @@ base pitch 基節 周節的算法但是在基圓上
 齒條 Rack 半徑無窮大的齒輪
 
 太陽能追日系統: Pitch+Yaw+Roll
+
+當軸分離: 使用特殊齒輪
+- Bavel gear 直齒傘齒輪(成椎狀)>>摩擦圓錐
+- 戟齒輪
+
+----
+CH13
+每個齒輪有自己得軸(可共用軸線 不可共用軸)
+惰輪(不會改變速比 但會改變輸出方向)
 
 ---
 ### 連桿組速度分析/加速度分析

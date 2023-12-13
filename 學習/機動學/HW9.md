@@ -24,7 +24,7 @@ Homework of 12/7 (due 12/14 10 AM)
 	接觸時間比，一個周期內出現1對的時間比跟出現2對的時間比
 	<span style="background:rgba(5, 117, 197, 0.2)">d. interference of gear</span>
 	<span style="background:rgba(74, 82, 199, 0.2)">e. slewing drive (gasp!)</span>
-
+蝸桿蝸輪
 
 
 01111000.10011000.00001000.00000000=120.152.8.0

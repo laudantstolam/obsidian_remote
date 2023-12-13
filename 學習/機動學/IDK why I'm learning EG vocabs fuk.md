@@ -89,3 +89,6 @@ circumference 圓周
 	pitch 縱向
 	yaw 橫向
 	roll 旋轉
+
+軸 shaft
+軸線 axis
