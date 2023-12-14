@@ -92,3 +92,6 @@ circumference 圓周
 
 軸 shaft
 軸線 axis
+
+mesh 嚙合
+first gear/first shift 第一檔
