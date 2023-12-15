@@ -21,4 +21,4 @@
 
 ### Paragraph
 
-When we talk about archery, most of us associate with Olypic archery competition which the shooter carrys a recurve bow to aim the target. But in Japan, traditional archery was also be called Kyudou(弓道)，a archery sport 
+Most of us associate archery with the Olympic sport, in which athletes aim their targets with recurve bows. However, Kyudou (弓道) is another name for traditional archery in Japan. The archer wears on Kyudo uniform, simillar to Japan's traditional 'kimono' attire, and use bow made of bamboo to aim a target 28 meters away. One of the most important point of Kyudou is to maintain a good body posture and concentration in order to 
