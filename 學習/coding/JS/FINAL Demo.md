@@ -18,4 +18,31 @@
 4. 選一手你們的代表歌吧[Web API Reference | Spotify for Developers](https://developer.spotify.com/documentation/web-api/reference/get-audio-features)
 用分析API分析一些東西
 1. 或是針對最近聽的100首歌進行細部分析看得出一些Key的分布/能量分布/類型分類之類的東西
-2. TNND麻煩鼠了
+
+```json
+{  
+"acousticness": 0.0881,  >>原聲程度
+"analysis_url": "https://api.spotify.com/v1/audio-analysis/63mdJr3NMY3wReOkNE6c6W",  
+"danceability": 0.695,  >>舞曲性
+"duration_ms": 194900,  
+"energy": 0.62,  
+"id": "63mdJr3NMY3wReOkNE6c6W",  
+"instrumentalness": 0.0000543,  >>純音樂性比例
+"key": 8,             >>高低頻率
+"liveness": 0.111,    >>現場程度
+"loudness": -8.082,  
+"mode": 0,           (大小調)
+"speechiness": 0.0521,  >>含文字量。可製作lyrical喜愛程度
+"tempo": 150.032,        >>節奏快慢
+"time_signature": 4,  (拍數)
+"track_href": "https://api.spotify.com/v1/tracks/63mdJr3NMY3wReOkNE6c6W",  "type": "audio_features",  
+"uri": "spotify:track:63mdJr3NMY3wReOkNE6c6W",  
+"valence": 0.62       >>情緒樣態
+}
+```
+找相似程度最高的3個數值(需要制定一套相近辦法)
+不太需要一個general的標準 因為只是兩人對比
+
+- rap's instrumentalness was LOW
+- acousticness sometimes also
+- 
