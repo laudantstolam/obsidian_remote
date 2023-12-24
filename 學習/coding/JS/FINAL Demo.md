@@ -19,8 +19,8 @@
 用分析API分析一些東西
 1. 或是針對最近聽的100首歌進行細部分析看得出一些Key的分布/能量分布/類型分類之類的東西
 1. 把得出來結論得出共同的特徵"GENRE", "seed_artists", "seed_tracks" Get Recommendations
-2. 總之搞一個共同推薦歌單
-3. 
+2. 總之搞一個共同推薦歌單(+一個可能兩人都會感興趣的歌單)
+3. 加一個QRcode
 ```json
 {  
 "acousticness": 0.0881,  >>原聲程度
@@ -47,3 +47,13 @@
 
 - rap's instrumentalness was LOW
 - acousticness sometimes also
+----
+## 功能總結
+- 兩人最近的聆聽類型(genere)
+- 歌手/歌曲重複數量()
+	- 跟上面的在同一個區域
+	- 產生一些小結語，或是默契打星
+		- 根據重複類型(%) 
+---
+## 必要物件
+- 兩人頭像
