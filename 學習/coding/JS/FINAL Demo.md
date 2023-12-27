@@ -25,7 +25,7 @@
 {  
 "acousticness": 0.0881,  >>原聲程度
 "analysis_url": "https://api.spotify.com/v1/audio-analysis/63mdJr3NMY3wReOkNE6c6W",  
-"danceability": 0.695,  >>舞  曲性
+"danceability": 0.695,  >>舞曲性
 "duration_ms": 194900,  
 "energy": 0.62,  
 "id": "63mdJr3NMY3wReOkNE6c6W",  
@@ -63,5 +63,8 @@
 	- # Get Current User's Playlists
 
 ---
-## 必要物件
-- 兩人頭像
+## 參考用LINK
+
+[DEMO FLASK DEMO](https://github.com/katiagilligan888/Spotify-Discover-Weekly/blob/main/discoverWeekly.py)
+
+[Python进行 Spotify 音乐分析（part 1） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/41612637)
