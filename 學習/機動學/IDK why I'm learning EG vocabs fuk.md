@@ -95,3 +95,7 @@ circumference 圓周
 
 mesh 嚙合
 first gear/first shift 第一檔
+
+centrifugal 離心力
+centripetal 向心力
+
