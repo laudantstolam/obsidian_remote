@@ -28,8 +28,8 @@
 >A 區域
 
 https://developer.spotify.com/documentation/web-api/reference/get-users-top-artists-and-tracks
-`Get User's Top Items` `選artist/tracks`
-拿到最近聽的
+`Get User's Top Items`
+拿到最近聽的藝人
 
 > B 區域
 
