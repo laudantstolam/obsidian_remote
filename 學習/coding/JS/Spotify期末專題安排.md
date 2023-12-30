@@ -25,3 +25,11 @@
 ## API及數據整理
 
 ![[概念設計圖]]
+>A 區域
+
+https://developer.spotify.com/documentation/web-api/reference/get-users-top-artists-and-tracks
+`Get User's Top Items` `選artist/tracks`
+拿到最近聽的
+
+> B 區域
+
