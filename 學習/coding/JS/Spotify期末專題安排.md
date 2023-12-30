@@ -8,6 +8,7 @@
 >Front end
 
 [next.js tutorial](https://www.youtube.com/watch?v=qwhMyVVnmKM&t=2765s)
+[How To Use The Spotify API In Your React JS App (youtube.com)](https://www.youtube.com/watch?v=wBq3HCvYfUg)
 
 ---
 > 框架: 後端(Flask)+前端(nextjs)
@@ -37,7 +38,7 @@ https://developer.spotify.com/documentation/web-api/reference/get-users-top-arti
 `
 共50
 拿到最近50歌手的種類>>統計>>輸出
-// 拿到最近50歌曲比對最近50歌手 看集中度
+~~拿到最近50歌曲比對最近50歌手 看集中度~~
 
 > B 區域
 
@@ -56,3 +57,27 @@ https://developer.spotify.com/documentation/web-api/reference/get-users-top-arti
 
 > D 區域
 
+https://developer.spotify.com/documentation/web-api/reference/get-several-audio-features
+
+一次可以全部丟進去 讚
+
+提取 `instrumentalness` `energy` `speechiness` `valence` `tempo` `danceability` 六個參數>>比對最接近的三個組合成句子 >> 顯示在雷達圖上
+
+句子邏輯: normalize之後>> `你們都喜愛著**性和**性強、富含**的歌曲類型`
+
+> E 區域
+
+https://developer.spotify.com/documentation/web-api/reference/get-the-users-currently-playing-track
+
+拿到正在撥放曲目+照片
+
+> F 區域
+
+https://developer.spotify.com/documentation/web-api/reference/get-recommendations
+
+`https://api.spotify.com/v1/recommendations?seed_artists=4NHQUGzhtTLFvgF5SZesLK&seed_genres=classical%2Ccountry&seed_tracks=0c6xIDDpzE81m2q797ordA
+
+把D區拿到的共同音樂特徵平均丟進去(ALL)上下界線+A區共同種類+(如果有重複歌手的話)>>拿到推薦歌單(拜託10首就好 預設limit10 其中找到有url的在顯示 抱歉我真的無法了)>>預覽顯示(照片+會附贈mp3連結)
+
+如果有時間的話再變成Iframe 或是直接把推薦割去推到歌單裡面生成iframe
+(需要控制用戶權限 有點煩)
