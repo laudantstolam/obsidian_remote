@@ -9,6 +9,6 @@
 
 可以直接把你的coloors網址丟過來
 ```palette
-https://coolors.co/000f08-136f63-e0ca3c-f34213-3e2f5b
+https://coolors.co/dad7cd-a3b18a-588157-3a5a40-344e41
 ```
 
