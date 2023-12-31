@@ -81,3 +81,15 @@ https://developer.spotify.com/documentation/web-api/reference/get-recommendation
 
 如果有時間的話再變成Iframe 或是直接把推薦割去推到歌單裡面生成iframe
 (需要控制用戶權限 有點煩)
+
+---
+
+其實有三個方法
+
+第一個是標準的flask後端+next前端 中間利用proxy或是什麼方式連接顯示
+
+第二個是全部都由nextjs前端處理 然後讓前端卡 反正之後npm 會轉成static
+
+第三個是flask存成檔案內容 然後先跑一次存成static檔案 再由next存取 但是很蠢 所以不像用
+
+第四個方法是在flask render 前端 但也很蠢 所以也不想用QQ
