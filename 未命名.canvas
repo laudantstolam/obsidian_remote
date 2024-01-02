@@ -6,8 +6,10 @@
 		{"id":"a0797c3c72e907dc","type":"text","text":"專案","x":260,"y":-120,"width":100,"height":60},
 		{"id":"7e969f9a41bed989","type":"text","text":"程式","x":-460,"y":-120,"width":100,"height":60},
 		{"id":"39c24d2a57e0f7f6","type":"text","text":"年度目標","x":-175,"y":-300,"width":250,"height":60,"color":"2"},
-		{"id":"999e4d1ebe346d51","type":"text","text":"前端","x":-510,"y":320,"width":100,"height":60},
-		{"id":"9cc6f522d2b211d3","type":"text","text":"學習","x":-560,"y":-20,"width":100,"height":60}
+		{"id":"9cc6f522d2b211d3","type":"text","text":"學習","x":-540,"y":-40,"width":60,"height":80},
+		{"id":"7d9badb8fe1283b1","type":"text","text":"專案","x":-540,"y":60,"width":60,"height":80},
+		{"id":"999e4d1ebe346d51","type":"text","text":"前端","x":-460,"y":160,"width":100,"height":60},
+		{"id":"796a0c2a57feb962","x":-300,"y":-40,"width":160,"height":180,"type":"text","text":"閱讀坑單"}
 	],
 	"edges":[
 		{"id":"c475026cc0a09b15","fromNode":"39c24d2a57e0f7f6","fromSide":"bottom","toNode":"7e969f9a41bed989","toSide":"top"},
