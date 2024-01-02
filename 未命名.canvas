@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"aedb7a3c2d91d89b","type":"text","text":"閱讀","x":-280,"y":-120,"width":100,"height":60},
+		{"id":"071236261952379e","type":"text","text":"語言","x":-100,"y":-120,"width":100,"height":60},
+		{"id":"6d02e3c95c7d91e1","type":"text","text":"設計","x":80,"y":-120,"width":100,"height":60},
+		{"id":"a0797c3c72e907dc","type":"text","text":"專案","x":260,"y":-120,"width":100,"height":60},
+		{"id":"7e969f9a41bed989","type":"text","text":"程式","x":-460,"y":-120,"width":100,"height":60},
+		{"id":"39c24d2a57e0f7f6","type":"text","text":"年度目標","x":-175,"y":-300,"width":250,"height":60,"color":"2"},
+		{"id":"999e4d1ebe346d51","type":"text","text":"前端","x":-510,"y":320,"width":100,"height":60},
+		{"id":"9cc6f522d2b211d3","type":"text","text":"學習","x":-560,"y":-20,"width":100,"height":60}
+	],
+	"edges":[
+		{"id":"c475026cc0a09b15","fromNode":"39c24d2a57e0f7f6","fromSide":"bottom","toNode":"7e969f9a41bed989","toSide":"top"},
+		{"id":"e461c7855d0f7e83","fromNode":"39c24d2a57e0f7f6","fromSide":"bottom","toNode":"aedb7a3c2d91d89b","toSide":"top"},
+		{"id":"733eb520570da982","fromNode":"39c24d2a57e0f7f6","fromSide":"bottom","toNode":"071236261952379e","toSide":"top"},
+		{"id":"5a3387809de5f087","fromNode":"39c24d2a57e0f7f6","fromSide":"bottom","toNode":"6d02e3c95c7d91e1","toSide":"top"},
+		{"id":"00ea9a16cffff7ea","fromNode":"39c24d2a57e0f7f6","fromSide":"bottom","toNode":"a0797c3c72e907dc","toSide":"top"}
+	]
+}
