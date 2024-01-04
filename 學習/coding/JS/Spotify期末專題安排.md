@@ -62,7 +62,13 @@ https://developer.spotify.com/documentation/web-api/reference/get-several-audio-
 
 一次可以全部丟進去 讚
 
-提取 `instrumentalness` `energy` `speechiness` `valence` `tempo` `danceability` 六個參數>>比對最接近的三個組合成句子 >> 顯示在雷達圖上
+提取
+`instrumentalness`
+`energy`
+`speechiness`
+`valence` 
+`tempo` 
+`danceability` 六個參數>>比對最接近的三個組合成句子 >> 顯示在雷達圖上
 
 句子邏輯: normalize之後>> `你們都喜愛著**性和**性強、富含**的歌曲類型`
 
