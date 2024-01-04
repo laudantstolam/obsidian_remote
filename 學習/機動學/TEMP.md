@@ -326,3 +326,7 @@ $w_{C/a}=\frac{-1}{7}w_{A/a}=\frac{1}{7}w_{a}$
 
 radial component 逕向分量
 (ccw 90度 得到橫向分量transverse)
+
+倒置滑塊曲柄
+	記得加速度分析要加上Ac(科式加速度)，
+	加速度多邊形等號左右邊皆從OA出發
