@@ -9,7 +9,8 @@
 		{"id":"9cc6f522d2b211d3","type":"text","text":"學習","x":-540,"y":-40,"width":60,"height":80},
 		{"id":"7d9badb8fe1283b1","type":"text","text":"專案","x":-540,"y":60,"width":60,"height":80},
 		{"id":"999e4d1ebe346d51","type":"text","text":"前端","x":-460,"y":160,"width":100,"height":60},
-		{"id":"796a0c2a57feb962","x":-300,"y":-40,"width":160,"height":180,"type":"text","text":"閱讀坑單"}
+		{"id":"796a0c2a57feb962","type":"text","text":"閱讀坑單","x":-300,"y":-40,"width":160,"height":180},
+		{"id":"1b40c9541b21bd7b","x":276,"y":-358,"width":404,"height":178,"type":"text","text":"一些小小的雜紀錄\n2024沒啥大目標 就是一些小東西需要一步步達成吧\n\n語言\n-日文年底再說 短期不想看到了\n-德文吧 重拾一下\ntagalog或是印尼文感覺也很有趣\n\n設計-美感-藝術性\n\n閱讀-連俞涵\n\n專案-貓貓生日/portfolio/\n想做一點不太一樣的東西\n或許學一點???\nunity/AI之類的感覺還好 不過也值得多去了解(?\n想做的事情還有遠方等等暫時還想不到也不太想看到 還在自我恢復的療程中\n\n程式的話想要把資安的部分再多了解一點\n前後端之類的不想碰了(暫時)\n\n技能的話想碰一些音樂的東西 比如編曲或是之類的"}
 	],
 	"edges":[
 		{"id":"c475026cc0a09b15","fromNode":"39c24d2a57e0f7f6","fromSide":"bottom","toNode":"7e969f9a41bed989","toSide":"top"},
