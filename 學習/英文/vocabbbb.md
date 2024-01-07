@@ -103,4 +103,5 @@ to take the plunge 冒險一試==
 
 
 
-
+Phasing out   逐步淘汰
+Pinnacle / peak
