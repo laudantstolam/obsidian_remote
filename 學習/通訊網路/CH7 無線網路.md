@@ -39,7 +39,12 @@ BSS=1個基地台(AP)+1個行動台
 ### CSMA/CA 載波感測多重存取
 - 避免同時得訊框碰撞
 - 流程
-	![image.png|350](https://raw.githubusercontent.com/Ash0645/image_remote/main/202401071539188.png)
+	![image.png|375](https://raw.githubusercontent.com/Ash0645/image_remote/main/202401071539188.png)
+### 802.11 位址
+- Add1-BSSID(AP's MAC)
+- Add2
+- Add3-路由器's MAC
+- Add4-DA(目標)+SA(產生源)+TA(傳送源)+RA(接收源)
 
 ## Zigbee(802.15.4)
 - 低速短距離傳輸的無線協定
