@@ -15,3 +15,14 @@ A-E
 
 IP跟MASK進行AND得到NET ID
 
+>特殊IP
+
+NETID=0 網路主機
+HOSTID=0 網路本身
+NET+HOST=1 廣播
+127.0.0.0-127.255-255.255 迴路測試用
+
+>NAT
+
+交換HEADER讓多MAC共用IP
+
