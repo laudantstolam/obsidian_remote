@@ -14,7 +14,7 @@ Host ^ZuGQVxiC
 700
 Host ^8FEx8Vuo
 
-203
+253
 Host ^4rfSgP0T
 
 Router 0 ^WRytUC1l
@@ -87,7 +87,7 @@ Router 1 ^60gAwl2g
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.26",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.14",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -111,6 +111,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -141,6 +142,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -179,6 +181,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -209,6 +212,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -247,6 +251,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -257,8 +262,8 @@ Router 1 ^60gAwl2g
 		},
 		{
 			"type": "text",
-			"version": 428,
-			"versionNonce": 233885443,
+			"version": 432,
+			"versionNonce": 173546786,
 			"isDeleted": false,
 			"id": "4rfSgP0T",
 			"fillStyle": "hachure",
@@ -277,19 +282,20 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703426280899,
+			"updated": 1704622515964,
 			"link": null,
 			"locked": false,
 			"fontSize": 6.292254094174114,
 			"fontFamily": 1,
-			"text": "203\nHost",
-			"rawText": "203\nHost",
+			"text": "253\nHost",
+			"rawText": "253\nHost",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "203\nHost",
+			"originalText": "253\nHost",
 			"lineHeight": 1.25,
 			"baseline": 13
 		},
@@ -315,6 +321,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -353,6 +360,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -391,6 +399,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -429,6 +438,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -474,6 +484,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -519,6 +530,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -564,6 +576,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -609,6 +622,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -654,6 +668,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -699,6 +714,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -737,6 +753,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -775,6 +792,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -813,6 +831,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -851,6 +870,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -889,6 +909,7 @@ Router 1 ^60gAwl2g
 			"groupIds": [
 				"nNeUxEy4vECwl-x-GseM3"
 			],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -925,6 +946,7 @@ Router 1 ^60gAwl2g
 			"height": 6.322800696139873,
 			"seed": 219033721,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -961,6 +983,7 @@ Router 1 ^60gAwl2g
 			"height": 47.54404596038718,
 			"seed": 1722001817,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -997,6 +1020,7 @@ Router 1 ^60gAwl2g
 			"height": 45.72193672510866,
 			"seed": 1476433783,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1040,6 +1064,7 @@ Router 1 ^60gAwl2g
 			"height": 45.43393285816586,
 			"seed": 1693080409,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -1076,6 +1101,7 @@ Router 1 ^60gAwl2g
 			"height": 5.502958205841545,
 			"seed": 1224353721,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -1112,6 +1138,7 @@ Router 1 ^60gAwl2g
 			"height": 92.93362574816817,
 			"seed": 841137431,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -1140,6 +1167,7 @@ Router 1 ^60gAwl2g
 			"height": 6.322800696139873,
 			"seed": 219033721,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -1176,6 +1204,7 @@ Router 1 ^60gAwl2g
 			"height": 47.54404596038718,
 			"seed": 1722001817,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280899,
@@ -1212,6 +1241,7 @@ Router 1 ^60gAwl2g
 			"height": 45.72193672510866,
 			"seed": 1476433783,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1255,6 +1285,7 @@ Router 1 ^60gAwl2g
 			"height": 46.87008224870692,
 			"seed": 1693080409,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280900,
@@ -1291,6 +1322,7 @@ Router 1 ^60gAwl2g
 			"height": 0.18373843916069177,
 			"seed": 1769371129,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1334,6 +1366,7 @@ Router 1 ^60gAwl2g
 			"height": 7.873080776919633,
 			"seed": 1871015191,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280900,
@@ -1370,6 +1403,7 @@ Router 1 ^60gAwl2g
 			"height": 4.160172203001363,
 			"seed": 153735287,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280900,
@@ -1406,6 +1440,7 @@ Router 1 ^60gAwl2g
 			"height": 0.18373843916069177,
 			"seed": 1769371129,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1449,6 +1484,7 @@ Router 1 ^60gAwl2g
 			"height": 7.873080776919633,
 			"seed": 1871015191,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280900,
@@ -1485,6 +1521,7 @@ Router 1 ^60gAwl2g
 			"height": 4.160172203001363,
 			"seed": 153735287,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703426280900,
@@ -1521,6 +1558,7 @@ Router 1 ^60gAwl2g
 			"height": 0,
 			"seed": 831469465,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1564,6 +1602,7 @@ Router 1 ^60gAwl2g
 			"height": 0,
 			"seed": 1606029751,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1607,6 +1646,7 @@ Router 1 ^60gAwl2g
 			"height": 0,
 			"seed": 1606029751,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1650,6 +1690,7 @@ Router 1 ^60gAwl2g
 			"height": 0,
 			"seed": 831469465,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1693,6 +1734,7 @@ Router 1 ^60gAwl2g
 			"height": 7.971037154440873,
 			"seed": 1758234103,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1703468384226,
@@ -1710,68 +1752,75 @@ Router 1 ^60gAwl2g
 			"baseline": 5
 		},
 		{
-			"id": "6zO7KwKD",
 			"type": "text",
-			"x": 153.36443137665412,
-			"y": -167.4658848578981,
-			"width": 82.2573194225061,
-			"height": 5.526263293750527,
-			"angle": 0,
-			"strokeColor": "#e67700",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1215276781,
 			"version": 465,
 			"versionNonce": 2054082435,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1703426280900,
-			"link": null,
-			"locked": false,
-			"text": "這邊的10之後用來載遮罩最後面10個0用的",
-			"rawText": "這邊的10之後用來載遮罩最後面10個0用的",
-			"fontSize": 4.421010635000425,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 2.9999999999999964,
-			"containerId": null,
-			"originalText": "這邊的10之後用來載遮罩最後面10個0用的",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "YDyG9XNWRc3pZm0HIhWUa",
-			"type": "line",
-			"x": 112.96333837734386,
-			"y": -161.9146967844551,
-			"width": 39.62972325699775,
-			"height": 4.637520721124815,
-			"angle": 0,
-			"strokeColor": "#e67700",
-			"backgroundColor": "transparent",
+			"id": "6zO7KwKD",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 153.36443137665412,
+			"y": -167.4658848578981,
+			"strokeColor": "#e67700",
+			"backgroundColor": "transparent",
+			"width": 82.23846435546875,
+			"height": 5.526263293750531,
+			"seed": 1215276781,
 			"groupIds": [],
-			"roundness": {
-				"type": 2
-			},
-			"seed": 328197923,
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1703426280900,
+			"link": null,
+			"locked": false,
+			"fontSize": 4.421010635000425,
+			"fontFamily": 1,
+			"text": "這邊的10之後用來載遮罩最後面10個0用的",
+			"rawText": "這邊的10之後用來載遮罩最後面10個0用的",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "這邊的10之後用來載遮罩最後面10個0用的",
+			"lineHeight": 1.25,
+			"baseline": 3
+		},
+		{
+			"type": "line",
 			"version": 220,
 			"versionNonce": 1887144397,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "YDyG9XNWRc3pZm0HIhWUa",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 112.96333837734386,
+			"y": -161.9146967844551,
+			"strokeColor": "#e67700",
+			"backgroundColor": "transparent",
+			"width": 39.62972325699775,
+			"height": 4.637520721124815,
+			"seed": 328197923,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
 			"updated": 1703426289743,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -1781,194 +1830,7 @@ Router 1 ^60gAwl2g
 					39.62972325699775,
 					-4.637520721124815
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
-		},
-		{
-			"type": "text",
-			"version": 171,
-			"versionNonce": 848632931,
-			"isDeleted": true,
-			"id": "BS5qxsKa",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -61.707328951055246,
-			"y": -59.100445157775646,
-			"strokeColor": "#e67700",
-			"backgroundColor": "transparent",
-			"width": 14.125579833984375,
-			"height": 7.78116303439327,
-			"seed": 1148145465,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1703468381362,
-			"link": null,
-			"locked": false,
-			"fontSize": 6.224930427514616,
-			"fontFamily": 1,
-			"text": "網段1",
-			"rawText": "網段1",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "網段1",
-			"lineHeight": 1.25,
-			"baseline": 5
-		},
-		{
-			"type": "rectangle",
-			"version": 181,
-			"versionNonce": 1109626701,
-			"isDeleted": true,
-			"id": "4xRmejEqyarU2fwLQFerD",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -70.61723580500174,
-			"y": -63.83430499658803,
-			"strokeColor": "#e67700",
-			"backgroundColor": "transparent",
-			"width": 219.59210431481128,
-			"height": 47.398290487245674,
-			"seed": 2124175607,
-			"groupIds": [],
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1703468381362,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 404,
-			"versionNonce": 253335555,
-			"isDeleted": true,
-			"id": "ag6QZLpn",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -42.95933291832654,
-			"y": -58.283219422591,
-			"strokeColor": "#5c940d",
-			"backgroundColor": "transparent",
-			"width": 40.25328063964844,
-			"height": 6.694413867676941,
-			"seed": 616052055,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1703468381362,
-			"link": null,
-			"locked": false,
-			"fontSize": 5.355531094141552,
-			"fontFamily": 1,
-			"text": "120.158.8.0/22",
-			"rawText": "120.158.8.0/22",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "120.158.8.0/22",
-			"lineHeight": 1.25,
-			"baseline": 4
-		},
-		{
-			"id": "BCfqSIwWtf1kBr-RHdbzG",
-			"type": "arrow",
-			"x": 109.37979927278188,
-			"y": -162.54708414614447,
-			"width": 41.73767040764024,
-			"height": 4.848317848561578,
-			"angle": 0,
-			"strokeColor": "#e67700",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": {
-				"type": 2
-			},
-			"seed": 1945052835,
-			"version": 197,
-			"versionNonce": 1145708077,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1703426280900,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					41.73767040764024,
-					-4.848317848561578
-				]
-			],
-			"lastCommittedPoint": [
-				41.73767040764024,
-				-4.848317848561578
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "cOIfY8xD",
-			"type": "text",
-			"x": 173.0929847775091,
-			"y": -153.21934844781165,
-			"width": 8,
-			"height": 20,
-			"angle": 0,
-			"strokeColor": "#e67700",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1095470125,
-			"version": 2,
-			"versionNonce": 1948539171,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1703426280168,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 16,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 14,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			]
 		}
 	],
 	"appState": {
@@ -1986,16 +1848,26 @@ Router 1 ^60gAwl2g
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 225.37053619045238,
-		"scrollY": 300.0006640458296,
+		"scrollX": 288.0003144545281,
+		"scrollY": 263.3625902286916,
 		"zoom": {
-			"value": 2.965387905327571
+			"value": 3.120006653596787
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
 		"colorPalette": {},
 		"currentStrokeOptions": null,
-		"previousGridSize": null
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
 	},
 	"files": {}
 }
