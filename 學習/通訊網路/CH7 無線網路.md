@@ -34,7 +34,12 @@ BSS=1個基地台(AP)+1個行動台
 	IBSS
 
 ### 802.11 g/b/a
-
+- 802.11b 不同傳輸速率有不同調變
+- 802.11g 加強版 目前WLAN首選
+### CSMA/CA 載波感測多重存取
+- 避免同時得訊框碰撞
+- 流程
+	![image.png|350](https://raw.githubusercontent.com/Ash0645/image_remote/main/202401071539188.png)
 
 ## Zigbee(802.15.4)
 - 低速短距離傳輸的無線協定
@@ -62,7 +67,24 @@ BSS=1個基地台(AP)+1個行動台
 ### GSM/CDMA/GPRS
 - 蜂巢式細包
 - 小功率基地台取代高功率的
-### HSSCD
+### HSCSD
 - 高速電路交換數據
 - 大量檔案傳輸+多媒體
 - 多時槽
+### IP based network 3G
+### WCDMA 3.5G
+- 展頻技術
+- 序列碼
+### WAP
+- 荒謬系列的終結
+- 開放式 標準的無線應用協定
+### WiMAX 4G/5G
+- 50KM
+
+---
+## RFID
+- Reader + Tag 電磁感應
+## NFC 
+- 非接觸式P2P
+- 10cm
+- 耗電低 保密+安全性
