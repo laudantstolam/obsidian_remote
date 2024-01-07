@@ -17,7 +17,33 @@
 ### DSSS 直接序列展開
 - 訊號跟擴展碼XOR
 - 頻率變寬 功率變小
-### FHSS
+- <span style="background:rgba(240, 200, 0, 0.2)">WLAN</span>
+### FHSS 跳頻式展頻
+- 隨機的PN碼對應到頻率表進行調變
+- <span style="background:rgba(240, 200, 0, 0.2)">藍芽</span>
 ### 紅外線
 
-窄頻微波 展頻 WLAN 藍芽
+---
+### 802.11 WLAN
+BSS=1個基地台(AP)+1個行動台
+#### 拓樸
+1. Infrastructure-有用AP的WLAN
+	BSSID=AP的MAC
+1. Ad Hoc-沒有AP跟對外的WLAN
+	用多個無線行動裝置形成的獨立網路
+	IBSS
+
+### 802.11 g/b/a
+
+
+## Zigbee(802.15.4)
+- 低速短距離傳輸的無線協定
+- 使用於無線感測網路(小資料) 低速 低耗電
+- 適用: WLAN 射頻
+- 使用CSMA/CA
+- 物聯網的基礎
+
+## 行動通訊系統
+### FDMA
+### TDMA
+### CDMA
