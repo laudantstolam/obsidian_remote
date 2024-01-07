@@ -45,7 +45,9 @@ BSS=1個基地台(AP)+1個行動台
 - Add2
 - Add3-路由器's MAC
 - Add4-DA(目標)+SA(產生源)+TA(傳送源)+RA(接收源)
-
+### 藍芽
+- piconet-256 devices
+- scatternet
 ## Zigbee(802.15.4)
 - 低速短距離傳輸的無線協定
 - 使用於無線感測網路(小資料) 低速 低耗電
