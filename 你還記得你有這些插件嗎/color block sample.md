@@ -4,25 +4,41 @@
 print("jewiofj")
 ```
 
->[!question]+
+>[!note]
 
->[!failure]
+>[!abstract]
+>summary, tldr
 
->[!Danger]
+ >[!info]
+ >todo
+ 
+ >[!tip]
+ >hint, important
+
+>[!success]
+>check, done
+
+>[!question]
+>help, faq
+
+>[!warning]
+>caution, attention
+
+>[!failure] 
+>fail
+>missing
+
+>[!danger]
+>error
 
 >[!bug]
 
 >[!example]
 
 >[!quote]
+>cite
 
->[!warning]
-
->[!success]
-
->[!todo]
 
 [Callouts - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Callouts)
-
 
 
