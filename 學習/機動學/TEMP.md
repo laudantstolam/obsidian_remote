@@ -171,6 +171,8 @@ P34 筆記
 ---
 ### CH12 齒輪
 
+https://zhuanlan.zhihu.com/p/536136974
+
 保固>硬化+潤滑
 - 輪系
 	簡單 simple gear train
