@@ -124,9 +124,12 @@ P34 筆記
 
 ---
 ### CH10 凸輪
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202401101525417.png)
+
 - 雙滑塊
 	好處:改變運動方向
 	限制:氣壓缸行程變短
+
 disk cam with radial translating knife follower
 disk cam with offset translating roller follower
 diskcam with oscalating roller follower
