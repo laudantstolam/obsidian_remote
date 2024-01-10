@@ -124,26 +124,24 @@ P34 筆記
 
 ---
 ### CH10 凸輪
-![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202401101525417.png)
+![image.png|375](https://raw.githubusercontent.com/Ash0645/image_remote/main/202401101525417.png)
 
 - 雙滑塊
 	好處:改變運動方向
 	限制:氣壓缸行程變短
 
-disk cam with radial translating knife follower
-disk cam with offset translating roller follower
-diskcam with oscalating roller follower
+![image.png|325](https://raw.githubusercontent.com/Ash0645/image_remote/main/202401101806234.png)
+
 
 - 慣性力為抽象力
 - 低速凸輪不太需要考慮慣性(見P6  11/22)
 - 若0度與360度加速度斜率相同則無中斷
 - 往復直線運動 兩端減速>>簡協運動
-- 往復加工精度高
+- 往復加工    精度高
 - 期末考
 	凸輪
 	齒輪
 	連趕組運動分析
-	要買那個板子
 
 1. 畫基圓
 2. 以30度為單位分割
