@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"file","file":"03-學習/coding/member_dash with Mr. D/Sources.md","id":"38578ec441d63ef8","x":-720,"y":-300,"width":600,"height":400},
+		{"id":"64243d417f8ee02a","type":"file","file":"03-學習/coding/member_dash with Mr. D/some idea.md","x":-60,"y":-300,"width":700,"height":400},
+		{"type":"text","text":"[Figma Link](https://www.figma.com/file/kNZtvBgZXLGqqE70jObe3d/memberDash?type=design&mode=design&t=ynAC5qvGKsNk5EaF-0)","id":"72901bfc2ed39092","x":-720,"y":-440,"width":370,"height":60,"color":"3"},
+		{"id":"076d11640a2be95f","type":"file","file":"03-學習/coding/member_dash with Mr. D/清單.md","x":-720,"y":160,"width":600,"height":400},
+		{"id":"8a13b5cfa513ceb8","x":-720,"y":620,"width":556,"height":400,"type":"file","file":"03-學習/coding/member_dash with Mr. D/Drawings and voices.md"},
+		{"id":"17b2ef982b725482","x":-60,"y":160,"width":250,"height":400,"type":"text","text":"好糾結的一件事情\n目前圖片跟所有推特擷取下來的東西都無法顯示\n\n再想要透過reupload變成link的方式存取還是下載下來內簽或是再想想484有啥別的方法"}
+	],
+	"edges":[]
+}

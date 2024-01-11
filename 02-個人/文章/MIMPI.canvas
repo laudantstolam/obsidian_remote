@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ae83b6999a20ceb2","type":"file","file":"02-個人/文章/MIMPI-CN.md","x":-440,"y":40,"width":520,"height":400},
+		{"id":"998e2734f437ec6b","type":"file","file":"02-個人/文章/MIMPI-ID.md","x":-1180,"y":-420,"width":700,"height":400},
+		{"id":"7eb3552d31c8fe34","type":"file","file":"02-個人/文章/MIMPI-EN.md","x":-1180,"y":40,"width":700,"height":400},
+		{"id":"0a48c06a13561a69","type":"file","file":"02-個人/文章/MIMPI-JP.md","x":-440,"y":-420,"width":520,"height":400,"color":"1"},
+		{"id":"05f59ab24f713eed","x":356,"y":-311,"width":400,"height":625,"type":"file","file":"02-個人/文章/NOTF-EN.md"},
+		{"id":"38aeed574a4211a6","type":"file","file":"02-個人/文章/NOTF-CN.md","x":800,"y":-311,"width":400,"height":625}
+	],
+	"edges":[]
+}

@@ -1,0 +1,95 @@
+走向寬頻
+
+無線網路-無線電波
+有線網路-實體線路
+
+# 光傳輸
+## 紅外線
+- 直接連接-P2P
+- 散射連接-F2F
+- 全向連接-基地台
+## 雷射
+- 兩個LAN直接連接
+# 無線電波傳輸
+- 15cm-2km
+- 微波窄頻(洩密) 寬頻(干擾)>>解方=展頻
+## 展頻
+### DSSS 直接序列展開
+- 訊號跟擴展碼XOR
+- 頻率變寬 功率變小
+- <span style="background:rgba(240, 200, 0, 0.2)">WLAN</span>
+### FHSS 跳頻式展頻
+- 隨機的PN碼對應到頻率表進行調變
+- <span style="background:rgba(240, 200, 0, 0.2)">藍芽</span>
+### 紅外線
+
+---
+### 802.11 WLAN
+BSS=1個基地台(AP)+1個行動台
+#### 拓樸
+1. Infrastructure-有用AP的WLAN
+	BSSID=AP的MAC
+1. Ad Hoc-沒有AP跟對外的WLAN
+	用多個無線行動裝置形成的獨立網路
+	IBSS
+### 802.11 g/b/a
+- 802.11b 不同傳輸速率有不同調變
+- 802.11g 加強版 目前WLAN首選
+### CSMA/CA 載波感測多重存取
+- 避免同時得訊框碰撞
+- 流程
+	![image.png|375](https://raw.githubusercontent.com/Ash0645/image_remote/main/202401071539188.png)
+### 802.11 位址
+- Add1-BSSID(AP's MAC)
+- Add2
+- Add3-路由器's MAC
+- Add4-DA(目標)+SA(產生源)+TA(傳送源)+RA(接收源)
+### 藍芽
+- piconet-256 devices
+- scatternet
+## Zigbee(802.15.4)
+- 低速短距離傳輸的無線協定
+- 使用於無線感測網路(小資料) 低速 低耗電
+- 適用: WLAN 射頻
+- 使用CSMA/CA
+- 物聯網的基礎
+## 行動通訊系統
+### 演變
+| 1G | 2G | 2G | 2.5G | 3G |
+| ---- | ---- | ---- | ---- | ---- |
+| AMPS類比蜂巢 | 數位蜂巢 | 數位蜂巢 | 封包 | 數位蜂巢 |
+| FDMA | TDMA | CDMA | GSM | - |
+- 多重接收(MA)-要用再指派頻寬
+	- FDMA(切割等寬)
+	- TDMA 切割時間等長的時槽組成封包
+	- CDMA 用擴展碼調變
+### AMPS(1G)
+- 優點: 無回音干擾
+- 缺點: 品質差
+### 數位AMPS
+- 多工接取
+- 8個語音通道
+### GSM/CDMA/GPRS
+- 蜂巢式細包
+- 小功率基地台取代高功率的
+### HSCSD
+- 高速電路交換數據
+- 大量檔案傳輸+多媒體
+- 多時槽
+### IP based network 3G
+### WCDMA 3.5G
+- 展頻技術
+- 序列碼
+### WAP
+- 荒謬系列的終結
+- 開放式 標準的無線應用協定
+### WiMAX 4G/5G
+- 50KM
+
+---
+## RFID
+- Reader + Tag 電磁感應
+## NFC 
+- 非接觸式P2P
+- 10cm
+- 耗電低 保密+安全性
