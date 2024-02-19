@@ -39,14 +39,14 @@ Inspired by several Spotify expanded third-party project that expand into visual
 
 #### 3. Music Feature Analyzing 音樂特徵分析
 
-![image.png|450](https://raw.githubusercontent.com/Ash0645/image_remote/main/202402192205653.png)
+![image.png|375](https://raw.githubusercontent.com/Ash0645/image_remote/main/202402192205653.png)
 
 ##### TIME RANGE : 4 weeks
 ##### APIs
 - `Get User's Top Tracks`
 - `Get audio features`
 ##### PROCESS
-- Call API to get get user’s top 50 tracks
+- Call API to get user’s top 50 tracks
 - Call API to get tracks' feature
 - Calculate and normalize the result
 - Compare the closest values and generate music taste
@@ -54,20 +54,26 @@ Inspired by several Spotify expanded third-party project that expand into visual
 - turning numerical features into words to get better understand of the result
 - visulize extract parameter and compare on radar chart to observe
 
-#### 4. Music Feature Analyzing 音樂特徵分析
+#### 4. Generated Recommend Playlist
 
-![image.png|450](https://raw.githubusercontent.com/Ash0645/image_remote/main/202402192205653.png)
+![image.png|375](https://raw.githubusercontent.com/Ash0645/image_remote/main/202402192244063.png)
 
-##### TIME RANGE : 4 weeks
 ##### APIs
-- `Get User's Top Tracks`
-- `Get audio features`
+- `Get Recommendations`
 ##### PROCESS
-- Call API to get get user’s top 50 tracks
-- Call API to get tracks' feature
-- Calculate and normalize the result
-- Compare the closest values and generate music taste
+- Calculate the average of each features from 4.(audio features)
+- Passing into the API and generate a recommend playlist to display
 ##### MEANING
-- turning numerical features into words to get better understand of the result
-- visulize extract parameter and compare on radar chart to observe
+- Base on the analysis of the audio feature and further create a playlist to discover with friends
+- Explore simillar tastes songs with friends
+#### 5. Current Track & Preview
+
+![image.png|247](https://raw.githubusercontent.com/Ash0645/image_remote/main/202402192241777.png)
+
+##### APIs
+- `Get Current Track`
+##### PROCESS
+- Call API to get currently playong track and their demo
+##### MEANING
+- share what are you listening with friends
 
