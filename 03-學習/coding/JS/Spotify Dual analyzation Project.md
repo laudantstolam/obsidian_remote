@@ -51,5 +51,23 @@ Inspired by several Spotify expanded third-party project that expand into visual
 - Calculate and normalize the result
 - Compare the closest values and generate music taste
 ##### MEANING
-- turning numerical features into words to get better understand of the re
+- turning numerical features into words to get better understand of the result
+- visulize extract parameter and compare on radar chart to observe
+
+#### 4. Music Feature Analyzing 音樂特徵分析
+
+![image.png|450](https://raw.githubusercontent.com/Ash0645/image_remote/main/202402192205653.png)
+
+##### TIME RANGE : 4 weeks
+##### APIs
+- `Get User's Top Tracks`
+- `Get audio features`
+##### PROCESS
+- Call API to get get user’s top 50 tracks
+- Call API to get tracks' feature
+- Calculate and normalize the result
+- Compare the closest values and generate music taste
+##### MEANING
+- turning numerical features into words to get better understand of the result
+- visulize extract parameter and compare on radar chart to observe
 
