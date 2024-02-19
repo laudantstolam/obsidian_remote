@@ -14,14 +14,42 @@ Inspired by several Spotify expanded third-party project that expand into visual
 
 ### Data Processing Detail
 
-#### 1. Music Genere 近期收聽種類
+#### 1. Music Genere Preference 近期收聽種類
 
 ![image.png|213](https://raw.githubusercontent.com/Ash0645/image_remote/main/202402191549525.png)
+##### TIME RANGE : 6 months
 ##### APIs
 - `Get User's Top Items`
-- `https://api.spotify.com/v1/me/top/artists?time_range=medium_term` 
-- `https://api.spotify.com/v1/me/top/tracks?time_range=medium_term`
 ##### PROCESS
-1. get user's top 50 trend artist's genere 
-2. calculate the top generes
-3. return and 
+- Call API to get user's top 50 trend artist's genere
+- Calculate the top generes that's repeated more that 5
+##### MEANING
+- visulize the music genere preference and percentage
+
+#### 2. Trending Artist 近期收聽藝人
+
+![image.png|255](https://raw.githubusercontent.com/Ash0645/image_remote/main/202402192151449.png)
+##### TIME RANGE : 4 weeks
+##### APIs
+- `Get User's Top Artists`
+##### PROCESS
+- Call API to get get user’s top 3 artists' link and profile image
+##### MEANING
+- present what we are listening to recently
+
+#### 3. Music Feature Analyzing 音樂特徵分析
+
+![image.png|450](https://raw.githubusercontent.com/Ash0645/image_remote/main/202402192205653.png)
+
+##### TIME RANGE : 4 weeks
+##### APIs
+- `Get User's Top Tracks`
+- `Get audio features`
+##### PROCESS
+- Call API to get get user’s top 50 tracks
+- Call API to get tracks' feature
+- Calculate and normalize the result
+- Compare the closest values and generate music taste
+##### MEANING
+- turning numerical features into words to get better understand of the re
+
