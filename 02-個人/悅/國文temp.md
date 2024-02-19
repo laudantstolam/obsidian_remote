@@ -63,10 +63,4 @@
 　　交給前方沒有標出的航綫!  
 　　徐敬亞（1950－）
 
----
-![image.png|157](https://raw.githubusercontent.com/Ash0645/image_remote/main/202312111108165.png)
-學習到的東西
-適合什麼樣的人
-	限制
-總體收穫
-關於mentor
+

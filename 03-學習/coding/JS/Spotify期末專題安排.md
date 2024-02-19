@@ -35,8 +35,7 @@
 
 https://developer.spotify.com/documentation/web-api/reference/get-users-top-artists-and-tracks
 `https://api.spotify.com/v1/me/top/artists?time_range=medium_term` 
-`https://api.spotify.com/v1/me/top/tracks?time_range=medium_term
-`
+`https://api.spotify.com/v1/me/top/tracks?time_range=medium_term`
 共50
 拿到最近50歌手的種類>>統計>>輸出
 ~~拿到最近50歌曲比對最近50歌手 看集中度~~
