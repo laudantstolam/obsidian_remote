@@ -8,10 +8,10 @@
 		{"id":"071236261952379e","type":"text","text":"語言","x":-60,"y":-120,"width":100,"height":60},
 		{"id":"a0797c3c72e907dc","type":"text","text":"專案","x":320,"y":-120,"width":100,"height":60},
 		{"id":"92fe88712c880d7d","type":"text","text":"測試6個月的可行性","x":-119,"y":-40,"width":220,"height":50},
-		{"id":"7c1ce32053d577d1","type":"text","text":"要不還是烤一下N1跟TOEFL IBT吧","x":-119,"y":30,"width":220,"height":140},
 		{"id":"796a0c2a57feb962","type":"text","text":"30本","x":-280,"y":-40,"width":100,"height":50},
-		{"id":"000b1ab577480a0a","x":-465,"y":-30,"width":110,"height":60,"type":"text","text":"Rust"},
-		{"id":"5de2aaf4ba08e8d8","x":-780,"y":50,"width":250,"height":176,"type":"text","text":"CS\n- Burpsuite\n- finish picoCTFs"}
+		{"id":"5de2aaf4ba08e8d8","type":"text","text":"CS\n- Burpsuite\n- finish picoCTFs\n- HTBGO","x":-780,"y":50,"width":250,"height":176},
+		{"id":"66404afad8bc440b","x":-135,"y":30,"width":250,"height":60,"type":"text","text":"年底前: N1補習班\n年中: 補一下TOEFLIBT"},
+		{"id":"000b1ab577480a0a","type":"text","text":"Rust","x":-465,"y":-40,"width":110,"height":60}
 	],
 	"edges":[
 		{"id":"c475026cc0a09b15","fromNode":"39c24d2a57e0f7f6","fromSide":"bottom","toNode":"7e969f9a41bed989","toSide":"top"},
