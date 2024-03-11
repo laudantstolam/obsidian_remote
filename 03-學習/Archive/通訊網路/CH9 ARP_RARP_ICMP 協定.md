@@ -1,7 +1,7 @@
-| MAC | IP |
-| ---- | ---- |
-| L2 | L3 |
-| ONLY | MULTY |
+| MAC   | IP    |
+| ----- | ----- |
+| L2    | L3    |
+| ONLY  | MULTY |
 | 32bit | 24bit |
 
 >ARP用途
