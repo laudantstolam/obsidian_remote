@@ -37,3 +37,8 @@ bash: $'\n': command not found
 (???/????? -?)
 
 ![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202403181118818.png)
+SansAlpha$  (/???/????/???? | /???/??????)
+/bin/base32: extra operand ‘/bin/base64’
+Try '/bin/base32 --help' for more information.
+cpgr: wrong number of arguments, -h for usage
+cpgr: no changes
