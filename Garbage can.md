@@ -33,3 +33,7 @@ SansAlpha$ '
 
 SansAlpha$ '
 bash: $'\n': command not found
+
+(???/????? -?)
+
+![image.png](https://raw.githubusercontent.com/Ash0645/image_remote/main/202403181118818.png)
